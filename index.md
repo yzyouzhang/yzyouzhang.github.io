@@ -3,18 +3,18 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
 
 ## About me
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
+I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/).
 
+My research interests include 
+speech and audio processing for virtual and augmented reality, 
+such as audio-visual rendering and analysis, synthetic voice spoofing detection, and personalized spatial audio.
 
+If you would like to collaborate with me or discuss anything, drop me an email.
 
-## News
-
-* [Mar 2022] Our UR-AIR submission for the SASV challenge 2022 achieved rank #11.
-* [Feb 2022] I am invited to serve as a PC member for the AES 152nd Convention Papers.
-* 
+## Selected Publications
+[1] You Zhang, Fei Jiang, and Zhiyao Duan, One-class learning towards synthetic voice spoofing detection, IEEE Signal Processing Letters, vol. 28, pp. 937-941, 2021.
   
