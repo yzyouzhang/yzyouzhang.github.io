@@ -4,8 +4,6 @@ excerpt: "About Me"
 ---
 
 
-## About me
-
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/).
 Take a look at [my CV](./You_Neil_Zhang_CV_2022_Nov.pdf).
@@ -19,7 +17,7 @@ fond of movies, paddle boarding, and traveling.
 
 If you would like to collaborate with me or discuss anything, welcome to email me.
 
-## Selected Publications
+### Selected Publications
 [1] You Zhang, Fei Jiang, and Zhiyao Duan, 
 **One-class learning towards synthetic voice spoofing detection**, 
 *IEEE Signal Processing Letters*, 

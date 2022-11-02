@@ -3,7 +3,7 @@ layout: post-index
 title: Publications
 ---
 
-### Preprint
+### Preprints (In submission)
 <p>[3] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt;</p>
 
 <p>[2] Siwen Ding, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing</strong>, 2022. &lt;<a href="https://arxiv.org">arXiv</a>&gt;</p>
