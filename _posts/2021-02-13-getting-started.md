@@ -3,8 +3,7 @@ layout: post
 title: 
 excerpt: 
 modified: 2/13/2021, 10:00:24
-tags: [intro, beginner, jekyll, tutorial]
-comments: true
+comments: false
 category: blog
 ---
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
