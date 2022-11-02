@@ -26,7 +26,9 @@ vol. 28, pp. 937-941, 2021.
 [[link](https://ieeexplore.ieee.org/document/9417604)] [[arXiv](https://arxiv.org/abs/2010.13995)] [[code](https://github.com/yzyouzhang/AIR-ASVspoof)] 
 [[video](https://www.youtube.com/watch?v=pX9aq8CaIvk)] [[slides](https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf)] [[project](https://labsites.rochester.edu/air/projects/asvspoof.html)]
 
-
+<!-- # COMMENT EXPLAINING THIS PAGE -- 
+[2] You Zhang, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech 2021</em>, pp. 4309-4313, 2021. &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
+-->
 
 
 
