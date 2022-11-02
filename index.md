@@ -8,11 +8,12 @@ excerpt: "About Me"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/).
+Take a look at [my CV](./You_Neil_Zhang_CV_2022_Nov.pdf).
 
 My research interests lie in 
 speech and audio processing for virtual and augmented reality, 
-including synthetic voice spoofing detection, personalized spatial audio, 
-and audio-visual rendering and analysis.
+including **synthetic voice spoofing detection, personalized spatial audio, 
+and audio-visual rendering and analysis**.
 In my spare time, I am
 fond of movies, paddle boarding, and traveling.
 
