@@ -2,8 +2,8 @@
 - title: Home
   url: /
 
-#- title: Contact
-#  url: /contact/
+- title: Publications
+  url: /research/
 
 # - title: Presentations
 #   url: /presentations/
@@ -11,5 +11,6 @@
 - title: Resume
   url: /You_Neil_Zhang_CV_2022_Nov.pdf
 
-- title: Publications
-  url: /research/
+- title: Miscellaneous
+  url: /miscellaneous/
+
