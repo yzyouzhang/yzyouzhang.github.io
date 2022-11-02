@@ -13,16 +13,16 @@ owner:
   website: https://yzyouzhang.com
   email: yzyouzhang@gmail.com #personal email
 #  twitter: RCLibraries
-  linkedin: #you-neil-zhang
+  linkedin: you-neil-zhang
   github: yzyouzhang
-  orcid: #orcid id
-  researchgate: #researchgate username 
+  orcid: 0000-0002-4649-278X #orcid id
+  researchgate: You-Zhang-16 #researchgate username
   mendeley: #mendeley username 
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #google scholar 'user' id 
+    scholar: nYtHcRAAAAAJ #google scholar 'user' id
 #  facebook: rivercampuslibraries
 #  instagram: rclibraries
   bing-verify:
@@ -34,7 +34,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: RCLibraries
+  youtube: #RCLibraries
   soundcloud: #username
   weibo: #username
   flickr: #username
