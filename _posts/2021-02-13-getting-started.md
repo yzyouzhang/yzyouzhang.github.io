@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Building your Own Scholarly Website
-excerpt: "A step-by-step guide to creating your own academic website with free hosting using GitHub and Jekyll"
+title: 
+excerpt: 
 modified: 2/13/2021, 10:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
