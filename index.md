@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "About Me..."
+excerpt: "About Me"
 ---
 
 
@@ -11,9 +11,12 @@ I am a PhD student at the [Audio Information Research Lab](https://labsites.roch
 
 My research interests lie in 
 speech and audio processing for virtual and augmented reality, 
-including synthetic voice spoofing detection, personalized spatial audio, and audio-visual rendering and analysis.
+including synthetic voice spoofing detection, personalized spatial audio, 
+and audio-visual rendering and analysis.
+In my spare time, I am
+fond of movies, paddle boarding, and traveling.
 
-If you would like to collaborate with me or discuss anything, drop me an email.
+If you would like to collaborate with me or discuss anything, welcome to email me.
 
 ## Selected Publications
 [1] You Zhang, Fei Jiang, and Zhiyao Duan, 
