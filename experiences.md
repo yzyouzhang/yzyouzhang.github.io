@@ -7,7 +7,6 @@ layout: page
 ## Industrial
 
 <table width="900" cellpadding="20">
-<tr>
 <td width="100px", align="center">
     <img src="./images/tencentAI.png" width="100px" u="image"  />
 </td>
@@ -25,7 +24,6 @@ layout: page
         </li>
     </ul>
 </td>
-</tr>
 </table>
 
 
@@ -89,7 +87,7 @@ layout: page
             R&D Intern (Mar 2019 - Jun 2019)
         </li>
         <li>
-            vehicle behavioral prediction with urban vehicle trajectory data
+            Vehicle Behavioral Prediction with Urban Vehicle Trajectory Data
         </li>
     </ul>
 </td>
