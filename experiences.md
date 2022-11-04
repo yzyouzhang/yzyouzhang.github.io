@@ -9,7 +9,7 @@ layout: page
 <table width="900" cellpadding="20">
 <tr>
 <td width="100px", align="center">
-    <img src="images/tencentAI.png" width="100px" u="image"  />
+    <img src="./images/tencentAI.png" width="100px" u="image"  />
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
@@ -32,7 +32,7 @@ layout: page
 <table width="900" cellpadding="20">
 <tr>
 <td width="100px", align="center">
-    <img src="images/bytedance.png" width="100px" u="image"  />
+    <img src="./images/bytedance.png" width="100px" u="image"  />
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
@@ -55,7 +55,7 @@ layout: page
 <table width="900" cellpadding="20">
 <tr>
 <td width="100px", align="center">
-    <img src="images/tencentmedia.jpeg" width="100px" u="image"  />
+    <img src="./images/tencentmedia.jpeg" width="100px" u="image"  />
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
@@ -77,7 +77,7 @@ layout: page
 <table width="900" cellpadding="20">
 <tr>
 <td width="100px", align="center">
-    <img src="images/momenta.webp" width="100px" u="image"  />
+    <img src="./images/momenta.pdf" width="100px" u="image"  />
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
