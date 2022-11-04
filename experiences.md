@@ -32,24 +32,33 @@ layout: page
 <table width="900" cellpadding="20">
 <tr>
 <td width="100px", align="center">
-    <img alt="Bytedance" src="https://yzyouzhang.com/images/bytedance.png" width="100px" u="image"  />
+    
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
-    <ul>
-        <li>
-            <b> Bytedance / Tiktok </b> - Speech, Audio & Music Intelligence (Mountain View, CA, USA)
-        </li>
-        <li>
-            Research Intern (May 2021 - Aug 2021)
-        </li>
-        <li>
-            Audio-visual Active Speaker Detection
-        </li>
-    </ul>
+
 </td>
 </tr>
 </table>
+
+<div style="width:100%">
+    <div style="display:inline-block;width:100px">
+        <img alt="Bytedance" src="https://yzyouzhang.com/images/bytedance.png" width="100px" u="image"  />
+    </div>
+    <div style="display:inline-block;width:calc(100%-100px);">
+            <ul>
+            <li>
+                <b> Bytedance / Tiktok </b> - Speech, Audio & Music Intelligence (Mountain View, CA, USA)
+            </li>
+            <li>
+                Research Intern (May 2021 - Aug 2021)
+            </li>
+            <li>
+                Audio-visual Active Speaker Detection
+            </li>
+        </ul>
+    </div>
+</div>
 
 
 <table width="900" cellpadding="20">
