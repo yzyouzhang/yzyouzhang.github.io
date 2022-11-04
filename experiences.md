@@ -1,6 +1,6 @@
 ---
 title: Experiences
-layout: resume
+layout: page
 ---
 
 
