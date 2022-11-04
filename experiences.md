@@ -7,8 +7,8 @@ layout: page
 ## Industrial
 
 <table width="900" cellpadding="20">
-<td width="100px", align="center">
-    <img src="./images/tencentAI.png" width="100px" u="image"  />
+<td width="100", align="center">
+    <img src="./images/tencentAI.png" width="100" u="image"  />
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
