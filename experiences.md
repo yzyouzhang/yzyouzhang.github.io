@@ -7,8 +7,9 @@ layout: page
 ## Industrial
 
 <table width="900" cellpadding="20">
-<td width="100", align="center">
-    <img src="./images/tencentAI.png" width="100" u="image"  />
+<tr>
+<td width="100px", align="center">
+    <img alt="Tencent AI Lab" src="https://yzyouzhang.com/images/tencentAI.png" width="100px" u="image"  />
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
@@ -24,13 +25,14 @@ layout: page
         </li>
     </ul>
 </td>
+</tr>
 </table>
 
 
 <table width="900" cellpadding="20">
 <tr>
 <td width="100px", align="center">
-    <img src="./images/bytedance.png" width="100px" u="image"  />
+    <img alt="Bytedance" src="https://yzyouzhang.com/images/bytedance.png" width="100px" u="image"  />
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
@@ -53,7 +55,7 @@ layout: page
 <table width="900" cellpadding="20">
 <tr>
 <td width="100px", align="center">
-    <img src="./images/tencentmedia.jpeg" width="100px" u="image"  />
+    <img src="https://yzyouzhang.com/images/tencentmedia.jpeg" width="100px" u="image"  />
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
@@ -75,7 +77,7 @@ layout: page
 <table width="900" cellpadding="20">
 <tr>
 <td width="100px", align="center">
-    <img src="./images/momenta.pdf" width="100px" u="image"  />
+    <img src="https://yzyouzhang.com/images/momenta.jpg" width="100px" u="image"  />
 </td>
 <!-- <td width="44">&nbsp;</td> -->
 <td width = "800", align="left">
