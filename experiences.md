@@ -6,94 +6,65 @@ layout: page
 
 ## Industrial
 
-<table width="900" cellpadding="20">
-<tr>
-<td width="100px", align="center">
-    <img alt="Tencent AI Lab" src="https://yzyouzhang.com/images/tencentAI.png" width="100px" u="image"  />
-</td>
-<!-- <td width="44">&nbsp;</td> -->
-<td width = "800", align="left">
-    <ul>
-        <li>
-            <b> Tencent America </b> - Tencent AI Lab (Bellevue, WA, USA)
-        </li>
-        <li>
-            Research Intern (May 2022 - Aug 2022)
-        </li>
-        <li>
-            Multi-Channel Audio-visual Speaker Diarization
-        </li>
-    </ul>
-</td>
-</tr>
-</table>
+<b> Tencent America </b> - Tencent AI Lab (Bellevue, WA, USA)
+<ul>
+    <li>
+        Research Intern (May 2022 - Aug 2022)
+    </li>
+    <li>
+        Multi-Channel Audio-visual Speaker Diarization
+    </li>
+    <li>
+        Mentored by <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ">Dr. Shi-Xiong Zhang</a>
+    </li>
+</ul>
 
 
 
 
-<div style="width:900">
-    <div style="display:inline-block;width:100px">
-        <img alt="Bytedance" src="https://yzyouzhang.com/images/bytedance.png" width="100px" u="image"  />
-    </div>
-    <div style="display:inline-block;width:800;">
-            <ul>
-            <li>
-                <b> Bytedance / Tiktok </b> - Speech, Audio & Music Intelligence (Mountain View, CA, USA)
-            </li>
-            <li>
-                Research Intern (May 2021 - Aug 2021)
-            </li>
-            <li>
-                Audio-visual Active Speaker Detection
-            </li>
-        </ul>
+<b> Bytedance / Tiktok </b> - Speech, Audio & Music Intelligence (Mountain View, CA, USA)
+<ul>
+<li>
+    Research Intern (May 2021 - Aug 2021)
+</li>
+<li>
+    Audio-visual Active Speaker Detection
+</li>
+<li>
+Mentored by <a href="https://scholar.google.com/citations?user=5BusdUwAAAAJ">Dr. Ming Tu</a>
+</li>
+</ul>
     </div>
 </div>
 
 
-<table width="900" cellpadding="20">
-<tr>
-<td width="100px", align="center">
-    <img src="https://yzyouzhang.com/images/tencentmedia.jpeg" width="100px" u="image"  />
-</td>
-<!-- <td width="44">&nbsp;</td> -->
-<td width = "800", align="left">
-    <ul>
-        <li>
-            <b> Tencent </b> - Tencent Media Lab (Shenzhen, Guangdong, China)
-        </li>
-        <li>
-            Research Intern (Jun 2019 - Aug 2019)
-        </li>
-        <li>
-            Perceptual Loss Design for Mask-based Speech Enhancement
-        </li>
-    </ul>
-</td>
-</tr>
-</table>
+<b> Tencent </b> - Tencent Media Lab (Shenzhen, Guangdong, China)
+<ul>
+    <li>
+        Research Intern (Jun 2019 - Aug 2019)
+    </li>
+    <li>
+        Perceptual Loss Design for Mask-based Speech Enhancement
+    </li>
+    <li>
+Mentored by <a href="https://scholar.google.com/citations?user=NGejHPcAAAAJ">Dr. Yannan Wang</a>
+</li>
+</ul>
 
-<table width="900" cellpadding="20">
-<tr>
-<td width="100px", align="center">
-    <img src="https://yzyouzhang.com/images/momenta.jpg" width="100px" u="image"  />
-</td>
-<!-- <td width="44">&nbsp;</td> -->
-<td width = "800", align="left">
-    <ul>
-        <li>
-            <b> Momenta </b> - Level4 Urban Autonomous Driving (Suzhou, Jiangsu, China)
-        </li>
-        <li>
-            R&D Intern (Mar 2019 - Jun 2019)
-        </li>
-        <li>
-            Vehicle Behavioral Prediction with Urban Vehicle Trajectory Data
-        </li>
-    </ul>
-</td>
-</tr>
-</table>
+
+<b> Momenta.ai </b> - Level4 Urban Autonomous Driving (Suzhou, Jiangsu, China)
+<ul>
+    <li>
+        R&D Intern (Mar 2019 - Jun 2019)
+    </li>
+    <li>
+        Vehicle Behavioral Prediction with Urban Vehicle Trajectory Data
+    </li>
+    <li>
+Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnhH-cAAAAJ">Dr. Jie Chen</a>
+</li>
+</ul>
+
 
 ## Teaching
 
