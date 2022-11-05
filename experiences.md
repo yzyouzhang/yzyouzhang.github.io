@@ -34,8 +34,6 @@ layout: page
 Mentored by <a href="https://scholar.google.com/citations?user=5BusdUwAAAAJ">Dr. Ming Tu</a>
 </li>
 </ul>
-    </div>
-</div>
 
 
 <b> Tencent </b> - Tencent Media Lab (Shenzhen, Guangdong, China)
@@ -84,13 +82,13 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 
 ### Students Mentored
 
-**Yongyi Zang**, AME Undergrad@UR
+**Yongyi Zang**, Audio & Music Engineering Undergrad@UR
 
-**Siwen Ding**, DS master@Columbia
+**Siwen Ding**, Data Science Master@Columbia
 
 **Abudukelimu Wuerkaixi**, PhD student@Tsinghua
 
-**Xinhui Cheng**, CS Master@UR, Next Move: PhD student@Lehigh
+**Xinhui Cheng**, Computer Science Master@UR, Next Move: PhD student@Lehigh
 
 
 ## Services
