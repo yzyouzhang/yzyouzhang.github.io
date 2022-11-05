@@ -20,8 +20,6 @@ layout: page
 </ul>
 
 
-
-
 <b> Bytedance / Tiktok </b> - Speech, Audio & Music Intelligence (Mountain View, CA, USA)
 <ul>
 <li>
@@ -82,13 +80,13 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 
 ### Students Mentored
 
-**Yongyi Zang**, Audio & Music Engineering Undergrad@UR
+**Yongyi (Colin) Zang**, Audio & Music Engineering Undergrad@UR
 
-**Siwen Ding**, Data Science Master@Columbia
+**Siwen (Sivan) Ding**, Data Science Master@Columbia
 
 **Abudukelimu Wuerkaixi**, PhD student@Tsinghua
 
-**Xinhui Cheng**, Computer Science Master@UR, Next Move: PhD student@Lehigh
+**Xinhui Chen**, Computer Science Master@UR, Next Move: PhD student@Lehigh
 
 
 ## Services
