@@ -4,11 +4,11 @@ title: Publications
 ---
 
 ### Preprints (In submission)
-<p>[3] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt;</p>
+<p>[3] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/hrtf_field">code</a>&gt; </p>
 
-<p>[2] Siwen Ding, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing</strong>, 2022. &lt;<a href="https://arxiv.org">arXiv</a>&gt;</p>
+<p>[2] Siwen Ding, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2211.02718">arXiv</a>&gt; &lt;<a href="https://github.com/sivannavis/samo">code</a>&gt; </p>
 
-<p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt;</p>
+<p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
 
 ### Book Chapters
 
@@ -18,7 +18,7 @@ title: Publications
 
 <p>[2] Sefik Emre Eskimez, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Speech Driven Talking Face Generation From a Single Image and an Emotion Condition</strong>, <em>IEEE Transactions on Multimedia</em>, vol. 24, pp. 3480-3490, 2022. &lt;<a href="https://ieeexplore.ieee.org/document/9496264">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2008.03592">arXiv</a>&gt; &lt;<a href="https://github.com/eeskimez/emotalkingface">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/projects/tfaceemo.html">web</a>&gt;</p>
 
-<p>[1] <strong>You Zhang</strong>, Fei Jiang, and Zhiyao Duan, <strong>One-Class Learning Towards Synthetic Voice Spoofing Detection</strong>, <em>IEEE Signal Processing Letters</em>, vol. 28, pp. 937-941, 2021. &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21oneclass.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/AIR-ASVspoof">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf">poster</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf">slides</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=pX9aq8CaIvk">video</a>&gt; </p>
+<p>[1] <strong>You Zhang</strong>, Fei Jiang, and Zhiyao Duan, <strong>One-Class Learning Towards Synthetic Voice Spoofing Detection</strong>, <em>IEEE Signal Processing Letters</em>, vol. 28, pp. 937-941, 2021. &lt;<a href="https://ieeexplore.ieee.org/document/9417604">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2010.13995">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/AIR-ASVspoof">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf">poster</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf">slides</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=pX9aq8CaIvk">video</a>&gt; </p>
 
 
 ### Conferences and Workshops
