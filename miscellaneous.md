@@ -4,7 +4,8 @@ layout: page
 ---
 
 ## About my name
-My first name, "You (优)", means *Excellent* in Mandarin Chinese. Its pronunciation may cause misunderstanding when people refer to me, especially in a group discussion.
+My first name, "You (优)", means *Excellent* in Mandarin Chinese. 
+Its pronunciation may cause misunderstanding in English when people refer to me, especially in a group discussion.
 Hence, I choose to go by "Neil", and this name originates from an Irish word meaning *Champion*. I think this nickname aligns with the idea of my given name.  
 
 ## Besides research
