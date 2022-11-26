@@ -16,6 +16,8 @@ If you are interested in my research,
 or would like collaborate with me, welcome to email me.
 
 ### Selected Publications
+(For full list, see [Publications](https://yzyouzhang.com/research/))
+
 [1] You Zhang, Fei Jiang, and Zhiyao Duan, 
 **One-Class Learning Towards Synthetic Voice Spoofing Detection**, 
 *IEEE Signal Processing Letters*, 
