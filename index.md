@@ -9,11 +9,11 @@ I am a PhD student at the [Audio Information Research Lab](https://labsites.roch
 Take a look at [my CV](./You_Neil_Zhang_CV_2022_Nov.pdf).
 
 My research interests lie in speech and audio processing for virtual and augmented reality.
-My recent work has focused on **synthetic speech detection, personalized spatial audio, and audio-visual rendering and analysis**.
+My recent work has focused on **personalized spatial audio, synthetic speech detection, and audio-visual rendering and analysis**.
 In my spare time, I am fond of movies, paddle boarding, and traveling.
 
 If you are interested in my research, 
-or would like collaborate with me, welcome to email me.
+or would like collaborate with me, you are welcome to email me.
 
 ### Selected Publications
 (For full list, see [Publications](https://yzyouzhang.com/research/))
