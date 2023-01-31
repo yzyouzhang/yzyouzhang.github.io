@@ -12,7 +12,7 @@ title: Publications
 
 ### Book Chapters
 
-<p>[1] <strong>You Zhang</strong>, Fei Jiang, Ge Zhu, Xinhui Chen, and Zhiyao Duan, <strong>Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks and Channel Variation</strong>, <em>Handbook of Biometric Anti-spoofing (3rd edition)</em>, Springer, 2022. (to be published) &lt;<a href="https://github.com/yzyouzhang/HBAS_chapter_voice3">code</a>&gt; </p>
+<p>[1] <strong>You Zhang</strong>, Fei Jiang, Ge Zhu, Xinhui Chen, and Zhiyao Duan, <strong>Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks and Channel Variation</strong>, <em>Handbook of Biometric Anti-spoofing (3rd edition)</em>, Springer, 2023. (to be published)  &lt;<a href="https://link.springer.com/book/9789811952876">link</a>&gt; &lt;<a href="https://github.com/yzyouzhang/HBAS_chapter_voice3">code</a>&gt; </p>
 
 ### Journals
 
