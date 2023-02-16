@@ -15,6 +15,13 @@ In my spare time, I am fond of movies, paddle boarding, and traveling.
 If you are interested in my research, 
 or would like collaborate with me, you are welcome to email me.
 
+
+### News
+
+[2022/02] Two papers accepted by ICASSP 2023. ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718))
+[2022/02] Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [[slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf)]
+
+
 ### Selected Publications
 (For full list, see [Publications](https://yzyouzhang.com/research/))
 
@@ -31,8 +38,6 @@ vol. 28, pp. 937-941, 2021.
 
 [3] Sefik Emre Eskimez, You Zhang, and Zhiyao Duan, **Speech Driven Talking Face Generation From a Single Image and an Emotion Condition**, *IEEE Transactions on Multimedia*, vol. 24, pp. 3480-3490, 2022. 
 [[link](https://ieeexplore.ieee.org/document/9496264)] [[arXiv](https://arxiv.org/abs/2008.03592)] [[code](https://github.com/eeskimez/emotalkingface)] [[project](https://labsites.rochester.edu/air/projects/tfaceemo.html)]
-
-
 
 
 
