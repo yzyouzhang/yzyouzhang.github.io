@@ -19,6 +19,7 @@ or would like collaborate with me, you are welcome to email me.
 ### News
 
 [2022/02] Two papers accepted by ICASSP 2023. ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718))
+
 [2022/02] Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [[slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf)]
 
 
@@ -33,7 +34,7 @@ vol. 28, pp. 937-941, 2021.
 [[video](https://www.youtube.com/watch?v=pX9aq8CaIvk)] [[poster](https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf)] [[slides](https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf)] [[project](https://labsites.rochester.edu/air/projects/asvspoof.html)]
 
 [2] You Zhang, Yuxiang Wang, and Zhiyao Duan,
-**HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields**, 2022. 
+**HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields**, accepted by ICASSP 2023. 
 [[arXiv](https://arxiv.org/abs/2210.15196)] [[code](https://github.com/yzyouzhang/hrtf_field)]
 
 [3] Sefik Emre Eskimez, You Zhang, and Zhiyao Duan, **Speech Driven Talking Face Generation From a Single Image and an Emotion Condition**, *IEEE Transactions on Multimedia*, vol. 24, pp. 3480-3490, 2022. 
