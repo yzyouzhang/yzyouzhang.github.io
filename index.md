@@ -18,11 +18,11 @@ or would like collaborate with me, you are welcome to email me.
 
 ### News
 
-[2022/05] Recognized by the ICASSP Rising Stars in Signal Processing program. 
+[2023/05] Recognized by the ICASSP Rising Stars in Signal Processing program. 
 
-[2022/02] Two papers accepted by ICASSP 2023. ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718))
+[2023/02] Two papers accepted by ICASSP 2023. ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718))
 
-[2022/02] Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [[slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf)]
+[2023/02] Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [[slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf)]
 
 
 ### Selected Publications
