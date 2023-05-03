@@ -21,7 +21,7 @@ title: Publications
 <p>[1] <strong>You Zhang</strong>, Fei Jiang, and Zhiyao Duan, <strong>One-Class Learning Towards Synthetic Voice Spoofing Detection</strong>, <em>IEEE Signal Processing Letters</em>, vol. 28, pp. 937-941, 2021. &lt;<a href="https://ieeexplore.ieee.org/document/9417604">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2010.13995">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/AIR-ASVspoof">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf">poster</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf">slides</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=pX9aq8CaIvk">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/projects/asvspoof.html">project</a>&gt; </p>
 
 
-### Conferences and Workshops
+### Peer-reviewed Conferences and Workshops
 
 <p>[6] Abudukelimu Wuerkaixi, Kunda Yan, <strong>You Zhang</strong>, Zhiyao Duan, and Changshui Zhang, <strong>DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization</strong>, in <em>Proc. IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)</em>, 2022, pp. 1-6. &lt;<a href="https://ieeexplore.ieee.org/document/9948860">link</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Wuerkaixi_DyViSE.pdf">pdf</a>&gt; &lt;<a href="https://github.com/zaocan666/DyViSE">code</a>&gt; </p>
 
@@ -35,6 +35,14 @@ title: Publications
             &lt;<a href="https://www.aes.org/e-lib/browse.cfm?elib=21095">link</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Wang21HRTF.pdf">pdf</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_sht_personalization">code</a>&gt;</p>
 
 <p>[1] <strong>You Zhang</strong>, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech</em>, 2021, pp. 4309-4313. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
+
+### Conference Abstracts
+<p>[2] <strong>You Zhang</strong>, Yuxiang Wang, Mark Bocko, and Zhiyao Duan, <strong>Grid-agnostic personalized head-related transfer function modeling with neural fields</strong>, in <em>Acoustical Society of America 184th Meeting</em>, 2023. 
+            &lt;<a href="http://dx.doi.org/10.1121/10.0018387">link</a>&gt; </p>
+            
+<p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko, <strong>Employing deep learning method to predict global head-related transfer functions from scanned head geometry</strong>, in <em>Acoustical Society of America 181th Meeting</em>, 2021. 
+            &lt;<a href="https://doi.org/10.1121/10.0008543">link</a>&gt; </p>
+
 
 
 
