@@ -4,9 +4,6 @@ title: Publications
 ---
 
 ### Preprints (In submission)
-<p>[3] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, accepted by ICASSP 2023. &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/hrtf_field">code</a>&gt; </p>
-
-<p>[2] Siwen Ding, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing</strong>, accepted by ICASSP 2023. &lt;<a href="https://arxiv.org/abs/2211.02718">arXiv</a>&gt; &lt;<a href="https://github.com/sivannavis/samo">code</a>&gt; </p>
 
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
 
@@ -22,6 +19,11 @@ title: Publications
 
 
 ### Peer-reviewed Conferences and Workshops
+<p>[9] Yongyi Zang, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Phase perturbation improves channel robustness for speech spoofing countermeasures</strong>, accepted by Interspeech 2023. 
+
+<p>[8] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, in <em>Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. &lt;<a href="https://ieeexplore.ieee.org/document/10095801">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/hrtf_field">code</a>&gt; </p>
+
+<p>[7] Siwen Ding, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>SAMO: Speaker Attractor Multi-Center One-Class Learning for Voice Anti-Spoofing</strong>, in <em>Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. &lt;<a href="https://ieeexplore.ieee.org/document/10094704">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2211.02718">arXiv</a>&gt; &lt;<a href="https://github.com/sivannavis/samo">code</a>&gt; </p>
 
 <p>[6] Abudukelimu Wuerkaixi, Kunda Yan, <strong>You Zhang</strong>, Zhiyao Duan, and Changshui Zhang, <strong>DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization</strong>, in <em>Proc. IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)</em>, 2022, pp. 1-6. &lt;<a href="https://ieeexplore.ieee.org/document/9948860">link</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Wuerkaixi_DyViSE.pdf">pdf</a>&gt; &lt;<a href="https://github.com/zaocan666/DyViSE">code</a>&gt; </p>
 
