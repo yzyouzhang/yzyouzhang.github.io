@@ -38,6 +38,7 @@ title: Publications
 
 <p>[1] <strong>You Zhang</strong>, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech</em>, 2021, pp. 4309-4313. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
 
+
 ### Conference Abstracts
 <p>[2] <strong>You Zhang</strong>, Yuxiang Wang, Mark Bocko, and Zhiyao Duan, <strong>Grid-agnostic personalized head-related transfer function modeling with neural fields</strong>, in <em>Acoustical Society of America 184th Meeting</em>, 2023. 
             &lt;<a href="http://dx.doi.org/10.1121/10.0018387">link</a>&gt; </p>
