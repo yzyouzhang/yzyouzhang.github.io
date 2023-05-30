@@ -6,7 +6,7 @@ excerpt: "You Zhang's Homepage"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/).
-Take a look at [my CV](./You_Neil_Zhang_CV_2023_May.pdf).
+<!-- Take a look at [my CV](./You_Neil_Zhang_CV_2023_May.pdf).-->
 
 My research interests lie in speech and audio processing for virtual and augmented reality.
 My recent work has focused on **personalized spatial audio, synthetic speech detection, and audio-visual rendering and analysis**.
