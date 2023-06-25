@@ -6,6 +6,16 @@ layout: page
 
 ## Industrial
 
+<b> Microsoft </b> - Applied Sciences Group (Redmond, WA, USA)
+<ul>
+    <li>
+        Research Intern (May 2023 - Aug 2023)
+    </li>
+    <li>
+        Mentored by <a href="https://www.microsoft.com/applied-sciences/people/kazuhito-koishida">Dr. Kazuhito Koishida</a>
+    </li>
+</ul>
+
 <b> Tencent America </b> - Tencent AI Lab (Bellevue, WA, USA)
 <ul>
     <li>
@@ -48,7 +58,7 @@ Mentored by <a href="https://scholar.google.com/citations?user=NGejHPcAAAAJ">Dr.
 </ul>
 
 
-<b> Momenta.ai </b> - Level4 Urban Autonomous Driving (Suzhou, Jiangsu, China)
+<b> Momenta </b> - Level4 Urban Autonomous Driving (Suzhou, Jiangsu, China)
 <ul>
     <li>
         R&D Intern (Mar 2019 - Jun 2019)
@@ -65,14 +75,15 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 ## Teaching
 
 ### Teaching Assistant
+`Spring 2023` ECE 208/408  The Art of Machine Learning (Also gave a [guest lecture on SVM](https://docs.google.com/presentation/d/1NUiJFKHXYJJk2VEx805ED85YhpXbrJBSbI8H1YbdRUE/edit?usp=sharing) and a [guest lecture on network training](https://docs.google.com/presentation/d/1aiV1yA91-6zB02ug1G0zqWYUnGYcXNQTZqz1M-Dzs2k/edit?usp=sharing)
 
 `Fall 2022` ECE 440 Introduction to Random Processes 
 
-`Spring 2022` ECE 208/408  The Art of Machine Learning (Also gave a [guest lecture](https://youtu.be/trRkNKNM5aE))
+`Spring 2022` ECE 208/408  The Art of Machine Learning (Also gave a [guest lecture on GAN](https://youtu.be/trRkNKNM5aE))
 
 `Spring 2021` ECE 272/472 Audio Signal Processing 
 
-`Fall 2020` ECE 477 Computer Audition (Also gave a [guest lecture](./contents/GuestLec_Neil_ECE477_Fall2021.pdf))
+`Fall 2020` ECE 477 Computer Audition (Also gave a [guest lecture on speech technology](./contents/GuestLec_Neil_ECE477_Fall2021.pdf))
 
 `Spring 2020` ECE 272/472 Audio Signal Processing 
 
@@ -80,9 +91,13 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 
 ### Students Mentored
 
-**Yongyi (Colin) Zang**, Audio & Music Engineering Undergrad@UR
+**Yutong Wen**, Audio & Music Engineering Undergrad@UR
 
-**Siwen (Sivan) Ding**, Data Science Master@Columbia
+**Enting Zhou**, Computer Science Undergraduate@UR, Next Move: Master@UCSD
+
+**Yongyi (Colin) Zang**, Audio & Music Engineering Undergrad@UR, Next Move: Machine Learning Engineer@Neosensory
+
+**Siwen (Sivan) Ding**, Data Science Master@Columbia, Next Move: PhD student@NYU
 
 **Abudukelimu Wuerkaixi**, PhD student@Tsinghua
 
@@ -92,9 +107,15 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 ## Services
 
 ### Reviewers
-* Audio Engineering Society (AES) 152nd, 153rd Convention
+* Interspeech 2023
+
+* Audio Engineering Society (AES) 152nd, 153rd, 154th Convention
+
+* IEEE Open Journal of Signal Processing (OJSP)
 
 * IEEE Transactions on Computational Imaging (TCI)
+
+* IEEE Access
 
 * International Journal of Electrical and Computer Engineering Systems (IJECES)
 
@@ -102,9 +123,11 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 
 ### Co-chaired
 
-* [Western New York Virtual and Augmented Reality Mini-Conference 2022](https://www.rochester.edu/augmented-virtual-reality/news-events/conference.html)
+* [Western New York Virtual and Augmented Reality Mini-Conference 2022 & 2023](https://www.rochester.edu/augmented-virtual-reality/news-events/conference.html)
 
+### Volunteer
 
+* [IEEEXtreme 16.0 Ambassador](https://certificate.ieeextreme.org/generate-email-certificate/ogK2pPNFGPGpSX4)
 
 
 
