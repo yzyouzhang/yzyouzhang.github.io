@@ -5,8 +5,7 @@ excerpt: "You Zhang's Homepage"
 
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
-I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/).
-<!-- Take a look at [my CV](./You_Neil_Zhang_CV_2023_May.pdf).-->
+I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2023_Jun.pdf).
 
 My research interests lie in speech and audio processing for virtual and augmented reality.
 My recent work has focused on **personalized spatial audio, synthetic speech detection, and audio-visual rendering and analysis**.
@@ -17,10 +16,11 @@ or would like collaborate with me, you are welcome to email me.
 
 
 ### News
+[2023/06] Our paper "[HRTF Field](https://ieeexplore.ieee.org/document/10095801)" was recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://2023.ieeeicassp.org/top-3-percent-paper-recognitions/).
 
 [2023/05] One paper accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
 
-[2023/05] Recognized as one of the ICASSP Rising Stars in Signal Processing. 
+[2023/05] Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). 
 
 [2023/02] Two papers accepted by [ICASSP 2023](https://2023.ieeeicassp.org/). ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718))
 
