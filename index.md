@@ -16,6 +16,8 @@ or would like collaborate with me, you are welcome to email me.
 
 
 ### News
+[2023/07] One paper accepted by [WASPAA 2023](https://waspaa.com/). Congrats, Yutong!
+
 [2023/06] Our paper "[HRTF Field](https://ieeexplore.ieee.org/document/10095801)" was recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://2023.ieeeicassp.org/top-3-percent-paper-recognitions/).
 
 [2023/05] One paper accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
