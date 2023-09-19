@@ -5,7 +5,7 @@ excerpt: "You Zhang's Homepage"
 
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
-I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2023_Jun.pdf).
+I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2023_Sep.pdf).
 
 My research interests lie in speech and audio processing for virtual and augmented reality.
 My recent work has focused on **personalized spatial audio, synthetic speech detection, and audio-visual rendering and analysis**.
@@ -16,7 +16,7 @@ or would like collaborate with me, you are welcome to email me.
 
 
 ### News
-[2023/07] One paper accepted by [WASPAA 2023](https://waspaa.com/). Congrats, Yutong!
+[2023/07] [One paper](https://ieeexplore.ieee.org/document/10248178) accepted by [WASPAA 2023](https://waspaa.com/). Congrats, Yutong!
 
 [2023/06] Our paper "[HRTF Field](https://ieeexplore.ieee.org/document/10095801)" was recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://2023.ieeeicassp.org/top-3-percent-paper-recognitions/).
 
