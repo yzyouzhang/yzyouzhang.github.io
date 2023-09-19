@@ -4,6 +4,7 @@ title: Publications
 ---
 
 ### Preprints (In submission)
+<p>[1] Yongyi Zang*, <strong>You Zhang*</strong>, Mojtaba Heydari, and Zhiyao Duan,  <strong>SingFake: Singing Voice Deepfake Detection</strong>, 2023. (* equal contribution) &lt;<a href="https://arxiv.org/abs/2309.07525">arXiv</a>&gt; &lt;<a href="https://www.singfake.org/">webpage</a>&gt;</p>
 
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
 
@@ -18,9 +19,10 @@ title: Publications
 <p>[1] <strong>You Zhang</strong>, Fei Jiang, and Zhiyao Duan, <strong>One-Class Learning Towards Synthetic Voice Spoofing Detection</strong>, <em>IEEE Signal Processing Letters</em>, vol. 28, pp. 937-941, 2021. &lt;<a href="https://ieeexplore.ieee.org/document/9417604">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2010.13995">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/AIR-ASVspoof">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf">poster</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf">slides</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=pX9aq8CaIvk">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/projects/asvspoof.html">project</a>&gt; </p>
 
 ### Peer-reviewed Conferences and Workshops
-<p>[10] Yutong Wen, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Mitigating Cross-Database Differences for Learning Unified HRTF Representation</strong>, accepted by WASPAA 2023. </p>
+<p>[10] Yutong Wen, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Mitigating Cross-Database Differences for Learning Unified HRTF Representation</strong>, in <em>Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)</em>, 2023. &lt;<a href="https://ieeexplore.ieee.org/document/10248178">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2307.14547">arXiv</a>&gt; &lt;<a href="https://github.com/YutongWen/HRTF_field_norm">code</a>&gt;</p>
 
-<p>[9] Yongyi Zang, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Phase perturbation improves channel robustness for speech spoofing countermeasures</strong>, accepted by Interspeech 2023. &lt;<a href="https://arxiv.org/abs/2306.03389">arXiv</a>&gt; &lt;<a href="https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH">code</a>&gt;</p>
+
+<p>[9] Yongyi Zang, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Phase perturbation improves channel robustness for speech spoofing countermeasures</strong>, accepted by Interspeech 2023. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2306.03389">arXiv</a>&gt; &lt;<a href="https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH">code</a>&gt;</p>
 
 <p>[8] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, in <em>Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. (<strong>Recognized as one of the <a href="https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing">top 3% of all papers accepted at ICASSP 2023</a> </strong>) &lt;<a href="https://ieeexplore.ieee.org/document/10095801">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/hrtf_field">code</a>&gt; </p>
 
@@ -40,8 +42,11 @@ title: Publications
 <p>[1] <strong>You Zhang</strong>, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech</em>, 2021, pp. 4309-4313. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
 
 ### Conference Abstracts
-<p>[2] <strong>You Zhang</strong>, Yuxiang Wang, Mark Bocko, and Zhiyao Duan, <strong>Grid-agnostic personalized head-related transfer function modeling with neural fields</strong>, in <em>Acoustical Society of America 184th Meeting</em>, 2023. (<strong>Recognized by Signal Processing at the ASA Student Paper Award - Second Place</strong>)
+<p>[3] <strong>You Zhang</strong>, Yuxiang Wang, Mark Bocko, and Zhiyao Duan, <strong>Grid-agnostic personalized head-related transfer function modeling with neural fields</strong>, in <em>Acoustical Society of America 184th Meeting</em>, 2023. (<strong>Recognized by Signal Processing at the ASA Student Paper Award - Second Place</strong>)
             &lt;<a href="http://dx.doi.org/10.1121/10.0018387">link</a>&gt; </p>
+            
+<p>[2] Samantha E. Lettenberger, Maryam Zafar, Julia M. Soto, <strong>You Zhang</strong>, Ge Zhu, Aaron J. Masino, Grace Nkrumah, Emma Waddell, Kelsey Spear, Abigail Arky, Rajbir Toor, Emily Hartman, Jacob Epifano, Rich Christie, Zhiyao Duan, and Ray Dorsey, <strong>Words Spoken Daily: A Novel Measure of Cognition</strong>, in <em>International Congress of Parkinson’s Disease and Movement Disorders (MDS)</em>, 2023. 
+            &lt;<a href="https://www.mdsabstracts.org/abstract/words-spoken-daily-a-novel-measure-of-cognition/">link</a>&gt; </p>
             
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko, <strong>Employing deep learning method to predict global head-related transfer functions from scanned head geometry</strong>, in <em>Acoustical Society of America 181th Meeting</em>, 2021. 
             &lt;<a href="https://doi.org/10.1121/10.0008543">link</a>&gt; </p>
