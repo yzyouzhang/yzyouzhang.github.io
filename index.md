@@ -22,7 +22,7 @@ or would like collaborate with me, you are welcome to email me.
 
 [2023/05] One paper accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
 
-[2023/05] Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). 
+[2023/05] Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). [[poster](./ICASSP2023_Rising_Star_Neil_final.pdf)]
 
 [2023/02] Two papers accepted by [ICASSP 2023](https://2023.ieeeicassp.org/). ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718))
 
