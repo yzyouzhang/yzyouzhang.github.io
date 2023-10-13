@@ -16,6 +16,8 @@ or would like collaborate with me, you are welcome to email me.
 
 
 ### News
+[2023/10] Received [National Institute of Justice's (NIJ) Graduate Research Fellowship Award](https://nij.ojp.gov/funding/fellowships/graduate-research-fellowship-program).
+
 [2023/07] [One paper](https://ieeexplore.ieee.org/document/10248178) accepted by [WASPAA 2023](https://waspaa.com/). Congrats, Yutong!
 
 [2023/06] Our paper "[HRTF Field](https://ieeexplore.ieee.org/document/10095801)" was recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://2023.ieeeicassp.org/top-3-percent-paper-recognitions/).
