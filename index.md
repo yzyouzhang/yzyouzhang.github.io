@@ -8,7 +8,7 @@ excerpt: "You Zhang's Homepage"
 I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2023_Sep.pdf).
 
 My research interests lie in speech and audio processing for virtual and augmented reality.
-My recent work has focused on **personalized spatial audio, synthetic speech detection, and audio-visual rendering and analysis**.
+My recent work has focused on **personalized spatial audio, audio deepfake detection, and audio-visual rendering and analysis**.
 In my spare time, I am fond of movies, paddle boarding, and traveling.
 
 If you are interested in my research, 
@@ -16,7 +16,10 @@ or would like collaborate with me, you are welcome to email me.
 
 
 ### News
-[2023/10] Received [National Institute of Justice's (NIJ) Graduate Research Fellowship Award](https://nij.ojp.gov/funding/fellowships/graduate-research-fellowship-program).
+
+[2023/11] I attended [WASPAA](https://waspaa.com/), [SANE](https://www.saneworkshop.org/sane2023/), [NRT Annual Meeting](https://nrt.asu.edu/nsf-annual-meeting/), and [BASH](https://binaural.and.spatialhearing.org/) to present our work on personalized spatial audio. Busy but exciting two weeks!
+
+[2023/10] Received [National Institute of Justice's (NIJ) Graduate Research Fellowship Award](https://nij.ojp.gov/funding/fellowships/graduate-research-fellowship-program). [[Description](https://nij.ojp.gov/funding/awards/15pnij-23-gg-01933-ress)]
 
 [2023/07] [One paper](https://ieeexplore.ieee.org/document/10248178) accepted by [WASPAA 2023](https://waspaa.com/). Congrats, Yutong!
 
