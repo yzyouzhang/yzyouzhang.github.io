@@ -11,8 +11,7 @@ My research interests lie in speech and audio processing for virtual and augment
 My recent work has focused on **personalized spatial audio, audio deepfake detection, and audio-visual rendering and analysis**.
 In my spare time, I am fond of movies, paddle boarding, and traveling.
 
-If you are interested in my research, 
-or would like collaborate with me, you are welcome to email me.
+If you are interested in my research or would like to collaborate with me, you are welcome to email me.
 
 
 ### News

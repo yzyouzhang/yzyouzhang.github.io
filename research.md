@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Preprints (In submission)
-<p>[1] Yongyi Zang*, <strong>You Zhang*</strong>, Mojtaba Heydari, and Zhiyao Duan,  <strong>SingFake: Singing Voice Deepfake Detection</strong>, 2023. (* equal contribution) &lt;<a href="https://arxiv.org/abs/2309.07525">arXiv</a>&gt; &lt;<a href="https://www.singfake.org/">webpage</a>&gt;</p>
+<p>[2] Yongyi Zang*, <strong>You Zhang*</strong>, Mojtaba Heydari, and Zhiyao Duan,  <strong>SingFake: Singing Voice Deepfake Detection</strong>, 2023. (* equal contribution) &lt;<a href="https://arxiv.org/abs/2309.07525">arXiv</a>&gt; &lt;<a href="https://www.singfake.org/">webpage</a>&gt;</p>
 
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2022. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
 
