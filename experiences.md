@@ -72,46 +72,22 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 </ul>
 
 
-## Teaching
-
-### Teaching Assistant
-`Spring 2023` ECE 208/408  The Art of Machine Learning (Also gave a [guest lecture on SVM](https://docs.google.com/presentation/d/1NUiJFKHXYJJk2VEx805ED85YhpXbrJBSbI8H1YbdRUE/edit?usp=sharing) and a [guest lecture on network training](https://docs.google.com/presentation/d/1aiV1yA91-6zB02ug1G0zqWYUnGYcXNQTZqz1M-Dzs2k/edit?usp=sharing)
-
-`Fall 2022` ECE 440 Introduction to Random Processes 
-
-`Spring 2022` ECE 208/408  The Art of Machine Learning (Also gave a [guest lecture on GAN](https://youtu.be/trRkNKNM5aE))
-
-`Spring 2021` ECE 272/472 Audio Signal Processing 
-
-`Fall 2020` ECE 477 Computer Audition (Also gave a [guest lecture on speech technology](./contents/GuestLec_Neil_ECE477_Fall2021.pdf))
-
-`Spring 2020` ECE 272/472 Audio Signal Processing 
-
-`Fall 2019` ECE 216 Microprocessor & Data Conversion 
-
-### Students Mentored
-
-**Yutong Wen**, Audio & Music Engineering Undergrad@UR
-
-**Enting Zhou**, Computer Science Undergraduate@UR, Next Move: Master@UCSD
-
-**Yongyi (Colin) Zang**, Audio & Music Engineering Undergrad@UR, Next Move: Machine Learning Engineer@Neosensory
-
-**Siwen (Sivan) Ding**, Data Science Master@Columbia, Next Move: PhD student@NYU
-
-**Abudukelimu Wuerkaixi**, PhD student@Tsinghua
-
-**Xinhui Chen**, Computer Science Master@UR, Next Move: PhD student@Lehigh
-
-
 ## Services
 
 ### Reviewers
+* ICASSP 2024
+
 * Interspeech 2023
+
+* IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
 
 * Audio Engineering Society (AES) 152nd, 153rd, 154th Convention
 
 * IEEE Open Journal of Signal Processing (OJSP)
+
+* EURASIP Journal on Advances in Signal Processing
+
+* Transactions of the International Society for Music Information Retrieval (TISMIR)
 
 * IEEE Transactions on Computational Imaging (TCI)
 
@@ -126,6 +102,8 @@ Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnh
 * [Western New York Virtual and Augmented Reality Mini-Conference 2022 & 2023](https://www.rochester.edu/augmented-virtual-reality/news-events/conference.html)
 
 ### Volunteer
+
+* Diversity, Equity, and Inclusion (DEI) Committee Member for ECE Department, 2022-2023
 
 * [IEEEXtreme 16.0 Ambassador](https://certificate.ieeextreme.org/generate-email-certificate/ogK2pPNFGPGpSX4)
 
