@@ -4,9 +4,9 @@ title: Publications
 ---
 
 ### Preprints (In submission)
-<p>[3] Yongyi Zang*, <strong>You Zhang*</strong>, Mojtaba Heydari, and Zhiyao Duan,  <strong>SingFake: Singing Voice Deepfake Detection</strong>, 2023. (* equal contribution) &lt;<a href="https://arxiv.org/abs/2309.07525">arXiv</a>&gt; &lt;<a href="https://github.com/yongyizang/SingFake">code</a>&gt; &lt;<a href="https://www.singfake.org/">webpage</a>&gt;</p>
+<p>[3] Yongyi Zang*, <strong>You Zhang*</strong>, Mojtaba Heydari, and Zhiyao Duan,  <strong>SingFake: Singing Voice Deepfake Detection</strong>, accepted by ICASSP 2024. (* equal contribution) &lt;<a href="https://arxiv.org/abs/2309.07525">arXiv</a>&gt; &lt;<a href="https://github.com/yongyizang/SingFake">code</a>&gt; &lt;<a href="https://www.singfake.org/">webpage</a>&gt;</p>
 
-<p>[2] Enting Zhou, <strong>You Zhang</strong>, and Zhiyao Duan,  <strong>Learning Arousal-Valence Representation from Categorical Emotion Labels of Speech</strong>, 2023. &lt;<a href="https://arxiv.org/abs/2311.14816">arXiv</a>&gt; &lt;<a href="https://github.com/ETZET/SpeechEmotionAVLearning">code</a>&gt; </p>
+<p>[2] Enting Zhou, <strong>You Zhang</strong>, and Zhiyao Duan,  <strong>Learning Arousal-Valence Representation from Categorical Emotion Labels of Speech</strong>, accepted by ICASSP 2024. &lt;<a href="https://arxiv.org/abs/2311.14816">arXiv</a>&gt; &lt;<a href="https://github.com/ETZET/SpeechEmotionAVLearning">code</a>&gt; </p>
 
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2023. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
 
@@ -24,7 +24,7 @@ title: Publications
 <p>[10] Yutong Wen, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Mitigating Cross-Database Differences for Learning Unified HRTF Representation</strong>, in <em>Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)</em>, 2023. &lt;<a href="https://ieeexplore.ieee.org/document/10248178">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2307.14547">arXiv</a>&gt; &lt;<a href="https://github.com/YutongWen/HRTF_field_norm">code</a>&gt; &lt;<a href="https://youtu.be/NLxLF9mIc3U">video</a>&gt;</p>
 
 
-<p>[9] Yongyi Zang, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Phase perturbation improves channel robustness for speech spoofing countermeasures</strong>, accepted by Interspeech 2023. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2306.03389">arXiv</a>&gt; &lt;<a href="https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH">code</a>&gt;</p>
+<p>[9] Yongyi Zang, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Phase perturbation improves channel robustness for speech spoofing countermeasures</strong>, in <em>Proc. Interspeech</em>, 2023, pp. 3162-3166. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2306.03389">arXiv</a>&gt; &lt;<a href="https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH">code</a>&gt;</p>
 
 <p>[8] <strong>You Zhang</strong>, Yuxiang Wang, and Zhiyao Duan, <strong>HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields</strong>, in <em>Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. (<strong>Recognized as one of the <a href="https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing">top 3% of all papers accepted at ICASSP 2023</a> </strong>) &lt;<a href="https://ieeexplore.ieee.org/document/10095801">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2210.15196">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/hrtf_field">code</a>&gt; &lt;<a href="https://youtu.be/HoQg8YzX1jg">video</a>&gt; </p>
 

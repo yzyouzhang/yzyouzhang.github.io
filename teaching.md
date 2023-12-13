@@ -52,3 +52,6 @@ layout: page
 
 **Xinhui Chen**, Computer Science Master@UR, Next Move: PhD student@Lehigh
 
+## Other
+
+I contributed to an ESPnet tutorial used in CMU 11751/18781 Fall 2022. [ESPnet](https://github.com/espnet/espnet) is a widely-used end-to-end speech processing toolkit. It has supported various speech-processing tasks. The goal of the tutorial is to demonstrate how to add new tasks, add new models, and create a new recipe for new tasks. We select speech anti-spoofing as the new task. [[Colab](https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_new_task_tutorial_CMU_11751_18781_Fall2022.ipynb)]

@@ -15,7 +15,11 @@ If you are interested in my research or would like to collaborate with me, you a
 
 
 ### News
-[2023/11] I sat down with Berkeley Brean at News10NBC to talk about audio deepfake detection. [[Link](https://www.whec.com/investigations/news10nbc-investigates-heres-what-happened-when-we-did-a-deep-fake-on-berkeley-breans-voice/)] [[Tweet1](https://twitter.com/whec_bbrean/status/1730299267544236042)] [[Tweet2](https://twitter.com/whec_bbrean/status/1730313761574055959)]
+[2023/12] Two papers accepted by [ICASSP 2024](2024.ieeeicassp.org). ([SingFake]() and [Speech Emotion AV Learning](https://arxiv.org/abs/2311.14816)) Congrats, Yongyi and Enting! 
+
+[2023/12] Our tutorial on "Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming" has been accepted at [2024 AES International Conference on Audio for Games](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/).
+
+[2023/11] I sat down with Berkeley Brean at News10NBC to talk about audio deepfake detection. [[WHEC-TV Link](https://www.whec.com/investigations/news10nbc-investigates-heres-what-happened-when-we-did-a-deep-fake-on-berkeley-breans-voice/)] [[Tweet1](https://twitter.com/whec_bbrean/status/1730299267544236042)] [[Tweet2](https://twitter.com/whec_bbrean/status/1730313761574055959)] [[Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/hajim-highlights-1204/)]
 
 [2023/11] I attended [WASPAA](https://waspaa.com/), [SANE](https://www.saneworkshop.org/sane2023/), [NRT Annual Meeting](https://nrt.asu.edu/nsf-annual-meeting/), and [BASH](https://binaural.and.spatialhearing.org/) to present our work on personalized spatial audio. Busy but exciting two weeks!
 
@@ -25,13 +29,19 @@ If you are interested in my research or would like to collaborate with me, you a
 
 [2023/06] Our paper "[HRTF Field](https://ieeexplore.ieee.org/document/10095801)" was recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://2023.ieeeicassp.org/top-3-percent-paper-recognitions/). [[Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/620222/)]
 
-[2023/05] [One paper](https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html) accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
-
 [2023/05] Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). [[poster](./ICASSP2023_Rising_Star_Neil_final.pdf)]
 
-[2023/02] Two papers accepted by [ICASSP 2023](https://2023.ieeeicassp.org/). ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718))
+<details>
+
+<summary>More archived news.</summary>
+
+[2023/05] [One paper](https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html) accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
+
+[2023/02] Two papers accepted by [ICASSP 2023](https://2023.ieeeicassp.org/). ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718)) Congrats, Siwen!
 
 [2023/02] Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [[slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf)]
+
+</details>
 
 
 ### Selected Publications
