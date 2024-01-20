@@ -3,12 +3,12 @@
 
 title: You (Neil) Zhang
 locale: en_US
-logo: Neil_profile_photo_square.jpg # filename of a logo image that has been placed into your images directory
+logo: #Neil_profile_photo_square.jpg # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: You (Neil) Zhang  张优
-  avatar: #bio-photo.jpg
+  avatar: Neil_profile_photo_square.jpg
   bio: An Audio Machine Learning Researcher @ Univeristy of Rochester
   website: #https://yzyouzhang.com
   email: you.zhang@rochester.edu #yzyouzhang@gmail.com #personal email
