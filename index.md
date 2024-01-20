@@ -17,7 +17,7 @@ If you are interested in my research or would like to collaborate with me, you a
 ### News
 [2024/01] We have launched the inaugural Singing Voice Deepfake Detection (SVDD) 2024 Challenge! Check it out [here](https://challenge.singfake.org/)!
 
-[2023/12] I gave a talk at Nanjing University on "Improving Generalization Ability for Audio Deepfake Detection". [[Slides](./resources/Improving_Generalization_Ability_for_Audio_Deepfake_Detection_20231228_Nanjing_University)]
+[2023/12] I gave a talk at Nanjing University on "Improving Generalization Ability for Audio Deepfake Detection". [[Slides](./resources/Improving_Generalization_Ability_for_Audio_Deepfake_Detection_20231228_Nanjing_University.pdf)]
 
 [2023/12] Two papers accepted by [ICASSP 2024](2024.ieeeicassp.org). ([SingFake]() and [Speech Emotion AV Learning](https://arxiv.org/abs/2311.14816)) Congrats, Yongyi and Enting! 
 
@@ -36,10 +36,10 @@ If you are interested in my research or would like to collaborate with me, you a
 [2023/05] Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). [[poster](./resources/ICASSP2023_Rising_Star_Neil_final.pdf)]
 
 
-<details>
+<!-- <details>
 
 
-<summary>More archived news.</summary>
+<summary>More archived news.</summary> -->
 
 
 [2023/05] [One paper](https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html) accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
@@ -51,7 +51,7 @@ If you are interested in my research or would like to collaborate with me, you a
 [2023/02] Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [[slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf)]
 
 
-</details>
+<!-- </details> -->
 
 
 ### Selected Publications
