@@ -5,7 +5,7 @@ excerpt: "You Zhang's Homepage"
 
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
-I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2023_Nov.pdf).
+I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2023_Dec.pdf).
 
 My research interests lie in speech and audio processing for virtual and augmented reality.
 My recent work has focused on **audio deepfake detection, personalized spatial audio, and audio-visual rendering and analysis**.
@@ -15,6 +15,10 @@ If you are interested in my research or would like to collaborate with me, you a
 
 
 ### News
+[2024/01] We have launched the inaugural Singing Voice Deepfake Detection (SVDD) 2024 Challenge! Check it out [here](https://challenge.singfake.org/)!
+
+[2023/12] I gave a talk at Nanjing University on "Improving Generalization Ability for Audio Deepfake Detection". [[Slides](./resources/Improving_Generalization_Ability_for_Audio_Deepfake_Detection_20231228_Nanjing_University)]
+
 [2023/12] Two papers accepted by [ICASSP 2024](2024.ieeeicassp.org). ([SingFake]() and [Speech Emotion AV Learning](https://arxiv.org/abs/2311.14816)) Congrats, Yongyi and Enting! 
 
 [2023/12] Our tutorial on "Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming" has been accepted at [2024 AES International Conference on Audio for Games](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/).
@@ -29,17 +33,23 @@ If you are interested in my research or would like to collaborate with me, you a
 
 [2023/06] Our paper "[HRTF Field](https://ieeexplore.ieee.org/document/10095801)" was recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://2023.ieeeicassp.org/top-3-percent-paper-recognitions/). [[Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/620222/)]
 
-[2023/05] Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). [[poster](./ICASSP2023_Rising_Star_Neil_final.pdf)]
+[2023/05] Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). [[poster](./resources/ICASSP2023_Rising_Star_Neil_final.pdf)]
+
 
 <details>
 
+
 <summary>More archived news.</summary>
+
 
 [2023/05] [One paper](https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html) accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
 
+
 [2023/02] Two papers accepted by [ICASSP 2023](https://2023.ieeeicassp.org/). ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718)) Congrats, Siwen!
 
+
 [2023/02] Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [[slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf)]
+
 
 </details>
 
