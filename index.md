@@ -5,7 +5,7 @@ excerpt: "You Zhang's Homepage"
 
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
-I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2023_Dec.pdf).
+I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2024_Mar.pdf).
 
 My research interests lie in speech and audio processing for virtual and augmented reality.
 My recent work has focused on **audio deepfake detection, personalized spatial audio, and audio-visual rendering and analysis**.
@@ -15,7 +15,11 @@ If you are interested in my research or would like to collaborate with me, you a
 
 
 ### News
-[2024/01] We have launched the inaugural Singing Voice Deepfake Detection (SVDD) 2024 Challenge! Check it out [here](https://challenge.singfake.org/)!
+[2024/04] Our inaugural Singing Voice Deepfake Detection (SVDD) 2024 Challenge proposal has been accpted by IEEE Spoken Language Technolgy Workshop (SLT) 2024! Check out the challenge website [here](https://challenge.singfake.org/)! Registration deadline: June 8th.
+
+[2024/04] I attended [NEMISIG 2024](https://2024.nemisig.net/) and [NYC Computer Vision Day 2024](https://cs.nyu.edu/~fouhey/NYCVision2024/).
+
+[2024/03] I gave a talk at [GenAI Spring School](https://aihouse.org.ua/en/event/generative-ai-spring-school/) and [AI Bootcamp](https://www.meetup.com/5b95b105-bc24-49fb-b4f8-9ddfcb5db0ff/events/299933650/) on "Audio Deepfake Detection".
 
 [2023/12] I gave a talk at Nanjing University on "Improving Generalization Ability for Audio Deepfake Detection". [[Slides](./resources/Improving_Generalization_Ability_for_Audio_Deepfake_Detection_20231228_Nanjing_University.pdf)]
 
