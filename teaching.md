@@ -6,6 +6,10 @@ layout: page
 
 ## Teaching Assistant
 
+`Spring 2024` ECE 411 Selected Topics in Augmented and Virtual Reality
+
+* Gave a guest lecture on audio deepfake detection and watermarking
+
 `Fall 2023` ECE 477 Computer Audition
 
 * Gave a [guest lecture on python programming for audio](https://drive.google.com/drive/folders/1eFQkzbems7IQYmvwGxn4C4wX912Y8gre?usp=sharing)
