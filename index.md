@@ -15,11 +15,15 @@ If you are interested in my research or would like to collaborate with me, you a
 
 
 ### News
+[2024/04] Exciting milestone achieved! I have successfully passed my PhD proposal/qualifying exam on "Generalizing Audio Deepfake Detection". Looking forward to embarking on this fruitful road!
+
 [2024/04] Our inaugural Singing Voice Deepfake Detection (SVDD) 2024 Challenge proposal has been accpted by IEEE Spoken Language Technolgy Workshop (SLT) 2024! Check out the challenge website [here](https://challenge.singfake.org/)! Registration deadline: June 8th.
 
 [2024/04] I attended [NEMISIG 2024](https://2024.nemisig.net/) and [NYC Computer Vision Day 2024](https://cs.nyu.edu/~fouhey/NYCVision2024/).
 
 [2024/03] I gave a talk at [GenAI Spring School](https://aihouse.org.ua/en/event/generative-ai-spring-school/) and [AI Bootcamp](https://www.meetup.com/5b95b105-bc24-49fb-b4f8-9ddfcb5db0ff/events/299933650/) on "Audio Deepfake Detection".
+
+[2024/02] Our tutorial on "Multimedia Deepfake Detection" has been accepted at [ICME 2024](https://2024.ieeeicme.org/).
 
 [2023/12] I gave a talk at Nanjing University on "Improving Generalization Ability for Audio Deepfake Detection". [[Slides](./resources/Improving_Generalization_Ability_for_Audio_Deepfake_Detection_20231228_Nanjing_University.pdf)]
 
