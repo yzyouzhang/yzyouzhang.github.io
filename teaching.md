@@ -3,12 +3,14 @@ title: Teaching
 layout: page
 ---
 
+[My application materials for Edward Peck Curtis Awards for Excellence in Teaching (Prepared in Jan 2024)](./resources/Teaching_Award_application_materials_Neil.pdf)
 
 ## Teaching Assistant
 
 `Spring 2024` ECE 411 Selected Topics in Augmented and Virtual Reality
 
 * Gave a guest lecture on audio deepfake detection and watermarking
+* Designed two new programming homework assignment on "Reverberation and Spatial Audio" and "Source Separation and Voice Cloning"
 
 `Fall 2023` ECE 477 Computer Audition
 
@@ -44,7 +46,9 @@ layout: page
 
 ## Students Mentored
 
-**Yutong (Cooper) Wen**, Audio & Music Engineering Undergrad@UR
+**Kyungbok Lee**, Computer Science Undergraduate@UR
+
+**Yutong (Cooper) Wen**, Audio & Music Engineering Undergrad@UR, Next Move: PhD student@UIUC
 
 **Enting Zhou**, Computer Science Undergraduate@UR, Next Move: Master@UCSD
 
@@ -52,7 +56,7 @@ layout: page
 
 **Siwen (Sivan) Ding**, Data Science Master@Columbia, Next Move: PhD student@NYU
 
-**Abudukelimu Wuerkaixi**, PhD student@Tsinghua
+**Abudukelimu Wuerkaixi**, junior PhD student@Tsinghua
 
 **Xinhui Chen**, Computer Science Master@UR, Next Move: PhD student@Lehigh
 
