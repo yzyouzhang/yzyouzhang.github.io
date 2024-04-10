@@ -3,23 +3,23 @@ layout: home
 excerpt: "You Zhang's Homepage"
 ---
 
-
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
-I am a PhD student at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, working with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2024_Mar.pdf).
 
-My research interests lie in speech and audio processing for virtual and augmented reality.
-My recent work has focused on **audio deepfake detection, personalized spatial audio, and audio-visual rendering and analysis**.
-In my spare time, I am fond of movies, paddle boarding, and traveling.
+I am a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2024_Apr.pdf).
+
+My research focuses on applied machine learning, particularly in speech and audio processing.
+This includes topics such as **audio deepfake detection, personalized spatial audio, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, SPL, Interspeech, WASPAA, TMM. I received recognition through the Rising Star Program in Signal Processing at ICASSP 2023 and the Graduate Research Fellowship Program from National Institute of Justice.
+In my spare time, I am fond of paddle boarding, traveling, and movies.
 
 If you are interested in my research or would like to collaborate with me, you are welcome to email me.
 
 
 ### News
+[2024/04] I attended [NEMISIG 2024](https://2024.nemisig.net/), [NYC Computer Vision Day 2024](https://cs.nyu.edu/~fouhey/NYCVision2024/) and will be attending [ICASSP 2024](https://2024.ieeeicassp.org/).
+
 [2024/04] Exciting milestone achieved! I have successfully passed my PhD proposal/qualifying exam on "Generalizing Audio Deepfake Detection". Looking forward to embarking on this fruitful road!
 
-[2024/04] Our inaugural Singing Voice Deepfake Detection (SVDD) 2024 Challenge proposal has been accpted by IEEE Spoken Language Technolgy Workshop (SLT) 2024! Check out the challenge website [here](https://challenge.singfake.org/)! Registration deadline: June 8th.
-
-[2024/04] I attended [NEMISIG 2024](https://2024.nemisig.net/) and [NYC Computer Vision Day 2024](https://cs.nyu.edu/~fouhey/NYCVision2024/).
+[2024/04] Our inaugural Singing Voice Deepfake Detection (SVDD) 2024 Challenge proposal has been accepted by IEEE Spoken Language Technology Workshop (SLT) 2024! Check out the challenge website [here](https://challenge.singfake.org/)! Registration deadline: June 8th.
 
 [2024/03] I gave a talk at [GenAI Spring School](https://aihouse.org.ua/en/event/generative-ai-spring-school/) and [AI Bootcamp](https://www.meetup.com/5b95b105-bc24-49fb-b4f8-9ddfcb5db0ff/events/299933650/) on "Audio Deepfake Detection".
 
