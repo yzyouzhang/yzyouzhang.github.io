@@ -15,7 +15,9 @@ If you are interested in my research or would like to collaborate with me, you a
 
 
 ### News
-[2024/04] I attended [NEMISIG 2024](https://2024.nemisig.net/), [NYC Computer Vision Day 2024](https://cs.nyu.edu/~fouhey/NYCVision2024/) and will be attending [ICASSP 2024](https://2024.ieeeicassp.org/).
+[2023/12] I gave a 1-hour tutorial on "Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming" at [2024 AES International Conference on Audio for Games](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [Slides](./resources/Personalizing_Spatial_Audio_Machine_Learning_for_Personalized_Head-Related_Transfer_Functions_(HRTFs)_Modeling_in_Gaming.pdf)
+
+[2024/04] I attended [NEMISIG 2024](https://2024.nemisig.net/), [NYC Computer Vision Day 2024](https://cs.nyu.edu/~fouhey/NYCVision2024/) and [ICASSP 2024](https://2024.ieeeicassp.org/).
 
 [2024/04] Exciting milestone achieved! I have successfully passed my PhD proposal/qualifying exam on "Generalizing Audio Deepfake Detection". Looking forward to embarking on this fruitful road!
 
@@ -28,8 +30,6 @@ If you are interested in my research or would like to collaborate with me, you a
 [2023/12] I gave a talk at Nanjing University on "Improving Generalization Ability for Audio Deepfake Detection". [[Slides](./resources/Improving_Generalization_Ability_for_Audio_Deepfake_Detection_20231228_Nanjing_University.pdf)]
 
 [2023/12] Two papers accepted by [ICASSP 2024](2024.ieeeicassp.org). ([SingFake]() and [Speech Emotion AV Learning](https://arxiv.org/abs/2311.14816)) Congrats, Yongyi and Enting! 
-
-[2023/12] Our tutorial on "Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming" has been accepted at [2024 AES International Conference on Audio for Games](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/).
 
 [2023/11] I sat down with Berkeley Brean at News10NBC to talk about audio deepfake detection. [[WHEC-TV Link](https://www.whec.com/investigations/news10nbc-investigates-heres-what-happened-when-we-did-a-deep-fake-on-berkeley-breans-voice/)] [[Tweet1](https://twitter.com/whec_bbrean/status/1730299267544236042)] [[Tweet2](https://twitter.com/whec_bbrean/status/1730313761574055959)] [[Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/hajim-highlights-1204/)]
 
@@ -85,7 +85,7 @@ vol. 28, pp. 937-941, 2021.
 [2] You Zhang, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech 2021</em>, pp. 4309-4313, 2021. &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
 -->
 
-<a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_30/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_36/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
   
