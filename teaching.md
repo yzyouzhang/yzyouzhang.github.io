@@ -63,7 +63,7 @@ layout: page
 ## Tutorials
 Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming
 
-[*2024 AES International Conference on Audio for Games*](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [Slides](./resources/Personalizing_Spatial_Audio_Machine_Learning_for_Personalized_Head-Related_Transfer_Functions_(HRTFs)_Modeling_in_Gaming.pdf)
+[*2024 AES International Conference on Audio for Games*](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [[Slides](./resources/Personalizing_Spatial_Audio_Machine_Learning_for_Personalized_Head-Related_Transfer_Functions_(HRTFs)_Modeling_in_Gaming.pdf)]
 
 ## Other
 
