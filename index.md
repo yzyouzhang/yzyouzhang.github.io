@@ -15,7 +15,7 @@ If you are interested in my research or would like to collaborate with me, you a
 
 
 ### News
-[2023/12] I gave a 1-hour tutorial on "Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming" at [2024 AES International Conference on Audio for Games](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [Slides](./resources/Personalizing_Spatial_Audio_Machine_Learning_for_Personalized_Head-Related_Transfer_Functions_(HRTFs)_Modeling_in_Gaming.pdf)
+[2024/04] I gave a 1-hour tutorial on "Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming" at [2024 AES International Conference on Audio for Games](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [[Slides](./resources/Personalizing_Spatial_Audio_Machine_Learning_for_Personalized_Head-Related_Transfer_Functions_(HRTFs)_Modeling_in_Gaming.pdf)]
 
 [2024/04] I attended [NEMISIG 2024](https://2024.nemisig.net/), [NYC Computer Vision Day 2024](https://cs.nyu.edu/~fouhey/NYCVision2024/) and [ICASSP 2024](https://2024.ieeeicassp.org/).
 
