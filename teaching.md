@@ -3,8 +3,6 @@ title: Teaching
 layout: page
 ---
 
-[My application materials for Edward Peck Curtis Awards for Excellence in Teaching (Prepared in Jan 2024)](./resources/Teaching_Award_application_materials_Neil.pdf)
-
 ## Teaching Assistant
 
 `Spring 2024` ECE 411 Selected Topics in Augmented and Virtual Reality
@@ -63,8 +61,11 @@ layout: page
 ## Tutorials
 Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming
 
-[*2024 AES International Conference on Audio for Games*](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [[Slides](./resources/Personalizing_Spatial_Audio_Machine_Learning_for_Personalized_Head-Related_Transfer_Functions_(HRTFs)_Modeling_in_Gaming.pdf)]
+[*2024 AES International Conference on Audio for Games*](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [[Slides](https://static.sched.com/hosted_files/aes2024afg6/82/Personalizing%20Spatial%20Audio_%20Machine%20Learning%20for%20Personalized%20Head-Related%20Transfer%20Functions%20%28HRTFs%29%20Modeling%20in%20Gaming.pdf)]
 
-## Other
+## Others
 
 I contributed to an ESPnet tutorial used in CMU 11751/18781 Fall 2022. [ESPnet](https://github.com/espnet/espnet) is a widely-used end-to-end speech processing toolkit. It has supported various speech-processing tasks. The goal of the tutorial is to demonstrate how to add new tasks, add new models, and create a new recipe for new tasks. We select speech anti-spoofing as the new task. [[Colab](https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_new_task_tutorial_CMU_11751_18781_Fall2022.ipynb)]
+
+
+[My application materials for Edward Peck Curtis Awards for Excellence in Teaching (Prepared in Jan 2024)](./resources/Teaching_Award_application_materials_Neil.pdf)
