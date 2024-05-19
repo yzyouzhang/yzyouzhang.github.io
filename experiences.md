@@ -5,11 +5,23 @@ layout: page
 
 
 ## Industrial
+<b> Meta </b> - Meta Reality Labs  (Redmond, WA, USA)
+<ul>
+    <li>
+        Research Intern (May 2024 - Sep 2024)
+    </li>
+    <li>
+        Mentored by <a href="https://www.ishwarya.me/">Dr. Ishwarya Ananthabhotla</a>
+    </li>
+</ul>
 
 <b> Microsoft </b> - Applied Sciences Group (Redmond, WA, USA)
 <ul>
     <li>
         Research Intern (May 2023 - Aug 2023)
+    </li>
+    <li>
+        Audio-Visual Segmentation by Prompting Segment Anything Model
     </li>
     <li>
         Mentored by <a href="https://www.microsoft.com/applied-sciences/people/kazuhito-koishida">Dr. Kazuhito Koishida</a>
@@ -25,7 +37,7 @@ layout: page
         Multi-Channel Audio-visual Speaker Diarization
     </li>
     <li>
-        Mentored by <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ">Dr. Shi-Xiong Zhang</a>
+        Mentored by <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ">Dr. Shi-Xiong (Austin) Zhang</a>
     </li>
 </ul>
 
