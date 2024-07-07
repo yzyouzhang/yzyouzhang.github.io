@@ -4,6 +4,8 @@ title: Publications
 ---
 
 ### Preprints (In submission)
+<p>[2] Kyungbok Lee, <strong>You Zhang<strong>, and Zhiyao Duan, <strong>A Multi-Stream Fusion Approach with One-Class Learning for Audio-Visual Deepfake Detection</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2406.14176">arXiv</a>&gt; </p>
+
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
 
 ### Book Chapters
@@ -17,12 +19,13 @@ title: Publications
 <p>[1] <strong>You Zhang</strong>, Fei Jiang, and Zhiyao Duan, <strong>One-Class Learning Towards Synthetic Voice Spoofing Detection</strong>, <em>IEEE Signal Processing Letters</em>, vol. 28, pp. 937-941, 2021. &lt;<a href="https://ieeexplore.ieee.org/document/9417604">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2010.13995">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/AIR-ASVspoof">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf">poster</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf">slides</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=pX9aq8CaIvk">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/projects/asvspoof.html">project</a>&gt; </p>
 
 ### Peer-reviewed Conferences and Workshops
+<p>[13] Yongyi Zang, Jiatong Shi, <strong>You Zhang</strong>, Ryuichi Yamamoto, Jionghao Han, Yuxun Tang, Shengyuan Xu, Wenxiao Zhao, Jing Guo, Tomoki Toda, and Zhiyao Duan. <strong>CtrSVDD: A Benchmark Dataset and Baseline Analysis for Controlled Singing Voice Deepfake Detection</strong>, in <em>Proc. Interspeech</em>, 2024. &lt;<a href="https://arxiv.org/pdf/2406.02438">arXiv</a>&gt; &lt;<a href="https://github.com/SVDDChallenge/CtrSVDD2024_Baseline">code</a>&gt; </p>
+
 <p>[12] Yongyi Zang*, <strong>You Zhang*</strong>, Mojtaba Heydari, and Zhiyao Duan,  <strong>SingFake: Singing Voice Deepfake Detection</strong>, in <em>Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. (* equal contribution) &lt;<a href="https://ieeexplore.ieee.org/document/10448184">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2309.07525">arXiv</a>&gt; &lt;<a href="https://github.com/yongyizang/SingFake">code</a>&gt; &lt;<a href="https://www.singfake.org/">webpage</a>&gt;</p>
 
 <p>[11] Enting Zhou, <strong>You Zhang</strong>, and Zhiyao Duan,  <strong>Learning Arousal-Valence Representation from Categorical Emotion Labels of Speech</strong>, in <em>Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. &lt;<a href="https://ieeexplore.ieee.org/document/10445890">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2311.14816">arXiv</a>&gt; &lt;<a href="https://github.com/ETZET/SpeechEmotionAVLearning">code</a>&gt; </p>
 
 <p>[10] Yutong Wen, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Mitigating Cross-Database Differences for Learning Unified HRTF Representation</strong>, in <em>Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)</em>, 2023. &lt;<a href="https://ieeexplore.ieee.org/document/10248178">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2307.14547">arXiv</a>&gt; &lt;<a href="https://github.com/YutongWen/HRTF_field_norm">code</a>&gt; &lt;<a href="https://youtu.be/NLxLF9mIc3U">video</a>&gt;</p>
-
 
 <p>[9] Yongyi Zang, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Phase perturbation improves channel robustness for speech spoofing countermeasures</strong>, in <em>Proc. Interspeech</em>, 2023, pp. 3162-3166. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2306.03389">arXiv</a>&gt; &lt;<a href="https://github.com/yongyizang/PhaseAntispoofing_INTERSPEECH">code</a>&gt;</p>
 
