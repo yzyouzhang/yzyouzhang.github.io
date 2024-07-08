@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Preprints (In submission)
-<p>[2] Kyungbok Lee, <strong>You Zhang<strong>, and Zhiyao Duan, <strong>A Multi-Stream Fusion Approach with One-Class Learning for Audio-Visual Deepfake Detection</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2406.14176">arXiv</a>&gt; </p>
+<p>[2] Kyungbok Lee, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>A Multi-Stream Fusion Approach with One-Class Learning for Audio-Visual Deepfake Detection</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2406.14176">arXiv</a>&gt; </p>
 
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
 
