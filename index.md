@@ -5,17 +5,26 @@ excerpt: "You Zhang's Homepage"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 
-I am a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2024_Jun.pdf).
+I am a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2024_Aug.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing.
 This includes topics such as **audio deepfake detection, personalized spatial audio, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, SPL, Interspeech, WASPAA, TMM. I received recognition through the Rising Star Program in Signal Processing at ICASSP 2023 and the Graduate Research Fellowship Program from National Institute of Justice.
+
 In my spare time, I am fond of paddle boarding, traveling, and movies.
 
-If you are interested in my research or would like to collaborate with me, you are welcome to email me.
+<!-- If you are interested in my research or would like to collaborate with me, you are welcome to email me. -->
+
+<span style="color:red">I am actively seeking faculty positions in academia as well as full-time research scientist roles in industry. Please feel free to reach out if you have opportunities or would like to connect!</span>.
 
 
 ### News
-[2024/05] I joined Meta Reality Labs Research Audio as a Research Scientist intern, working with Dr. [Ishwarya Ananthabhotla](https://www.ishwarya.me/).
+[2024/08] Our SVDD challenge overview paper accepted by [SLT 2024](https://2024.ieeeslt.org/)! 
+
+[2024/08] One paper accepted by [MMSP 2024](https://attend.ieee.org/mmsp-2024/). Congrats, Kyungbok! 
+
+[2024/07] We presented our tutorial on ["Multimedia Deepfake Detection"](https://github.com/yzyouzhang/Awesome-Multimedia-Deepfake-Detection) at [ICME 2024](https://2024.ieeeicme.org/).
+
+[2024/05] I joined Meta Reality Labs Research Audio as a Research Scientist Intern, working with Dr. [Ishwarya Ananthabhotla](https://www.ishwarya.me/).
 
 [2024/04] I gave a 1-hour tutorial on "Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming" at [2024 AES International Conference on Audio for Games](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [[Slides](./resources/Personalizing_Spatial_Audio_Machine_Learning_for_Personalized_Head-Related_Transfer_Functions_(HRTFs)_Modeling_in_Gaming.pdf)]
 
@@ -28,8 +37,6 @@ If you are interested in my research or would like to collaborate with me, you a
 [2024/03] I gave a talk at [GenAI Spring School](https://aihouse.org.ua/en/event/generative-ai-spring-school/) and [AI Bootcamp](https://www.meetup.com/5b95b105-bc24-49fb-b4f8-9ddfcb5db0ff/events/299933650/) on "Audio Deepfake Detection".
 
 [2024/02] I was delighted to share insights on detecting audio deepfakes in a recent piece by [NBC News](https://www.nbcnews.com/tech/misinformation/ai-generated-audio-detect-tool-model-rcna136634).
-
-[2024/02] Our tutorial on "Multimedia Deepfake Detection" has been accepted at [ICME 2024](https://2024.ieeeicme.org/).
 
 [2023/12] I gave a talk at Nanjing University on "Improving Generalization Ability for Audio Deepfake Detection". [[Slides](./resources/Improving_Generalization_Ability_for_Audio_Deepfake_Detection_20231228_Nanjing_University.pdf)]
 

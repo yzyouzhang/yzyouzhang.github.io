@@ -3,9 +3,7 @@ layout: post-index
 title: Publications
 ---
 
-### Preprints (In submission)
-<p>[2] Kyungbok Lee, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>A Multi-Stream Fusion Approach with One-Class Learning for Audio-Visual Deepfake Detection</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2406.14176">arXiv</a>&gt; </p>
-
+### Preprints
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
 
 ### Book Chapters
@@ -19,7 +17,12 @@ title: Publications
 <p>[1] <strong>You Zhang</strong>, Fei Jiang, and Zhiyao Duan, <strong>One-Class Learning Towards Synthetic Voice Spoofing Detection</strong>, <em>IEEE Signal Processing Letters</em>, vol. 28, pp. 937-941, 2021. &lt;<a href="https://ieeexplore.ieee.org/document/9417604">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2010.13995">arXiv</a>&gt; &lt;<a href="https://github.com/yzyouzhang/AIR-ASVspoof">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf">poster</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf">slides</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=pX9aq8CaIvk">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/projects/asvspoof.html">project</a>&gt; </p>
 
 ### Peer-reviewed Conferences and Workshops
-<p>[13] Yongyi Zang, Jiatong Shi, <strong>You Zhang</strong>, Ryuichi Yamamoto, Jionghao Han, Yuxun Tang, Shengyuan Xu, Wenxiao Zhao, Jing Guo, Tomoki Toda, and Zhiyao Duan. <strong>CtrSVDD: A Benchmark Dataset and Baseline Analysis for Controlled Singing Voice Deepfake Detection</strong>, in <em>Proc. Interspeech</em>, 2024. &lt;<a href="https://arxiv.org/pdf/2406.02438">arXiv</a>&gt; &lt;<a href="https://github.com/SVDDChallenge/CtrSVDD2024_Baseline">code</a>&gt; </p>
+
+<p>[15] <strong>You Zhang</strong>, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan, <strong>SVDD 2024: The Inaugural Singing Voice Deepfake Detection Challenge</strong>, in <em>Proc. IEEE Spoken Language Technology Workshop (SLT)</em>, 2024. &lt;<a href="https://arxiv.org/abs/2408.16132">arXiv</a>&gt; &lt;<a href="https://github.com/SVDDChallenge/CtrSVDD2024_Baseline">code</a>&gt;</p>
+
+<p>[14] Kyungbok Lee, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>A Multi-Stream Fusion Approach with One-Class Learning for Audio-Visual Deepfake Detection</strong>, in <em>Proc. IEEE 26th International Workshop on Multimedia Signal Processing (MMSP)</em>, 2024. &lt;<a href="https://arxiv.org/abs/2406.14176">arXiv</a>&gt; &lt;<a href="https://github.com/bok-bok/MSOC">code</a>&gt;</p>
+
+<p>[13] Yongyi Zang, Jiatong Shi, <strong>You Zhang</strong>, Ryuichi Yamamoto, Jionghao Han, Yuxun Tang, Shengyuan Xu, Wenxiao Zhao, Jing Guo, Tomoki Toda, and Zhiyao Duan. <strong>CtrSVDD: A Benchmark Dataset and Baseline Analysis for Controlled Singing Voice Deepfake Detection</strong>, in <em>Proc. Interspeech</em>, 2024. &lt;<a href="https://arxiv.org/pdf/2406.02438">arXiv</a>&gt; &lt;<a href="https://zenodo.org/records/10467648">dataset</a>&gt; </p>
 
 <p>[12] Yongyi Zang*, <strong>You Zhang*</strong>, Mojtaba Heydari, and Zhiyao Duan,  <strong>SingFake: Singing Voice Deepfake Detection</strong>, in <em>Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. (* equal contribution) &lt;<a href="https://ieeexplore.ieee.org/document/10448184">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2309.07525">arXiv</a>&gt; &lt;<a href="https://github.com/yongyizang/SingFake">code</a>&gt; &lt;<a href="https://www.singfake.org/">webpage</a>&gt;</p>
 
@@ -43,7 +46,7 @@ title: Publications
 
 <p>[2] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko, <strong>Global HRTF Personalization Using Anthropometric Measures</strong>, in <em>Audio Engineering Society 150th Convention</em>, 2021. &lt;<a href="https://www.aes.org/e-lib/browse.cfm?elib=21095">link</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Wang21HRTF.pdf">pdf</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_sht_personalization">code</a>&gt; </p>
 
-<p>[1] <strong>You Zhang</strong>, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech</em>, 2021, pp. 4309-4313. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
+<p>[1] <strong>You Zhang</strong>, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech</em>, 2021, pp. 4309-4313. &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; &lt;<a href="https://zenodo.org/records/5794671">dataset</a>&gt; </p>
 
 ### Conference Abstracts
 <p>[3] <strong>You Zhang</strong>, Yuxiang Wang, Mark Bocko, and Zhiyao Duan, <strong>Grid-agnostic personalized head-related transfer function modeling with neural fields</strong>, in <em>Acoustical Society of America 184th Meeting</em>, 2023. (<strong>Recognized by Signal Processing at the ASA Student Paper Award - Second Place</strong>)
