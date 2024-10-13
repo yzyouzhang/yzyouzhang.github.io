@@ -59,6 +59,11 @@ layout: page
 **Xinhui Chen**, Computer Science Master@UR, Next Move: PhD student@Lehigh
 
 ## Tutorials
+Multimedia Deepfake Detection
+
+[*2024 IEEE International Conference on Multimedia and Expo (ICME)*](https://2024.ieeeicme.org/). [[GitHub](https://github.com/yzyouzhang/Awesome-Multimedia-Deepfake-Detection)]
+
+
 Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming
 
 [*2024 AES International Conference on Audio for Games*](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [[Slides](https://static.sched.com/hosted_files/aes2024afg6/82/Personalizing%20Spatial%20Audio_%20Machine%20Learning%20for%20Personalized%20Head-Related%20Transfer%20Functions%20%28HRTFs%29%20Modeling%20in%20Gaming.pdf)]

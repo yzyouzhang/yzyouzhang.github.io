@@ -3,8 +3,14 @@ layout: post-index
 title: Publications
 ---
 
+For the most up-to-date list of publications and citation counts, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=nYtHcRAAAAAJ&view_op=list_works&sortby=pubdate).
+
 ### Preprints
-<p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
+<p>[3] Kun Zhou, <strong>You Zhang</strong>, Shengkui Zhao, Hao Wang, Zexu Pan, Dianwen Ng, Chong Zhang, Chongjia Ni, Yukun Ma, Trung Hieu Nguyen, Jia Qi Yip, and Bin Ma,  <strong>Emotional Dimension Control in Language Model-Based Text-to-Speech: Spanning a Broad Spectrum of Human Emotions</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2409.16681">arXiv</a>&gt; &lt;<a href="https://kunzhou9646.github.io/emo-icassp25/">demo</a>&gt;</p>
+
+<p>[2] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2024. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
+
+<p>[1] <strong>You Zhang*</strong>, Ge Zhu*, Julia M. Soto*, Samantha E. Lettenberger*, Maryam Zafar, Peggy Auinger, Abigail Arky, Emma Waddell, Kelsey Spear, Rajbir Toor, Grace Nkrumah, Emily A. Hartman, Jacob Epifano, Michael J. Hasselberg, Anton P. Porsteinsson, Rich Christie, Zhiyao Duan, Aaron J. Masino, and E. Ray Dorsey,  <strong>Words Spoken Daily among Individuals with Neurodegenerative Conditions: A Pilot Study</strong>, 2023. (* equal contribution) </p>
 
 ### Book Chapters
 
@@ -18,7 +24,7 @@ title: Publications
 
 ### Peer-reviewed Conferences and Workshops
 
-<p>[15] <strong>You Zhang</strong>, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan, <strong>SVDD 2024: The Inaugural Singing Voice Deepfake Detection Challenge</strong>, in <em>Proc. IEEE Spoken Language Technology Workshop (SLT)</em>, 2024. &lt;<a href="https://arxiv.org/abs/2408.16132">arXiv</a>&gt; &lt;<a href="https://github.com/SVDDChallenge/CtrSVDD2024_Baseline">code</a>&gt;</p>
+<p>[15] <strong>You Zhang</strong>, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan, <strong>SVDD 2024: The Inaugural Singing Voice Deepfake Detection Challenge</strong>, in <em>Proc. IEEE Spoken Language Technology Workshop (SLT)</em>, 2024. &lt;<a href="https://arxiv.org/abs/2408.16132">arXiv</a>&gt; &lt;<a href="https://github.com/SVDDChallenge/CtrSVDD2024_Baseline">code</a>&gt; &lt;<a href="https://main.singfake.org/">webpage</a>&gt;</p>
 
 <p>[14] Kyungbok Lee, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>A Multi-Stream Fusion Approach with One-Class Learning for Audio-Visual Deepfake Detection</strong>, in <em>Proc. IEEE 26th International Workshop on Multimedia Signal Processing (MMSP)</em>, 2024. &lt;<a href="https://arxiv.org/abs/2406.14176">arXiv</a>&gt; &lt;<a href="https://github.com/bok-bok/MSOC">code</a>&gt;</p>
 
