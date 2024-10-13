@@ -5,7 +5,7 @@ excerpt: "You Zhang's Homepage"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 
-I am a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2024_Aug.pdf).
+I am a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2024_Oct.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing.
 This includes topics such as **audio deepfake detection, personalized spatial audio, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, SPL, Interspeech, WASPAA, TMM. I received recognition through the Rising Star Program in Signal Processing at ICASSP 2023 and the Graduate Research Fellowship Program from National Institute of Justice.
@@ -14,10 +14,12 @@ In my spare time, I am fond of paddle boarding, traveling, and movies.
 
 <!-- If you are interested in my research or would like to collaborate with me, you are welcome to email me. -->
 
-<span style="color:red">I am actively seeking faculty positions in academia as well as full-time research scientist roles in industry. Please feel free to reach out if you have opportunities or would like to connect!</span>.
+<span style="color:red">I am actively seeking faculty positions in academia as well as full-time research scientist roles in industry. Please feel free to reach out if you have opportunities or would like to connect!</span>
 
 
 ### News
+[2024/09] Our new WildSVDD challenge is ongoing at [MIREX 2024 @ ISMIR](https://www.music-ir.org/mirex/wiki/2024:Singing_Voice_Deepfake_Detection)! 
+
 [2024/08] Our SVDD challenge overview paper accepted by [SLT 2024](https://2024.ieeeslt.org/)! 
 
 [2024/08] One paper accepted by [MMSP 2024](https://attend.ieee.org/mmsp-2024/). Congrats, Kyungbok! 
@@ -76,6 +78,14 @@ In my spare time, I am fond of paddle boarding, traveling, and movies.
 ### Selected Publications
 (For full list, see [Publications](https://yzyouzhang.com/research/))
 
+[3] You Zhang, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan,
+**SVDD 2024: The Inaugural Singing Voice Deepfake Detection Challenge**, in *Proc. IEEE Spoken Language Technology Workshop (SLT)*, 2024. 
+[[arXiv](https://arxiv.org/abs/2408.16132)] [[code](https://github.com/SVDDChallenge)]  [[webpage](https://main.singfake.org/)] 
+
+[2] You Zhang, Yuxiang Wang, and Zhiyao Duan,
+**HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields**, in *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023. 
+[[DOI](https://ieeexplore.ieee.org/document/10095801)] [[arXiv](https://arxiv.org/abs/2210.15196)] [[code](https://github.com/yzyouzhang/hrtf_field)] [[video](https://youtu.be/HoQg8YzX1jg)]  (**Recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing)**)
+
 [1] You Zhang, Fei Jiang, and Zhiyao Duan, 
 **One-Class Learning Towards Synthetic Voice Spoofing Detection**, 
 *IEEE Signal Processing Letters*, 
@@ -83,12 +93,9 @@ vol. 28, pp. 937-941, 2021.
 [[DOI](https://ieeexplore.ieee.org/document/9417604)] [[arXiv](https://arxiv.org/abs/2010.13995)] [[code](https://github.com/yzyouzhang/AIR-ASVspoof)] 
 [[video](https://www.youtube.com/watch?v=pX9aq8CaIvk)] [[poster](https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf)] [[slides](https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf)] [[project](https://labsites.rochester.edu/air/projects/asvspoof.html)]
 
-[2] You Zhang, Yuxiang Wang, and Zhiyao Duan,
-**HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields**, in *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023. 
-[[DOI](https://ieeexplore.ieee.org/document/10095801)] [[arXiv](https://arxiv.org/abs/2210.15196)] [[code](https://github.com/yzyouzhang/hrtf_field)] [[video](https://youtu.be/HoQg8YzX1jg)]  (**Recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing)**)
 
-[3] Sefik Emre Eskimez, You Zhang, and Zhiyao Duan, **Speech Driven Talking Face Generation From a Single Image and an Emotion Condition**, *IEEE Transactions on Multimedia*, vol. 24, pp. 3480-3490, 2022. 
-[[DOI](https://ieeexplore.ieee.org/document/9496264)] [[arXiv](https://arxiv.org/abs/2008.03592)] [[code](https://github.com/eeskimez/emotalkingface)] [[project](https://labsites.rochester.edu/air/projects/tfaceemo.html)]
+<!-- [3] Sefik Emre Eskimez, You Zhang, and Zhiyao Duan, **Speech Driven Talking Face Generation From a Single Image and an Emotion Condition**, *IEEE Transactions on Multimedia*, vol. 24, pp. 3480-3490, 2022. 
+[[DOI](https://ieeexplore.ieee.org/document/9496264)] [[arXiv](https://arxiv.org/abs/2008.03592)] [[code](https://github.com/eeskimez/emotalkingface)] [[project](https://labsites.rochester.edu/air/projects/tfaceemo.html)] -->
 
 
 
@@ -96,7 +103,7 @@ vol. 28, pp. 937-941, 2021.
 [2] You Zhang, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech 2021</em>, pp. 4309-4313, 2021. &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
 -->
 
-<a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_48/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
   
