@@ -11,6 +11,9 @@ layout: page
         Research Intern (May 2024 - Sep 2024)
     </li>
     <li>
+        Perceptual Head-Related Transfer Function (HRTF) Representation Learning
+    </li>
+    <li>
         Mentored by <a href="https://www.ishwarya.me/">Dr. Ishwarya Ananthabhotla</a>
     </li>
 </ul>

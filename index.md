@@ -5,22 +5,28 @@ excerpt: "You Zhang's Homepage"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 
-I am a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2024_Oct.pdf).
+I am a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/). Take a look at [my CV](./You_Neil_Zhang_CV_2024_Dec.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing.
-This includes topics such as **audio deepfake detection, personalized spatial audio, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, SPL, Interspeech, WASPAA, TMM. I received recognition through the Rising Star Program in Signal Processing at ICASSP 2023 and the Graduate Research Fellowship Program from National Institute of Justice.
+This includes topics such as **audio deepfake detection, personalized spatial audio, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, and IEEE Signal Processing Society Scholarship.
 
 In my spare time, I am fond of paddle boarding, traveling, and movies.
 
 <!-- If you are interested in my research or would like to collaborate with me, you are welcome to email me. -->
 
+<!-- You (Neil) Zhang is a PhD candidate in the Department of Electrical and Computer Engineering at University of Rochester. His research centers on applied machine learning with a specialization in speech and audio processing, including areas such as audio deepfake detection, spatial audio, and audio-visual analysis. Neil's work has been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, and TMM. He has also gained industrial research experience through internships at Bytedance, Tencent, Microsoft, and Meta. His achievements have been recognized by the Rising Star Program in Signal Processing at ICASSP 2023 and the NIJ Graduate Research Fellowship Program. -->
+
 <span style="color:red">I am actively seeking faculty positions in academia as well as full-time research scientist roles in industry. Please feel free to reach out if you have opportunities or would like to connect!</span>
 
 
 ### News
-[2024/09] Our new WildSVDD challenge is ongoing at [MIREX 2024 @ ISMIR](https://www.music-ir.org/mirex/wiki/2024:Singing_Voice_Deepfake_Detection)! 
+[2024/12] We are organizing the [SVDD special session](https://svddchallenge.org/challenges/special_session_ieee_slt.html) @ IEEE SLT 2024!
 
-[2024/08] Our SVDD challenge overview paper accepted by [SLT 2024](https://2024.ieeeslt.org/)! 
+[2024/11] I was awarded the [IEEE SPS Scholarship](https://www.credential.net/2d530448-6949-4ea9-b8d9-c2ea5d731cd0)! Thank you, IEEE Signal Processing Society!
+
+[2024/09] Our new WildSVDD challenge is held successfully at [MIREX @ ISMIR 2024](https://www.music-ir.org/mirex/wiki/2024:Singing_Voice_Deepfake_Detection)! 
+
+[2024/08] Our SVDD challenge overview paper is accepted by [IEEE SLT 2024](https://2024.ieeeslt.org/)! 
 
 [2024/08] One paper accepted by [MMSP 2024](https://attend.ieee.org/mmsp-2024/). Congrats, Kyungbok! 
 
@@ -80,18 +86,18 @@ In my spare time, I am fond of paddle boarding, traveling, and movies.
 
 [3] You Zhang, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan,
 **SVDD 2024: The Inaugural Singing Voice Deepfake Detection Challenge**, in *Proc. IEEE Spoken Language Technology Workshop (SLT)*, 2024. 
-[[arXiv](https://arxiv.org/abs/2408.16132)] [[code](https://github.com/SVDDChallenge)]  [[webpage](https://main.singfake.org/)] 
+[[arXiv](https://arxiv.org/abs/2408.16132)] [[code](https://github.com/SVDDChallenge)] [[illuminate](https://illuminate.google.com/library?play=LGAsgb_o9oZp)] [[webpage](https://main.singfake.org/)] 
 
 [2] You Zhang, Yuxiang Wang, and Zhiyao Duan,
 **HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields**, in *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023. 
-[[DOI](https://ieeexplore.ieee.org/document/10095801)] [[arXiv](https://arxiv.org/abs/2210.15196)] [[code](https://github.com/yzyouzhang/hrtf_field)] [[video](https://youtu.be/HoQg8YzX1jg)]  (**Recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing)**)
+[[DOI](https://ieeexplore.ieee.org/document/10095801)] [[arXiv](https://arxiv.org/abs/2210.15196)] [[code](https://github.com/yzyouzhang/hrtf_field)] [[video](https://youtu.be/HoQg8YzX1jg)] [[illuminate](https://illuminate.google.com/library?play=K7DSgh_8HMlW)] (**Recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing)**)
 
 [1] You Zhang, Fei Jiang, and Zhiyao Duan, 
 **One-Class Learning Towards Synthetic Voice Spoofing Detection**, 
 *IEEE Signal Processing Letters*, 
 vol. 28, pp. 937-941, 2021.
 [[DOI](https://ieeexplore.ieee.org/document/9417604)] [[arXiv](https://arxiv.org/abs/2010.13995)] [[code](https://github.com/yzyouzhang/AIR-ASVspoof)] 
-[[video](https://www.youtube.com/watch?v=pX9aq8CaIvk)] [[poster](https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf)] [[slides](https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf)] [[project](https://labsites.rochester.edu/air/projects/asvspoof.html)]
+[[video](https://www.youtube.com/watch?v=pX9aq8CaIvk)] [[poster](https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf)] [[slides](https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf)] [[project](https://labsites.rochester.edu/air/projects/asvspoof.html)] [[illuminate](https://illuminate.google.com/library?play=RMGW3d__a5PH3)]
 
 
 <!-- [3] Sefik Emre Eskimez, You Zhang, and Zhiyao Duan, **Speech Driven Talking Face Generation From a Single Image and an Emotion Condition**, *IEEE Transactions on Multimedia*, vol. 24, pp. 3480-3490, 2022. 
