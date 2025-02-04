@@ -18,13 +18,13 @@ In my spare time, I am fond of paddle boarding, traveling, and movies.
 
 <span style="color:red">I am actively seeking postdoc and faculty positions in academia as well as research scientist roles in industrial labs. Please feel free to reach out if you have opportunities or would like to connect!</span>
 
-[Research Statement](./resources/You_Neil_Zhang_research_statement.pdf) | [Teaching Statement](./resources/You_Neil_Zhang_teaching_statement.pdf) | [Diversity Statement](./resources/You_Neil_Zhang_diversity_statement.pdf)
+[Research Statement](./resources/You_Neil_Zhang_research_statement.pdf) \| [Teaching Statement](./resources/You_Neil_Zhang_teaching_statement.pdf) \| [Diversity Statement](./resources/You_Neil_Zhang_diversity_statement.pdf)
 
 
 ### News
 [2024/12] We are organizing the [SVDD special session](https://svddchallenge.org/challenges/special_session_ieee_slt.html) @ IEEE SLT 2024!
 
-[2024/11] I was awarded the [IEEE SPS Scholarship](https://www.credential.net/2d530448-6949-4ea9-b8d9-c2ea5d731cd0)! Thank you, IEEE Signal Processing Society!
+[2024/11] I was awarded the [**IEEE SPS Scholarship**](https://www.credential.net/2d530448-6949-4ea9-b8d9-c2ea5d731cd0)! Thank you, IEEE Signal Processing Society!
 
 [2024/09] Our new WildSVDD challenge is held successfully at [MIREX @ ISMIR 2024](https://www.music-ir.org/mirex/wiki/2024:Singing_Voice_Deepfake_Detection)! 
 
