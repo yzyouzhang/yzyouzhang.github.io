@@ -1,0 +1,3 @@
+[submodule "PartialEdit"]
+	path = PartialEdit
+	url = https://github.com/yzyouzhang/PartialEdit_Demo.git
