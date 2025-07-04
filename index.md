@@ -16,9 +16,9 @@ In my spare time, I am fond of paddle boarding, traveling, and movies.
 
 <!-- You (Neil) Zhang is a PhD candidate in the Department of Electrical and Computer Engineering at University of Rochester. His research centers on applied machine learning with a specialization in speech and audio processing, including areas such as audio deepfake detection, spatial audio, and audio-visual analysis. Neil's work has been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, and TMM. He has also gained industrial research experience through internships at Bytedance, Tencent, Microsoft, and Meta. His achievements have been recognized by the Rising Star Program in Signal Processing at ICASSP 2023 and the NIJ Graduate Research Fellowship Program. -->
 
-<span style="color:red">I am actively seeking postdoc and faculty positions in academia as well as research scientist roles in industrial labs. Please feel free to reach out if you have opportunities or would like to connect!</span>
+<!-- <span style="color:red">I am actively seeking postdoc and faculty positions in academia as well as research scientist roles in industrial labs. Please feel free to reach out if you have opportunities or would like to connect!</span>
 
-[Research Statement](./resources/You_Neil_Zhang_research_statement.pdf) \| [Teaching Statement](./resources/You_Neil_Zhang_teaching_statement.pdf) \| [Diversity Statement](./resources/You_Neil_Zhang_diversity_statement.pdf)
+[Research Statement](./resources/You_Neil_Zhang_research_statement.pdf) \| [Teaching Statement](./resources/You_Neil_Zhang_teaching_statement.pdf) \| [Diversity Statement](./resources/You_Neil_Zhang_diversity_statement.pdf) -->
 
 
 ### News
