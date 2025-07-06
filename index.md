@@ -5,7 +5,7 @@ excerpt: "You Zhang's Homepage"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 
-I am a Seniro Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2025_Jul.pdf).
+I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2025_Jul.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing.
 This includes topics such as **spatial audio, audio deepfake detection, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, and IEEE Signal Processing Society Scholarship.
@@ -24,7 +24,7 @@ In my spare time, I am fond of paddle boarding, traveling, and movies.
 ### News
 [2025/07] One paper accepted by [IEEE WASPAA 2025](https://waspaa.com/)!
 
-[2025/06] I joied Dolby Lab at Atlanta as a Senior Researcher!
+[2025/06] I joined Dolby Lab at Atlanta as a Senior Researcher!
 
 [2025/06] One paper accepted by [Interpseech 2025](https://interspeech2025.org/) and one paper accepted by [IEEE ICIP 2025](https://2025.ieeeicip.org/)!
 
