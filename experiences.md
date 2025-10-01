@@ -5,6 +5,19 @@ layout: page
 
 
 ## Industrial
+<b> Dolby </b> - Multimodal Experiences Lab  (Atlanta, GA, USA)
+<ul>
+    <li>
+        Senior Researcher on Spatial Audio and Multimodal AI (Jun 2025 - Present)
+    </li>
+    <!-- <li>
+        Perceptual Head-Related Transfer Function (HRTF) Representation Learning
+    </li> -->
+    <!-- <li>
+        Mentored by <a href="https://www.ishwarya.me/">Dr. Ishwarya Ananthabhotla</a>
+    </li> -->
+</ul>
+
 <b> Meta </b> - Meta Reality Labs  (Redmond, WA, USA)
 <ul>
     <li>
