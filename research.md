@@ -19,6 +19,8 @@ For the most up-to-date list of publications and citation counts, please visit m
 
 ### Journals
 
+<p>[4] 
+
 <p>[3] Xin Wang, Héctor Delgado, Hemlata Tak, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi, Myeonghun Jeong, Ge Zhu, Yongyi Zang, <strong>You Zhang</strong>, Soumi Maiti, Florian Lux, Nicolas Müller, Wangyou Zhang, Chengzhe Sun, Shuwei Hou, Siwei Lyu, Sébastien Le Maguer, Cheng Gong, Hanjie Guo, Liping Chen, and Vishwanath Singh. <strong>ASVspoof 5: Design, Collection, and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech</strong>, in <em>Computer Speech & Language</em>, 2025. &lt;<a href="https://doi.org/10.1016/j.csl.2025.101825">link</a>&gt; &lt;<a href="https://doi.org/10.5281/zenodo.14498690">dataset</a>&gt;</p>
 
 <p>[2] Sefik Emre Eskimez, <strong>You Zhang</strong>, and Zhiyao Duan, <strong>Speech Driven Talking Face Generation From a Single Image and an Emotion Condition</strong>, <em>IEEE Transactions on Multimedia</em>, vol. 24, pp. 3480-3490, 2022. &lt;<a href="https://ieeexplore.ieee.org/document/9496264">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2008.03592">arXiv</a>&gt; &lt;<a href="https://github.com/eeskimez/emotalkingface">code</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/projects/tfaceemo.html">project</a>&gt; </p>
