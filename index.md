@@ -5,14 +5,24 @@ excerpt: "You Zhang's Homepage"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 
-I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2025_Jul.pdf).
+*Last Update: 09/30/2025*
+
+I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2025_Sep.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing.
 This includes topics such as **spatial audio, audio deepfake detection, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, and IEEE Signal Processing Society Scholarship.
 
-In my spare time, I am fond of paddle boarding, traveling, and movies.
+<!-- Research interests with representative publication:
+Spatial Audio: List title also
+AES 2021, ICASSP 2023, WASPAA 2025
+Deepfake Detection: 
+SPL 2021, ICASSP 2023, SLT 2024
+Audio-Visual:
+TMM, MLSP, ICIP -->
 
-<!-- If you are interested in my research or would like to collaborate with me, you are welcome to email me. -->
+In my spare time, I am fond of paddleboarding, traveling, scuba diving, and movies.
+
+If you are interested in my research or would like a chat, you are welcome to reach out.
 
 <!-- You (Neil) Zhang is a PhD candidate in the Department of Electrical and Computer Engineering at University of Rochester. His research centers on applied machine learning with a specialization in speech and audio processing, including areas such as audio deepfake detection, spatial audio, and audio-visual analysis. Neil's work has been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, and TMM. He has also gained industrial research experience through internships at Bytedance, Tencent, Microsoft, and Meta. His achievements have been recognized by the Rising Star Program in Signal Processing at ICASSP 2023 and the NIJ Graduate Research Fellowship Program. -->
 
@@ -22,6 +32,11 @@ In my spare time, I am fond of paddle boarding, traveling, and movies.
 
 
 ### News
+
+*****Upcoming Travel***** I will be attending WASPAA 2025 (10.12-10.17) at Tahoe City, CA, SANE (11.7) at New York City, NY, and ASA/ASJ and ASRU (12.3-12.12) at Honolulu, HI.
+
+[2025/09] A [survey paper on ML for acoustics](https://www.nature.com/articles/s44384-025-00021-w) is open access online, published on npj Acoustics!
+
 [2025/07] One paper accepted by [IEEE WASPAA 2025](https://waspaa.com/)!
 
 [2025/06] I joined Dolby Lab at Atlanta as a Senior Researcher!
