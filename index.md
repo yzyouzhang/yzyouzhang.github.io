@@ -33,7 +33,7 @@ If you are interested in my research or would like a chat, you are welcome to re
 
 ### News
 
-*****Upcoming Travel***** I will be attending WASPAA 2025 (10.12-10.17) at Tahoe City, CA, SANE (11.7) at New York City, NY, and ASA/ASJ and ASRU (12.3-12.12) at Honolulu, HI.
+*****Upcoming Travel 2025***** I will be attending [WASPAA](https://waspaa.com/technical-program-schedule/) (10.12-10.17) at Tahoe City, CA, [SANE](https://saneworkshop.org/sane2025/) (11.7) at New York City, NY, and [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [ASRU](https://2025.ieeeasru.org/program/special-sessions) (12.3-12.12) at Honolulu, HI.
 
 [2025/09] A [survey paper on ML for acoustics](https://www.nature.com/articles/s44384-025-00021-w) is open access online, published on npj Acoustics!
 

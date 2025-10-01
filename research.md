@@ -7,6 +7,8 @@ For the most up-to-date list of publications and citation counts, please visit m
 
 ### Preprints
 
+<p>[3] Xuanjun Chen, Chia-Yu Hu, I-Ming Lin, Yi-Cheng Lin, I-Hsiang Chiu, <strong>You Zhang</strong>, Sung-Feng Huang, Yi-Hsuan Yang, Haibin Wu, Hung-yi Lee, and Jyh-Shing Roger Jang. <strong>How Does Instrumental Music Help SingFake Detection?</strong>, 2025. &lt;<a href="https://arxiv.org/abs/2509.14675">arXiv</a>&gt; </p>
+
 <p>[2] Kun Zhou, <strong>You Zhang</strong>, Shengkui Zhao, Hao Wang, Zexu Pan, Dianwen Ng, Chong Zhang, Chongjia Ni, Yukun Ma, Trung Hieu Nguyen, Jia Qi Yip, and Bin Ma,  <strong>Emotional Dimension Control in Language Model-Based Text-to-Speech: Spanning a Broad Spectrum of Human Emotions</strong>, 2025. &lt;<a href="https://arxiv.org/abs/2409.16681">arXiv</a>&gt; &lt;<a href="https://kunzhou9646.github.io/emo-icassp25/">demo</a>&gt;</p>
 
 <p>[1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko,  <strong>Predicting Global Head-Related Transfer Functions From Scanned Head Geometry Using Deep Learning and Compact Representations</strong>, 2025. &lt;<a href="https://arxiv.org/abs/2207.14352">arXiv</a>&gt; &lt;<a href="https://github.com/YuriWayne42/hrtf_personalization_fromMesh">code</a>&gt;</p>
@@ -19,7 +21,7 @@ For the most up-to-date list of publications and citation counts, please visit m
 
 ### Journals
 
-<p>[4] Ryan A. McCarthy, <strong>You Zhang</strong>, Samuel A. Verburg, William F. Jenkins, and Peter Gerstoft. <strong>Machine Learning in Acoustics: A Review and Open-Source Repository</strong>, in <em>npj Acoustics</em>, vol. 1, p. 18, 2025. &lt;<a href="https://www.nature.com/articles/s44384-025-00021-w">DOI</a>&gt; &lt;<a href="https://arxiv.org/abs/2507.04419">arXiv</a>&gt; &lt;<a href="https://github.com/RAMshades/AcousticsML">code</a>&gt;</p>
+<p>[4] Ryan A. McCarthy, <strong>You Zhang</strong>, Samuel A. Verburg, William F. Jenkins, and Peter Gerstoft. <strong>Machine Learning in Acoustics: A Review and Open-Source Repository</strong>, in <em>npj Acoustics</em>, vol. 1, p. 18, 2025. &lt;<a href="https://www.nature.com/articles/s44384-025-00021-w">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2507.04419">arXiv</a>&gt; &lt;<a href="https://github.com/RAMshades/AcousticsML">code</a>&gt;</p>
 
 <p>[3] Xin Wang, Héctor Delgado, Hemlata Tak, Jee-weon Jung, Hye-jin Shim, Massimiliano Todisco, Ivan Kukanov, Xuechen Liu, Md Sahidullah, Tomi Kinnunen, Nicholas Evans, Kong Aik Lee, Junichi Yamagishi, Myeonghun Jeong, Ge Zhu, Yongyi Zang, <strong>You Zhang</strong>, Soumi Maiti, Florian Lux, Nicolas Müller, Wangyou Zhang, Chengzhe Sun, Shuwei Hou, Siwei Lyu, Sébastien Le Maguer, Cheng Gong, Hanjie Guo, Liping Chen, and Vishwanath Singh. <strong>ASVspoof 5: Design, Collection, and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech</strong>, in <em>Computer Speech & Language</em>, 2025. &lt;<a href="https://doi.org/10.1016/j.csl.2025.101825">link</a>&gt; &lt;<a href="https://doi.org/10.5281/zenodo.14498690">dataset</a>&gt;</p>
 
