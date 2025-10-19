@@ -10,7 +10,7 @@ excerpt: "You Zhang's Homepage"
 I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2025_Sep.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing.
-This includes topics such as **spatial audio, audio deepfake detection, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, and IEEE Signal Processing Society Scholarship.
+This includes topics such as **spatial audio, audio deepfake detection, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at IEEE ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, IEEE Signal Processing Society Scholarship, and IEEE WASPAA Best Student Paper Award.
 
 <!-- Research interests with representative publication:
 Spatial Audio: List title also
@@ -33,7 +33,9 @@ If you are interested in my research or would like a chat, you are welcome to re
 
 ### News
 
-*****Upcoming Travel 2025***** I will be attending [WASPAA](https://waspaa.com/technical-program-schedule/) (10.12-10.17) at Tahoe City, CA, [SANE](https://saneworkshop.org/sane2025/) (11.7) at New York City, NY, and [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [ASRU](https://2025.ieeeasru.org/program/special-sessions) (12.3-12.12) at Honolulu, HI.
+****Upcoming Travel 2025**** I will be attending [SANE](https://saneworkshop.org/sane2025/) (11.7) at New York City, NY, and [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [ASRU](https://2025.ieeeasru.org/program/special-sessions) (12.3-12.12) at Honolulu, HI.
+
+[2025/10] I attended [IEEE WASPAA 2025](https://waspaa.com/technical-program-schedule/) at Lake Tahoe and won the **Best Student Paper Award**!
 
 [2025/09] A [survey paper on ML for acoustics](https://www.nature.com/articles/s44384-025-00021-w) is open access online, published on npj Acoustics!
 
