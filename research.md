@@ -11,6 +11,8 @@ Please explore the list below, where I provide links to preprints, code, dataset
 
 ### Preprints
 
+<p>[4] S Sakshi, Vaibhavi Lokegaonkar, <strong>You Zhang</strong>, Ramani Duraiswami, Sreyan Ghosh, Dinesh Manocha, and Lie Lu. <strong>SPUR: A Plug-and-Play Framework for Integrating Spatial Audio Understanding and Reasoning into Large Audio-Language Models</strong>, in <em>arXiv preprint arXiv:2511.06606</em>, 2025. &lt;<a href="https://arxiv.org/abs/2511.06606">arXiv</a>&gt;</p>
+
 <p>[3] Xuanjun Chen, Chia-Yu Hu, I-Ming Lin, Yi-Cheng Lin, I-Hsiang Chiu, <strong>You Zhang</strong>, Sung-Feng Huang, Yi-Hsuan Yang, Haibin Wu, Hung-yi Lee, and Jyh-Shing Roger Jang. <strong>How Does Instrumental Music Help SingFake Detection?</strong>, 2025. &lt;<a href="https://arxiv.org/abs/2509.14675">arXiv</a>&gt; </p>
 
 <p>[2] Kun Zhou, <strong>You Zhang</strong>, Shengkui Zhao, Hao Wang, Zexu Pan, Dianwen Ng, Chong Zhang, Chongjia Ni, Yukun Ma, Trung Hieu Nguyen, Jia Qi Yip, and Bin Ma,  <strong>Emotional Dimension Control in Language Model-Based Text-to-Speech: Spanning a Broad Spectrum of Human Emotions</strong>, 2025. &lt;<a href="https://arxiv.org/abs/2409.16681">arXiv</a>&gt; &lt;<a href="https://kunzhou9646.github.io/emo-icassp25/">demo</a>&gt;</p>
@@ -35,7 +37,7 @@ Please explore the list below, where I provide links to preprints, code, dataset
 
 ### Peer-reviewed Conferences and Workshops
 
-<p>[19] <strong>You Zhang</strong>, Andrew Francl, Ruohan Gao, Paul Calamia, Zhiyao Duan, and Ishwarya Ananthabhotla. <strong>Towards Perception-Informed Latent HRTF Representations</strong>, in <em>Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)</em>, 2025. &lt;<a href="https://arxiv.org/abs/2507.02815">arXiv</a>&gt;</p> 
+<p>[P19] <strong>You Zhang</strong>, Andrew Francl, Ruohan Gao, Paul Calamia, Zhiyao Duan, and Ishwarya Ananthabhotla. <strong>Towards Perception-Informed Latent HRTF Representations</strong>, in <em>Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)</em>, 2025. &lt;<a href="https://ieeexplore.ieee.org/document/11231001">link</a>&gt; &lt;<a href="https://arxiv.org/abs/2507.02815">arXiv</a>&gt; &lt;<a href="https://youtu.be/nOh75ao5B_w">video</a>&gt; &lt;<a href="https://yzyouzhang.com/resources/WASPAA_O1-5_zhang25towards.pdf">slides</a>&gt; &lt;<a href="https://yzyouzhang.com/resources/WASPAA_P1-6_zhang25towards.pdf">poster</a>&gt;</p>
 
 <p>[18] <strong>You Zhang*</strong>, Baotong Tian*, Lin Zhang, and Zhiyao Duan. <strong>PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing</strong>, in <em>Proc. Interspeech</em>, 2025. (* equal contribution) &lt;<a href="https://www.isca-archive.org/interspeech_2025/zhang25g_interspeech.html">link</a>&gt;  &lt;<a href="https://arxiv.org/abs/2506.02958">arXiv</a>&gt; &lt;<a href="https://doi.org/10.5281/zenodo.15519187">dataset</a>&gt; &lt;<a href="https://yzyouzhang.com/PartialEdit/">demo page</a>&gt;</p> 
 
