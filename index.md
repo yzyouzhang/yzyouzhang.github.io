@@ -35,7 +35,8 @@ If you are interested in my research or would like a chat, you are welcome to re
 
 ****Upcoming Travel 2025**** I will be attending [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [ASRU](https://2025.ieeeasru.org/program/special-sessions) (12.3-12.12) at Honolulu, HI.
 
-[2025/10] I attended [IEEE WASPAA 2025](https://waspaa.com/technical-program-schedule/) at Lake Tahoe and won the **Best Student Paper Award**, then presented the same work at [SANE](https://saneworkshop.org/sane2025/)!
+[2025/10] I attended [IEEE WASPAA 2025](https://waspaa.com/technical-program-schedule/) at Lake Tahoe and won the **Best Student Paper Award**, then presented the work also at [SANE](https://saneworkshop.org/sane2025/)!
+<img src="./images/waspaa2025.jpeg" alt="My WASPAA 2025 with Zhiyao and Ishwarya" width="40%">
 
 [2025/09] A [review paper on ML for acoustics](https://www.nature.com/articles/s44384-025-00021-w) is open access online, published on npj Acoustics!
 
@@ -109,11 +110,11 @@ If you are interested in my research or would like a chat, you are welcome to re
 
 
 ### Selected Publications
-(For full list, see [Publications](https://yzyouzhang.com/research/))
+(For full list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=nYtHcRAAAAAJ&view_op=list_works&sortby=pubdate) or my [Publications](https://yzyouzhang.com/research/) page.)
 
 [4] You Zhang, Andrew Francl, Ruohan Gao, Paul Calamia, Zhiyao Duan, and Ishwarya Ananthabhotla,  
 **Towards Perception-Informed Latent HRTF Representations**, in *Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, 2025.  
-[[DOI](https://ieeexplore.ieee.org/document/11231001)] [[arXiv](https://arxiv.org/abs/2507.02815)] [[video](https://youtu.be/nOh75ao5B_w)] [[slides](https://yzyouzhang.com/resources/WASPAA_O1-5_zhang25towards.pdf)] [[poster](https://yzyouzhang.com/resources/WASPAA_P1-6_zhang25towards.pdf)] [[notebookLM](https://notebooklm.google.com/notebook/bd7ca942-9b00-4e1a-be57-f8d2e71b71fa?artifactId=7d95385b-b59d-46ff-98f2-537d8122fc26)](**Best Student Paper Award, IEEE WASPAA 2025**)
+[[DOI](https://ieeexplore.ieee.org/document/11231001)] [[arXiv](https://arxiv.org/abs/2507.02815)] [[video](https://youtu.be/nOh75ao5B_w)] [[slides](https://yzyouzhang.com/resources/WASPAA_O1-5_zhang25towards.pdf)] [[poster](https://yzyouzhang.com/resources/WASPAA_P1-6_zhang25towards.pdf)] [[notebookLM](https://notebooklm.google.com/notebook/bd7ca942-9b00-4e1a-be57-f8d2e71b71fa?artifactId=7d95385b-b59d-46ff-98f2-537d8122fc26)] (**Best Student Paper Award, IEEE WASPAA 2025**)
 
 
 [3] You Zhang, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan,
@@ -141,7 +142,7 @@ vol. 28, pp. 937-941, 2021.
 [2] You Zhang, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech 2021</em>, pp. 4309-4313, 2021. &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
 -->
 
-<a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_56/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_63/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
   
