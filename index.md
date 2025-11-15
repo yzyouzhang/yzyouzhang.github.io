@@ -5,9 +5,9 @@ excerpt: "You Zhang's Homepage"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 
-*Last Update: 09/30/2025*
+*Last Update: 11/15/2025*
 
-I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2025_Sep.pdf).
+I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2025_Nov.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing.
 This includes topics such as **spatial audio, audio deepfake detection, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at IEEE ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, IEEE Signal Processing Society Scholarship, and IEEE WASPAA Best Student Paper Award.
@@ -33,11 +33,11 @@ If you are interested in my research or would like a chat, you are welcome to re
 
 ### News
 
-****Upcoming Travel 2025**** I will be attending [SANE](https://saneworkshop.org/sane2025/) (11.7) at New York City, NY, and [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [ASRU](https://2025.ieeeasru.org/program/special-sessions) (12.3-12.12) at Honolulu, HI.
+****Upcoming Travel 2025**** I will be attending [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [ASRU](https://2025.ieeeasru.org/program/special-sessions) (12.3-12.12) at Honolulu, HI.
 
-[2025/10] I attended [IEEE WASPAA 2025](https://waspaa.com/technical-program-schedule/) at Lake Tahoe and won the **Best Student Paper Award**!
+[2025/10] I attended [IEEE WASPAA 2025](https://waspaa.com/technical-program-schedule/) at Lake Tahoe and won the **Best Student Paper Award**, then presented the same work at [SANE](https://saneworkshop.org/sane2025/)!
 
-[2025/09] A [survey paper on ML for acoustics](https://www.nature.com/articles/s44384-025-00021-w) is open access online, published on npj Acoustics!
+[2025/09] A [review paper on ML for acoustics](https://www.nature.com/articles/s44384-025-00021-w) is open access online, published on npj Acoustics!
 
 [2025/07] One paper accepted by [IEEE WASPAA 2025](https://waspaa.com/)!
 
@@ -111,13 +111,18 @@ If you are interested in my research or would like a chat, you are welcome to re
 ### Selected Publications
 (For full list, see [Publications](https://yzyouzhang.com/research/))
 
+[4] You Zhang, Andrew Francl, Ruohan Gao, Paul Calamia, Zhiyao Duan, and Ishwarya Ananthabhotla,  
+**Towards Perception-Informed Latent HRTF Representations**, in *Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, 2025.  
+[[DOI](https://ieeexplore.ieee.org/document/11231001)] [[arXiv](https://arxiv.org/abs/2507.02815)] [[video](https://youtu.be/nOh75ao5B_w)] [[slides](https://yzyouzhang.com/resources/WASPAA_O1-5_zhang25towards.pdf)] [[poster](https://yzyouzhang.com/resources/WASPAA_P1-6_zhang25towards.pdf)] [[notebookLM](https://notebooklm.google.com/notebook/bd7ca942-9b00-4e1a-be57-f8d2e71b71fa?artifactId=7d95385b-b59d-46ff-98f2-537d8122fc26)](**Best Student Paper Award, IEEE WASPAA 2025**)
+
+
 [3] You Zhang, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan,
 **SVDD 2024: The Inaugural Singing Voice Deepfake Detection Challenge**, in *Proc. IEEE Spoken Language Technology Workshop (SLT)*, 2024. 
-[[arXiv](https://arxiv.org/abs/2408.16132)] [[code](https://github.com/SVDDChallenge)] [[illuminate](https://illuminate.google.com/library?play=LGAsgb_o9oZp)] [[webpage](https://main.singfake.org/)] 
+[[DOI](https://ieeexplore.ieee.org/document/10832284)] [[arXiv](https://arxiv.org/abs/2408.16132)] [[code](https://github.com/SVDDChallenge)] [[illuminate](https://illuminate.google.com/library?play=LGAsgb_o9oZp)] [[webpage](https://main.singfake.org/)] 
 
 [2] You Zhang, Yuxiang Wang, and Zhiyao Duan,
 **HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields**, in *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023. 
-[[DOI](https://ieeexplore.ieee.org/document/10095801)] [[arXiv](https://arxiv.org/abs/2210.15196)] [[code](https://github.com/yzyouzhang/hrtf_field)] [[video](https://youtu.be/HoQg8YzX1jg)] [[illuminate](https://illuminate.google.com/library?play=K7DSgh_8HMlW)] (**Recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing)**)
+[[DOI](https://ieeexplore.ieee.org/document/10095801)] [[arXiv](https://arxiv.org/abs/2210.15196)] [[code](https://github.com/yzyouzhang/hrtf_field)] [[video](https://youtu.be/HoQg8YzX1jg)] [[illuminate](https://illuminate.google.com/library?play=K7DSgh_8HMlW)] (**Recognized as one of the [top 3% of all papers accepted at IEEE ICASSP 2023](https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing)**)
 
 [1] You Zhang, Fei Jiang, and Zhiyao Duan, 
 **One-Class Learning Towards Synthetic Voice Spoofing Detection**, 
