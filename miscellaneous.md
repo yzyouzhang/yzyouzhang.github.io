@@ -9,6 +9,9 @@ Its pronunciation may cause misunderstanding in English when people refer to me,
 Hence, I choose to go by "Neil", and this name originates from an Irish word meaning *Champion*. I think this nickname aligns with the idea of my given name.  
 
 ## Besides research
+I’m lucky to share life with my two cats, YlangYlang and Crissy—think you can spot who’s who in the photos?
+![My cats YlangYlang and Crissy](./images/IMG_3478.jpeg)
+
 I earned my SSI Open Water certification in Key Largo in the summer of 2025.  
 ![My scuba](./images/scuba.jpeg)
 
