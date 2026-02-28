@@ -5,9 +5,9 @@ excerpt: "You Zhang's Homepage"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 
-*Last Update: 11/15/2025*
+*Last Update: 02/27/2026*
 
-I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2025_Nov.pdf).
+I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2026_Feb.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing.
 This includes topics such as **spatial audio, audio deepfake detection, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at IEEE ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, IEEE Signal Processing Society Scholarship, and IEEE WASPAA Best Student Paper Award.
@@ -33,7 +33,12 @@ If you are interested in my research or would like a chat, you are welcome to re
 
 ### News
 
-****Upcoming Travel 2025**** I will be attending [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [ASRU](https://2025.ieeeasru.org/program/special-sessions) (12.3-12.12) at Honolulu, HI.
+<!-- ****Upcoming Travel 2026****  -->
+[2026/02] I gave a talk at Centre for Digital Music at QMUL on "From Neural Fields to Perception-Informed Learning: Scalable and Perceptually Grounded HRTF Personalization". [YouTube](https://youtu.be/LLKQsqUqs9k?si=Nk1dULVH8XjFyDTS) [Slides](https://yzyouzhang.com/resources/HRTF_talk_Neil_c4dm.pdf) [Info on C4DM web](https://www.c4dm.eecs.qmul.ac.uk/news/2026-02-17.C4DM-Seminar_You_Zhang/)
+
+[2026/01] Two papers accepted by [IEEE ICASSP 2026](https://2026.ieeeicassp.org/). Congrats, Kun and Xuanjun!
+
+[2025/12] I attended [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [IEEE ASRU](https://2025.ieeeasru.org/program/special-sessions) at Honolulu, HI.
 
 [2025/10] I attended [IEEE WASPAA 2025](https://waspaa.com/technical-program-schedule/) at Lake Tahoe and won the **Best Student Paper Award**, then presented the work also at [SANE](https://saneworkshop.org/sane2025/)!
 <img src="./images/waspaa2025.jpeg" alt="My WASPAA 2025 with Zhiyao and Ishwarya" width="40%">
