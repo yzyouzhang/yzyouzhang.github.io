@@ -5,12 +5,12 @@ excerpt: "You Zhang's Homepage"
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 
-*Last Update: 02/27/2026*
+*Last Update: 04/23/2026*
 
-I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/) and a PhD candidate at the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I am fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2026_Feb.pdf).
+I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/). I obtained my PhD from the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I was fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2026_Apr.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing.
-This includes topics such as **spatial audio, audio deepfake detection, and audio-visual rendering and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at IEEE ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, IEEE Signal Processing Society Scholarship, and IEEE WASPAA Best Student Paper Award.
+This includes topics such as **spatial audio AI, audio deepfake detection, and audio-visual generation and analysis**. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at IEEE ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, IEEE Signal Processing Society Scholarship, and IEEE WASPAA Best Student Paper Award.
 
 <!-- Research interests with representative publication:
 Spatial Audio: List title also
@@ -34,7 +34,9 @@ If you are interested in my research or would like a chat, you are welcome to re
 ### News
 
 <!-- ****Upcoming Travel 2026****  -->
-[2026/02] I gave a talk at Centre for Digital Music at QMUL on "From Neural Fields to Perception-Informed Learning: Scalable and Perceptually Grounded HRTF Personalization". [YouTube](https://youtu.be/LLKQsqUqs9k?si=Nk1dULVH8XjFyDTS) [Slides](https://yzyouzhang.com/resources/HRTF_talk_Neil_c4dm.pdf) [Info on C4DM web](https://www.c4dm.eecs.qmul.ac.uk/news/2026-02-17.C4DM-Seminar_You_Zhang/)
+[2026/04] I successfully defended my PhD!
+
+[2026/02] I gave a talk at Centre for Digital Music at QMUL on "From Neural Fields to Perception-Informed Learning: Scalable and Perceptually Grounded HRTF Personalization". [[YouTube](https://youtu.be/LLKQsqUqs9k?si=Nk1dULVH8XjFyDTS)] [[Slides](https://yzyouzhang.com/resources/HRTF_talk_Neil_c4dm.pdf)] [[Info on C4DM web](https://www.c4dm.eecs.qmul.ac.uk/news/2026-02-17.C4DM-Seminar_You_Zhang/)]
 
 [2026/01] Two papers accepted by [IEEE ICASSP 2026](https://2026.ieeeicassp.org/). Congrats, Kun and Xuanjun!
 
