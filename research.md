@@ -3,7 +3,7 @@ layout: post-index
 title: Publications
 ---
 
-My publication portfolio is presented here, covering my work in deepfake detection, HRTF modeling, audio-visual multimodal methods, and more. For the most up-to-date list of publications and citation counts, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=nYtHcRAAAAAJ&view_op=list_works&sortby=pubdate).
+My publication portfolio is presented here, covering my work in deepfake detection, HRTF modeling, audio-visual methods, and more. For the most up-to-date list of publications and citation counts, please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=nYtHcRAAAAAJ&view_op=list_works&sortby=pubdate).
 
 My research home is the <strong>IEEE Signal Processing Society (SPS)</strong>, a community where publications are primarily assessed through highly rigorous, peer-reviewed international conferences. In the audio, speech, and signal processing field, flagship venues like <strong>ICASSP and Interspeech</strong> serve as the main forums for archival work, typically maintaining acceptance rates around 40~45%. This core work is complemented by specialized, equally high-quality workshops, including <strong>WASPAA, SLT, ASRU, Odyssey, DAFx, MLSP, and MMSP</strong>, and mature studies are published in leading archival journals such as IEEE Transactions on Audio, Speech, and Language Processing (TASLP) and IEEE Transactions on Multimedia (TMM). Closely related communities such as the Acoustical Society of America (ASA) and the Audio Engineering Society (AES) also host conferences emphasizing acoustics, auditory perception, and audio engineering. You will also find publications from interdisciplinary areas like computer vision (e.g., ICIP). 
 
