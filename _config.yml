@@ -1,7 +1,7 @@
 
 # Site wide configuration
 
-title: You (Neil) Zhang - University of Rochester
+title: You (Neil) Zhang - Télécom Paris
 locale: en_US
 # logo: Neil_profile_photo_square.jpg # filename of a logo image that has been placed into your images directory
 
@@ -9,9 +9,9 @@ locale: en_US
 owner:
   name: You (Neil) Zhang  张优
   avatar: Neil_profile_photo_square.jpg
-  bio: An Audio Machine Learning Researcher @ University of Rochester
+  bio: Incoming Assistant Professor @ Télécom Paris
   website: #https://yzyouzhang.com
-  email: you.zhang@rochester.edu #yzyouzhang@gmail.com #personal email
+  email: you.zhang@ieee.org #yzyouzhang@gmail.com #personal email
 #  twitter: yzyouzhang
   linkedin: you-neil-zhang
   github: yzyouzhang

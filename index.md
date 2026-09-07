@@ -9,9 +9,9 @@ excerpt: "You Zhang's Homepage"
 
 I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/). I obtained my PhD from the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I was fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2026_Sep.pdf).
 
-My research focuses on applied machine learning, particularly in speech and audio processing. My long-term vision is to build human-centric multimodal AI systems for audio, systems that **understand, generate, and adapt speech and audio in ways that are both immersive and trustworthy**. This spans spatial audio, audio-visual learning, and audio deepfake detection, sitting at the intersection of machine listening, multimodal learning, and generative modeling for audio. Going forward, I'm excited to grow this into controllable, trustworthy generative audio systems grounded in acoustic physics and human perception. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at IEEE ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, IEEE Signal Processing Society Scholarship, and IEEE WASPAA Best Student Paper Award.
+My research focuses on applied machine learning, particularly in speech and audio processing. My long-term vision is to build human-centric multimodal AI systems for audio, systems that **understand, generate, and adapt speech and audio in ways that are both immersive and trustworthy**. This spans spatial audio, audio-visual learning, and audio deepfake detection, sitting at the intersection of machine listening, multimodal learning, and generative modeling for audio. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at IEEE ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, IEEE Signal Processing Society Scholarship, and IEEE WASPAA Best Student Paper Award.
 
-<span style="color:red">I will be joining Télécom Paris as an Assistant Professor with the Audio Data Analysis and Signal Processing (ADASP) group at Laboratoire LTCI, starting in November 2026! I will be recruiting PhD students starting Fall 2027. Feel free to reach out at [you.zhang@ieee.org](mailto:you.zhang@ieee.org) if you're interested!</span>
+<span style="color:red">I will be joining [Télécom Paris](https://www.telecom-paris.fr/en/home) as an Assistant Professor with the [Audio Data Analysis and Signal Processing (ADASP) group](https://adasp.telecom-paris.fr/) at Laboratoire LTCI, starting in November 2026! I will be recruiting PhD students starting Fall 2027. Feel free to reach out at [you.zhang@ieee.org](mailto:you.zhang@ieee.org) if you're interested!</span>
 
 <!-- Research interests with representative publication:
 Spatial Audio: List title also
@@ -35,11 +35,13 @@ TMM, MLSP, ICIP -->
 ### News
 
 <!-- ****Upcoming Travel 2026****  -->
+[2026/09] I attended [DAFx 2026](https://dafx26.mit.edu/) at MIT and presented a tutorial with Yoshiki Masuyama, titled "From Neural Fields to Personalized Spatial Audio: A Hands-on Tutorial on HRTF Modeling". [[Code](https://github.com/yzyouzhang/dafx2026-hrtf-tutorial)] [[Slides](https://yzyouzhang.com/resources/DAFx-HRTF-Tutorial-0901.pdf)]
+
 [2026/07] I gave a talk on audio deepfake detection at Duke Kunshan University (DKU). Thank Prof. Xiaoxiao Miao for the invitation!
 
 [2026/06] I gave a guest lecture on audio deepfake detection at National Taiwan Univeristy. Thank Prof. Shao-Yuan Lo for the invitation!
 
-[2026/04] I successfully defended my PhD! Presentation title: Toward Trustworthy and Immersive Audio Experiences.
+[2026/04] I successfully defended my PhD! Presentation title: *Toward Trustworthy and Immersive Audio Experiences*.
 
 [2026/02] I gave a talk at Centre for Digital Music at QMUL on "From Neural Fields to Perception-Informed Learning: Scalable and Perceptually Grounded HRTF Personalization". [[YouTube](https://youtu.be/LLKQsqUqs9k?si=Nk1dULVH8XjFyDTS)] [[Slides](https://yzyouzhang.com/resources/HRTF_talk_Neil_c4dm.pdf)] [[Info on C4DM web](https://www.c4dm.eecs.qmul.ac.uk/news/2026-02-17.C4DM-Seminar_You_Zhang/)]
 
@@ -153,7 +155,7 @@ vol. 28, pp. 937-941, 2021.
 [2] You Zhang, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech 2021</em>, pp. 4309-4313, 2021. &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
 -->
 
-<a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_63/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_72/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
   
