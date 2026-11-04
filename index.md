@@ -7,11 +7,11 @@ excerpt: "You Zhang's Homepage"
 
 *Last Update: 09/07/2026*
 
-I am a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/). I obtained my PhD from the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I was fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2026_Sep.pdf).
+I am joining [Télécom Paris](https://www.telecom-paris.fr/en/home) as an Assistant Professor with the [Audio Data Analysis and Signal Processing (ADASP) group](https://adasp.telecom-paris.fr/) at Laboratoire LTCI, starting in November 2026! Before that, I was a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/). I obtained my PhD from the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I was fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2026_Sep.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing. My long-term vision is to build human-centric multimodal AI systems for audio, systems that **understand, generate, and adapt speech and audio in ways that are both immersive and trustworthy**. This spans spatial audio, audio-visual learning, and audio deepfake detection, sitting at the intersection of machine listening, multimodal learning, and generative modeling for audio. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at IEEE ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, IEEE Signal Processing Society Scholarship, and IEEE WASPAA Best Student Paper Award.
 
-<span style="color:red">I will be joining [Télécom Paris](https://www.telecom-paris.fr/en/home) as an Assistant Professor with the [Audio Data Analysis and Signal Processing (ADASP) group](https://adasp.telecom-paris.fr/) at Laboratoire LTCI, starting in November 2026! I will be recruiting PhD students starting Fall 2027. Feel free to reach out at [you.zhang@ieee.org](mailto:you.zhang@ieee.org) if you're interested!</span>
+<span style="color:red">I am open to collaborations. I will be recruiting PhD students starting Fall 2027. Feel free to reach out at [you.zhang@ieee.org](mailto:you.zhang@ieee.org) if you're interested!</span>
 
 <!-- Research interests with representative publication:
 Spatial Audio: List title also
@@ -53,6 +53,9 @@ TMM, MLSP, ICIP -->
 <img src="./images/waspaa2025.jpeg" alt="My WASPAA 2025 with Zhiyao and Ishwarya" width="40%">
 
 [2025/09] A [review paper on ML for acoustics](https://www.nature.com/articles/s44384-025-00021-w) is open access online, published on npj Acoustics!
+
+<details markdown="1">
+<summary>More archived news.</summary>
 
 [2025/07] One paper accepted by [IEEE WASPAA 2025](https://waspaa.com/)!
 
@@ -105,12 +108,6 @@ TMM, MLSP, ICIP -->
 [2023/05] Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). [[poster](./resources/ICASSP2023_Rising_Star_Neil_final.pdf)]
 
 
-<!-- <details>
-
-
-<summary>More archived news.</summary> -->
-
-
 [2023/05] [One paper](https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html) accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
 
 
@@ -120,14 +117,13 @@ TMM, MLSP, ICIP -->
 [2023/02] Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [[slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf)]
 
 
-<!-- </details> -->
+</details>
 
 
 ### Selected Publications
 (For full list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=nYtHcRAAAAAJ&view_op=list_works&sortby=pubdate) or my [Publications](https://yzyouzhang.com/research/) page.)
 
-[4] You Zhang, Andrew Francl, Ruohan Gao, Paul Calamia, Zhiyao Duan, and Ishwarya Ananthabhotla, **Towards Perception-Informed Latent HRTF Representations**, in *Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, 2025.  
-[[DOI](https://ieeexplore.ieee.org/document/11231001)] [[arXiv](https://arxiv.org/abs/2507.02815)] [[video](https://youtu.be/nOh75ao5B_w)] [[slides](https://yzyouzhang.com/resources/WASPAA_O1-5_zhang25towards.pdf)] [[poster](https://yzyouzhang.com/resources/WASPAA_P1-6_zhang25towards.pdf)] [[notebookLM](https://notebooklm.google.com/notebook/bd7ca942-9b00-4e1a-be57-f8d2e71b71fa?artifactId=7d95385b-b59d-46ff-98f2-537d8122fc26)] (**Best Student Paper Award, IEEE WASPAA 2025**)
+[4] You Zhang, Andrew Francl, Ruohan Gao, Paul Calamia, Zhiyao Duan, and Ishwarya Ananthabhotla, **Towards Perception-Informed Latent HRTF Representations**, in *Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, 2025. [[DOI](https://ieeexplore.ieee.org/document/11231001)] [[arXiv](https://arxiv.org/abs/2507.02815)] [[video](https://youtu.be/nOh75ao5B_w)] [[slides](https://yzyouzhang.com/resources/WASPAA_O1-5_zhang25towards.pdf)] [[poster](https://yzyouzhang.com/resources/WASPAA_P1-6_zhang25towards.pdf)] [[notebookLM](https://notebooklm.google.com/notebook/bd7ca942-9b00-4e1a-be57-f8d2e71b71fa?artifactId=7d95385b-b59d-46ff-98f2-537d8122fc26)] (**Best Student Paper Award, IEEE WASPAA 2025**)
 
 
 [3] You Zhang, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan,

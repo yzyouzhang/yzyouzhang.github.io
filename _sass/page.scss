@@ -298,6 +298,107 @@ $button-size: 1.5rem;
 	}
 }
 
+/* Collapsible sections: normalize.scss sets summary to display:block, which hides the arrow */
+summary {
+	display: list-item;
+	margin-bottom: 1em;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+/* Publications list (research.md), styled after the AIR Lab publications page */
+$pubs-blue: #1479b8;
+$pubs-green: #6aa84f;
+$pubs-ink: #1f2933;
+$pubs-line: #e3e8ee;
+
+#index .jump-nav {
+	margin: 1.5em 0 2em;
+	padding: 8px 12px;
+	background: #f5f8fb;
+	border: 1px solid $pubs-line;
+	border-radius: 6px;
+	a, a:visited {
+		display: inline-block;
+		margin: 3px 6px 3px 0;
+		padding: 2px 14px;
+		background: #fff;
+		border: 1px solid $pubs-line;
+		border-radius: 999px;
+		color: $pubs-ink;
+		font-size: 15px;
+	}
+	a:hover, a:focus {
+		border-color: $pubs-blue;
+		color: $pubs-blue;
+	}
+}
+
+#index .pubs {
+	h2.section-title {
+		margin: 48px 0 26px;
+		font-size: 26px;
+		font-weight: 600;
+		line-height: 1.25;
+		color: $pubs-ink;
+		&:first-child {
+			margin-top: 0;
+		}
+		&:after {
+			content: "";
+			display: block;
+			width: 48px;
+			height: 3px;
+			margin-top: 12px;
+			background: $pubs-green;
+			border-radius: 2px;
+		}
+	}
+	p {
+		margin: 0;
+		padding: 10px 0;
+		border-bottom: 1px solid $pubs-line;
+		font-size: 15.5px;
+		line-height: 1.65;
+		text-indent: 0;
+	}
+	strong {
+		color: $pubs-ink;
+		font-weight: 600;
+	}
+	a.pub-link, a.pub-link:visited {
+		display: inline-block;
+		margin: 2px 2px 0 0;
+		padding: 0 9px;
+		border: 1px solid #c9d8e5;
+		border-radius: 4px;
+		color: $pubs-blue;
+		font-size: 13px;
+		line-height: 20px;
+		text-decoration: none;
+		vertical-align: 1px;
+	}
+	a.pub-link:hover, a.pub-link:focus {
+		background: $pubs-blue;
+		border-color: $pubs-blue;
+		color: #fff;
+	}
+	.award {
+		display: inline-block;
+		padding: 0 8px;
+		border-radius: 4px;
+		background: #fff4e0;
+		color: #a14d00;
+		font-size: 13px;
+		font-weight: 600;
+		line-height: 20px;
+		a, a:visited {
+			color: inherit;
+			text-decoration: underline;
+		}
+	}
+}
+
 /* Large feature header image */
 .image-wrap {
 	position: relative;
