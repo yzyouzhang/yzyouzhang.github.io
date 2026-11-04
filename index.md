@@ -30,8 +30,7 @@ TMM, MLSP, ICIP -->
 
 <!-- You (Neil) Zhang is a PhD candidate in the Department of Electrical and Computer Engineering at University of Rochester. His research centers on applied machine learning with a specialization in speech and audio processing, including areas such as audio deepfake detection, spatial audio, and audio-visual analysis. Neil's work has been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, and TMM. He has also gained industrial research experience through internships at Bytedance, Tencent, Microsoft, and Meta. His achievements have been recognized by the Rising Star Program in Signal Processing at ICASSP 2023 and the NIJ Graduate Research Fellowship Program. -->
 
-<!-- <span style="color:red">I am actively seeking postdoc and faculty positions in academia as well as research scientist roles in industrial labs. Please feel free to reach out if you have opportunities or would like to connect!</span>
-
+<!--
 [Research Statement](./resources/You_Neil_Zhang_research_statement.pdf) \| [Teaching Statement](./resources/You_Neil_Zhang_teaching_statement.pdf) \| [Diversity Statement](./resources/You_Neil_Zhang_diversity_statement.pdf) -->
 
 
@@ -63,9 +62,13 @@ TMM, MLSP, ICIP -->
 <!-- ****Upcoming Travel 2026****  -->
 
 {: .news-list}
+
+- **2026/10** My PhD thesis is available online! [UR Library](http://hdl.handle.net/1802/39224) [ProQuest](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd.in%2FeTuy9yeJ&urlhash=yGee&mt=WSG1ie3Y7veD-HBdwJqBvLSWwTevRWGUx5gA8EQSGN7y4N7abPeCWq-lqq7zLJTrQ_AtUSjoxuLf12fex10caFwPLnuxNYaSkwMjSo9VXDrXVcK754NVWoVeO_wD96f4dcfe2Lsv2JWhLTcNA4WpYG7CdqnyR3g0cv48vSc-w47H9ewbN5y97njK6d3ON0Mx2A&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BiRv2wPDiQUKEaC38r3p58w%3D%3D).
+- **2026/10** I attended [DCASE 2026](https://dcase.community/workshop2026/index) at Tufts and [SANE 2026](https://saneworkshop.org/sane2026/) at MIT. 
 - **2026/09** I attended [DAFx 2026](https://dafx26.mit.edu/) at MIT and presented a tutorial with Yoshiki Masuyama, titled "From Neural Fields to Personalized Spatial Audio: A Hands-on Tutorial on HRTF Modeling". [Code](https://github.com/yzyouzhang/dafx2026-hrtf-tutorial){: .pub-link} [Slides](https://yzyouzhang.com/resources/DAFx-HRTF-Tutorial-0901.pdf){: .pub-link}
 - **2026/07** I gave a talk on audio deepfake detection at Duke Kunshan University (DKU). Thank Prof. Xiaoxiao Miao for the invitation!
 - **2026/06** I gave a guest lecture on audio deepfake detection at National Taiwan Univeristy. Thank Prof. Shao-Yuan Lo for the invitation!
+- **2026/04** I gave a job talk at Télécom Paris, titled "Towards Human-Centric Multimodal Generative Audio AI". [Slides](https://yzyouzhang.com/resources/Telecom_Paris_Seminar_Slides.pdf){: .pub-link}
 - **2026/04** I successfully defended my PhD! Presentation title: *Toward Trustworthy and Immersive Audio Experiences*.
 - **2026/02** I gave a talk at Centre for Digital Music at QMUL on "From Neural Fields to Perception-Informed Learning: Scalable and Perceptually Grounded HRTF Personalization". [YouTube](https://youtu.be/LLKQsqUqs9k?si=Nk1dULVH8XjFyDTS){: .pub-link} [Slides](https://yzyouzhang.com/resources/HRTF_talk_Neil_c4dm.pdf){: .pub-link} [Info on C4DM web](https://www.c4dm.eecs.qmul.ac.uk/news/2026-02-17.C4DM-Seminar_You_Zhang/){: .pub-link}
 - **2026/01** Two papers accepted by [IEEE ICASSP 2026](https://2026.ieeeicassp.org/). Congrats, Kun and Xuanjun!
@@ -84,6 +87,7 @@ TMM, MLSP, ICIP -->
 - **2025/04** I received [Open Scholarship Awards from OSC Rochester](https://opensci.lib.rochester.edu/open-scholarship-awards) for commitment to openness in academic research! 
 - **2024/12** We are organizing the [SVDD special session](https://svddchallenge.org/challenges/special_session_ieee_slt.html) @ IEEE SLT 2024!
 - **2024/11** I was awarded the [**IEEE SPS Scholarship**](https://www.credential.net/2d530448-6949-4ea9-b8d9-c2ea5d731cd0)! Thank you, IEEE Signal Processing Society!
+- **2024/10** I attended [Boston AI Music Meetup](https://www.meetup.com/boston-ai-music-meetup/) and [SANE 2024](https://saneworkshop.org/sane2024/).
 - **2024/09** Our new WildSVDD challenge is held successfully at [MIREX @ ISMIR 2024](https://www.music-ir.org/mirex/wiki/2024:Singing_Voice_Deepfake_Detection)! 
 - **2024/08** Our SVDD challenge overview paper is accepted by [IEEE SLT 2024](https://2024.ieeeslt.org/)! 
 - **2024/08** One paper accepted by [MMSP 2024](https://attend.ieee.org/mmsp-2024/). Congrats, Kyungbok! 

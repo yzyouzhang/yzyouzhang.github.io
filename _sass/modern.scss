@@ -246,6 +246,40 @@ a.icon-btn:hover, a.icon-btn:focus {
 }
 
 /*
+   Experience rows (logo + details)
+   ========================================================================== */
+
+.job {
+	display: flex;
+	align-items: flex-start;
+	gap: 16px;
+	padding: 18px 0;
+	border-bottom: 1px solid $line;
+	@media #{$small} { gap: 24px; }
+}
+.job-logo {
+	display: flex;
+	flex: 0 0 76px;
+	align-items: center;
+	justify-content: center;
+	height: 60px;
+	@media #{$small} {
+		flex-basis: 120px;
+		height: 76px;
+	}
+	img {
+		max-width: 100%;
+		max-height: 100%;
+		border-radius: 0;
+	}
+}
+.job-details {
+	flex: 1 1 auto;
+	min-width: 0;
+	ul { margin: 6px 0 0; }
+}
+
+/*
    Research area cards
    ========================================================================== */
 

@@ -5,6 +5,9 @@ layout: page
 
 
 ## Industrial
+<div class="job">
+<div class="job-logo"><img src="/images/past%20jobs/339108-Dolby-logo-600x300-blk-6ab770-large-1574804725.png" alt="Dolby logo"></div>
+<div class="job-details">
 <b> Dolby </b> - Multimodal Experiences Lab  (Atlanta, GA, USA)
 <ul>
     <li>
@@ -13,11 +16,16 @@ layout: page
     <!-- <li>
         Perceptual Head-Related Transfer Function (HRTF) Representation Learning
     </li> -->
-    <!-- <li>
-        Mentored by <a href="https://www.ishwarya.me/">Dr. Ishwarya Ananthabhotla</a>
-    </li> -->
+    <li>
+        Manager: <a href="https://scholar.google.com/citations?user=EEds7hMAAAAJ">Dr. Lie Lu</a>
+    </li>
 </ul>
+</div>
+</div>
 
+<div class="job">
+<div class="job-logo"><img src="/images/past%20jobs/meta%20relality%20labs.webp" alt="Meta Reality Labs logo"></div>
+<div class="job-details">
 <b> Meta </b> - Meta Reality Labs  (Redmond, WA, USA)
 <ul>
     <li>
@@ -30,7 +38,12 @@ layout: page
         Mentored by <a href="https://www.ishwarya.me/">Dr. Ishwarya Ananthabhotla</a>
     </li>
 </ul>
+</div>
+</div>
 
+<div class="job">
+<div class="job-logo"><img src="/images/past%20jobs/microsoft-logo.svg" alt="Microsoft logo"></div>
+<div class="job-details">
 <b> Microsoft </b> - Applied Sciences Group (Redmond, WA, USA)
 <ul>
     <li>
@@ -43,7 +56,12 @@ layout: page
         Mentored by <a href="https://www.microsoft.com/applied-sciences/people/kazuhito-koishida">Dr. Kazuhito Koishida</a>
     </li>
 </ul>
+</div>
+</div>
 
+<div class="job">
+<div class="job-logo"><img src="/images/past%20jobs/tencentAI.png" alt="Tencent AI Lab logo"></div>
+<div class="job-details">
 <b> Tencent America </b> - Tencent AI Lab (Bellevue, WA, USA)
 <ul>
     <li>
@@ -56,8 +74,13 @@ layout: page
         Mentored by <a href="https://scholar.google.com/citations?user=4nGncN4AAAAJ">Dr. Shi-Xiong (Austin) Zhang</a>
     </li>
 </ul>
+</div>
+</div>
 
 
+<div class="job">
+<div class="job-logo"><img src="/images/past%20jobs/bytedance.png" alt="ByteDance logo"></div>
+<div class="job-details">
 <b> Bytedance / Tiktok </b> - Speech, Audio & Music Intelligence (Mountain View, CA, USA)
 <ul>
 <li>
@@ -70,8 +93,13 @@ layout: page
 Mentored by <a href="https://scholar.google.com/citations?user=5BusdUwAAAAJ">Dr. Ming Tu</a>
 </li>
 </ul>
+</div>
+</div>
 
 
+<div class="job">
+<div class="job-logo"><img src="/images/past%20jobs/tencentmedia.jpeg" alt="Tencent Media Lab logo"></div>
+<div class="job-details">
 <b> Tencent </b> - Tencent Media Lab (Shenzhen, Guangdong, China)
 <ul>
     <li>
@@ -84,8 +112,13 @@ Mentored by <a href="https://scholar.google.com/citations?user=5BusdUwAAAAJ">Dr.
 Mentored by <a href="https://scholar.google.com/citations?user=NGejHPcAAAAJ">Dr. Yannan Wang</a>
 </li>
 </ul>
+</div>
+</div>
 
 
+<div class="job">
+<div class="job-logo"><img src="/images/past%20jobs/momenta.jpg" alt="Momenta logo"></div>
+<div class="job-details">
 <b> Momenta </b> - Level4 Urban Autonomous Driving (Suzhou, Jiangsu, China)
 <ul>
     <li>
@@ -98,6 +131,8 @@ Mentored by <a href="https://scholar.google.com/citations?user=NGejHPcAAAAJ">Dr.
 Mentored by Sen Tian and <a href="https://scholar.google.com/citations?user=xrnhH-cAAAAJ">Dr. Jie Chen</a>
 </li>
 </ul>
+</div>
+</div>
 
 
 ## Services
