@@ -12,21 +12,27 @@
 {% include _browser-upgrade.html %}
 {% include _navigation.html %}
 
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
+<section class="hero">
+  <div class="container hero-inner">
+    <img class="hero-photo" src="{{ site.github.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }}">
+    <div>
+      <h1>{{ site.owner.name }}</h1>
+      <p class="hero-role">{{ site.owner.bio }}</p>
+      {% if page.tagline %}<p class="hero-tagline">{{ page.tagline }}</p>{% endif %}
+      {% include _social-links.html %}
+    </div>
   </div>
-  <article class="page">
-    <h1>{{site.title}}</h1>
-    {{content}}
-  </article>
-</div><!-- /#main -->
+</section>
 
-<div class="footer-wrap">
-  <footer>
+<article class="container content" role="main">
+  {{ content }}
+</article>
+
+<footer class="site-footer">
+  <div class="container">
     {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+  </div>
+</footer>
 
 {% include _scripts.html %}
 

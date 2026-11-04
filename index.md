@@ -1,17 +1,20 @@
 ---
 layout: home
 excerpt: "You Zhang's Homepage"
+tagline: "Spatial Audio · Audio-Visual Learning · Audio Deepfake Detection"
 ---
 
 [//]: # (This project is a slight customization based off of some great work by [NC State University Libraries](https://www.lib.ncsu.edu/. )
 
-*Last Update: 09/07/2026*
+*Last Update: 11/04/2026*
+{: .last-update}
 
 I am joining [Télécom Paris](https://www.telecom-paris.fr/en/home) as an Assistant Professor with the [Audio Data Analysis and Signal Processing (ADASP) group](https://adasp.telecom-paris.fr/) at Laboratoire LTCI, starting in November 2026! Before that, I was a Senior Researcher on Spatial Audio and Multimodal AI at [Dolby Laboratories](https://www.dolby.com/). I obtained my PhD from the [Audio Information Research Lab](https://labsites.rochester.edu/air/), University of Rochester, NY, USA. I was fortunate to work with [Prof. Zhiyao Duan](https://hajim.rochester.edu/ece/sites/zduan/) during my PhD. Take a look at [my CV](./You_Neil_Zhang_CV_2026_Sep.pdf).
 
 My research focuses on applied machine learning, particularly in speech and audio processing. My long-term vision is to build human-centric multimodal AI systems for audio, systems that **understand, generate, and adapt speech and audio in ways that are both immersive and trustworthy**. This spans spatial audio, audio-visual learning, and audio deepfake detection, sitting at the intersection of machine listening, multimodal learning, and generative modeling for audio. My research contributions have been showcased at prestigious venues such as ICASSP, WASPAA, Interspeech, SPL, TMM. I received recognition through the Rising Star Program in Signal Processing at IEEE ICASSP 2023, the Graduate Research Fellowship Program from National Institute of Justice, IEEE Signal Processing Society Scholarship, and IEEE WASPAA Best Student Paper Award.
 
-<span style="color:red">I am open to collaborations. I will be recruiting PhD students starting Fall 2027. Feel free to reach out at [you.zhang@ieee.org](mailto:you.zhang@ieee.org) if you're interested!</span>
+I am open to collaborations. I will be recruiting PhD students starting Fall 2027. Feel free to reach out at [you.zhang@ieee.org](mailto:you.zhang@ieee.org) if you're interested!
+{: .callout}
 
 <!-- Research interests with representative publication:
 Spatial Audio: List title also
@@ -32,115 +35,106 @@ TMM, MLSP, ICIP -->
 [Research Statement](./resources/You_Neil_Zhang_research_statement.pdf) \| [Teaching Statement](./resources/You_Neil_Zhang_teaching_statement.pdf) \| [Diversity Statement](./resources/You_Neil_Zhang_diversity_statement.pdf) -->
 
 
-### News
+## Research Areas
+
+<div class="area-grid">
+  <a class="area" href="https://arxiv.org/abs/2507.02815">
+    <i class="fa fa-headphones"></i>
+    <h3>Spatial Audio</h3>
+    <p>Personalized HRTF modeling with neural fields and perception-informed learning.</p>
+    <p class="area-link">Key paper: WASPAA 2025 &rarr;</p>
+  </a>
+  <a class="area" href="https://arxiv.org/abs/2010.13995">
+    <i class="fa fa-shield"></i>
+    <h3>Audio Deepfake Detection</h3>
+    <p>Generalizing detection of synthetic speech and singing voices to unseen attacks.</p>
+    <p class="area-link">Key paper: SPL 2021 &rarr;</p>
+  </a>
+  <a class="area" href="https://arxiv.org/abs/2008.03592">
+    <i class="fa fa-video-camera"></i>
+    <h3>Audio-Visual Learning</h3>
+    <p>Multimodal models linking sound and vision, such as speech-driven talking faces.</p>
+    <p class="area-link">Key paper: TMM 2022 &rarr;</p>
+  </a>
+</div>
+
+## News
 
 <!-- ****Upcoming Travel 2026****  -->
-[2026/09] I attended [DAFx 2026](https://dafx26.mit.edu/) at MIT and presented a tutorial with Yoshiki Masuyama, titled "From Neural Fields to Personalized Spatial Audio: A Hands-on Tutorial on HRTF Modeling". [[Code](https://github.com/yzyouzhang/dafx2026-hrtf-tutorial)] [[Slides](https://yzyouzhang.com/resources/DAFx-HRTF-Tutorial-0901.pdf)]
 
-[2026/07] I gave a talk on audio deepfake detection at Duke Kunshan University (DKU). Thank Prof. Xiaoxiao Miao for the invitation!
-
-[2026/06] I gave a guest lecture on audio deepfake detection at National Taiwan Univeristy. Thank Prof. Shao-Yuan Lo for the invitation!
-
-[2026/04] I successfully defended my PhD! Presentation title: *Toward Trustworthy and Immersive Audio Experiences*.
-
-[2026/02] I gave a talk at Centre for Digital Music at QMUL on "From Neural Fields to Perception-Informed Learning: Scalable and Perceptually Grounded HRTF Personalization". [[YouTube](https://youtu.be/LLKQsqUqs9k?si=Nk1dULVH8XjFyDTS)] [[Slides](https://yzyouzhang.com/resources/HRTF_talk_Neil_c4dm.pdf)] [[Info on C4DM web](https://www.c4dm.eecs.qmul.ac.uk/news/2026-02-17.C4DM-Seminar_You_Zhang/)]
-
-[2026/01] Two papers accepted by [IEEE ICASSP 2026](https://2026.ieeeicassp.org/). Congrats, Kun and Xuanjun!
-
-[2025/12] I attended [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [IEEE ASRU](https://2025.ieeeasru.org/program/special-sessions) at Honolulu, HI.
-
-[2025/10] I attended [IEEE WASPAA 2025](https://waspaa.com/technical-program-schedule/) at Lake Tahoe and won the **Best Student Paper Award**, then presented the work also at [SANE](https://saneworkshop.org/sane2025/)!
-<img src="./images/waspaa2025.jpeg" alt="My WASPAA 2025 with Zhiyao and Ishwarya" width="40%">
-
-[2025/09] A [review paper on ML for acoustics](https://www.nature.com/articles/s44384-025-00021-w) is open access online, published on npj Acoustics!
+{: .news-list}
+- **2026/09** I attended [DAFx 2026](https://dafx26.mit.edu/) at MIT and presented a tutorial with Yoshiki Masuyama, titled "From Neural Fields to Personalized Spatial Audio: A Hands-on Tutorial on HRTF Modeling". [Code](https://github.com/yzyouzhang/dafx2026-hrtf-tutorial){: .pub-link} [Slides](https://yzyouzhang.com/resources/DAFx-HRTF-Tutorial-0901.pdf){: .pub-link}
+- **2026/07** I gave a talk on audio deepfake detection at Duke Kunshan University (DKU). Thank Prof. Xiaoxiao Miao for the invitation!
+- **2026/06** I gave a guest lecture on audio deepfake detection at National Taiwan Univeristy. Thank Prof. Shao-Yuan Lo for the invitation!
+- **2026/04** I successfully defended my PhD! Presentation title: *Toward Trustworthy and Immersive Audio Experiences*.
+- **2026/02** I gave a talk at Centre for Digital Music at QMUL on "From Neural Fields to Perception-Informed Learning: Scalable and Perceptually Grounded HRTF Personalization". [YouTube](https://youtu.be/LLKQsqUqs9k?si=Nk1dULVH8XjFyDTS){: .pub-link} [Slides](https://yzyouzhang.com/resources/HRTF_talk_Neil_c4dm.pdf){: .pub-link} [Info on C4DM web](https://www.c4dm.eecs.qmul.ac.uk/news/2026-02-17.C4DM-Seminar_You_Zhang/){: .pub-link}
+- **2026/01** Two papers accepted by [IEEE ICASSP 2026](https://2026.ieeeicassp.org/). Congrats, Kun and Xuanjun!
+- **2025/12** I attended [ASA/ASJ](https://acousticalsociety.org/honolulu-2025/) and [IEEE ASRU](https://2025.ieeeasru.org/program/special-sessions) at Honolulu, HI.
+- **2025/10** I attended [IEEE WASPAA 2025](https://waspaa.com/technical-program-schedule/) at Lake Tahoe and won the **Best Student Paper Award**, then presented the work also at [SANE](https://saneworkshop.org/sane2025/)!
+  <img src="./images/waspaa2025.jpeg" alt="My WASPAA 2025 with Zhiyao and Ishwarya" width="40%">
+- **2025/09** A [review paper on ML for acoustics](https://www.nature.com/articles/s44384-025-00021-w) is open access online, published on npj Acoustics!
 
 <details markdown="1">
 <summary>More archived news.</summary>
 
-[2025/07] One paper accepted by [IEEE WASPAA 2025](https://waspaa.com/)!
-
-[2025/06] I joined Dolby Lab at Atlanta as a Senior Researcher!
-
-[2025/06] One paper accepted by [Interpseech 2025](https://interspeech2025.org/) and one paper accepted by [IEEE ICIP 2025](https://2025.ieeeicip.org/)!
-
-[2025/04] I received [Open Scholarship Awards from OSC Rochester](https://opensci.lib.rochester.edu/open-scholarship-awards) for commitment to openness in academic research! 
-
-[2024/12] We are organizing the [SVDD special session](https://svddchallenge.org/challenges/special_session_ieee_slt.html) @ IEEE SLT 2024!
-
-[2024/11] I was awarded the [**IEEE SPS Scholarship**](https://www.credential.net/2d530448-6949-4ea9-b8d9-c2ea5d731cd0)! Thank you, IEEE Signal Processing Society!
-
-[2024/09] Our new WildSVDD challenge is held successfully at [MIREX @ ISMIR 2024](https://www.music-ir.org/mirex/wiki/2024:Singing_Voice_Deepfake_Detection)! 
-
-[2024/08] Our SVDD challenge overview paper is accepted by [IEEE SLT 2024](https://2024.ieeeslt.org/)! 
-
-[2024/08] One paper accepted by [MMSP 2024](https://attend.ieee.org/mmsp-2024/). Congrats, Kyungbok! 
-
-[2024/07] We presented our tutorial on ["Multimedia Deepfake Detection"](https://github.com/yzyouzhang/Awesome-Multimedia-Deepfake-Detection) at [ICME 2024](https://2024.ieeeicme.org/).
-
-[2024/05] I joined Meta Reality Labs Research Audio as a Research Scientist Intern, working with Dr. [Ishwarya Ananthabhotla](https://www.ishwarya.me/).
-
-[2024/04] I gave a 1-hour tutorial on "Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming" at [2024 AES International Conference on Audio for Games](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [[Slides](./resources/Personalizing_Spatial_Audio_Machine_Learning_for_Personalized_Head-Related_Transfer_Functions_(HRTFs)_Modeling_in_Gaming.pdf)]
-
-[2024/04] I attended [NEMISIG 2024](https://2024.nemisig.net/), [NYC Computer Vision Day 2024](https://cs.nyu.edu/~fouhey/NYCVision2024/) and [ICASSP 2024](https://2024.ieeeicassp.org/).
-
-[2024/04] Exciting milestone achieved! I have successfully passed my PhD proposal/qualifying exam on "Generalizing Audio Deepfake Detection". Looking forward to embarking on this fruitful road!
-
-[2024/04] Our inaugural Singing Voice Deepfake Detection (SVDD) 2024 Challenge proposal has been accepted by IEEE Spoken Language Technology Workshop (SLT) 2024! Check out the challenge website [here](https://challenge.singfake.org/)! Registration deadline: June 8th.
-
-[2024/03] I gave a talk at [GenAI Spring School](https://aihouse.org.ua/en/event/generative-ai-spring-school/) and [AI Bootcamp](https://www.meetup.com/5b95b105-bc24-49fb-b4f8-9ddfcb5db0ff/events/299933650/) on "Audio Deepfake Detection".
-
-[2024/02] I was delighted to share insights on detecting audio deepfakes in a recent piece by [NBC News](https://www.nbcnews.com/tech/misinformation/ai-generated-audio-detect-tool-model-rcna136634).
-
-[2023/12] I gave a talk at Nanjing University on "Improving Generalization Ability for Audio Deepfake Detection". [[Slides](./resources/Improving_Generalization_Ability_for_Audio_Deepfake_Detection_20231228_Nanjing_University.pdf)]
-
-[2023/12] Two papers accepted by [ICASSP 2024](2024.ieeeicassp.org). ([SingFake]() and [Speech Emotion AV Learning](https://arxiv.org/abs/2311.14816)) Congrats, Yongyi and Enting! 
-
-[2023/11] I sat down with Berkeley Brean at News10NBC to talk about audio deepfake detection. [[WHEC-TV Link](https://www.whec.com/investigations/news10nbc-investigates-heres-what-happened-when-we-did-a-deep-fake-on-berkeley-breans-voice/)] [[Tweet1](https://twitter.com/whec_bbrean/status/1730299267544236042)] [[Tweet2](https://twitter.com/whec_bbrean/status/1730313761574055959)] [[Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/hajim-highlights-1204/)]
-
-[2023/11] I attended [WASPAA](https://waspaa.com/), [SANE](https://www.saneworkshop.org/sane2023/), [NRT Annual Meeting](https://nrt.asu.edu/nsf-annual-meeting/), and [BASH](https://binaural.and.spatialhearing.org/) to present our work on personalized spatial audio. Busy but exciting two weeks!
-
-[2023/10] Received [**National Institute of Justice's (NIJ) Graduate Research Fellowship Award**](https://nij.ojp.gov/funding/fellowships/graduate-research-fellowship-program). [[NIJ Description](https://nij.ojp.gov/funding/awards/15pnij-23-gg-01933-ress)] [[UR News Center](https://www.rochester.edu/newscenter/audio-deepfake-detective-developing-new-sleuthing-techniques-573482/)] [[Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/hajim-highlights-1113/)]
-
-[2023/07] [One paper](https://ieeexplore.ieee.org/document/10248178) accepted by [WASPAA 2023](https://waspaa.com/). Congrats, Yutong!
-
-[2023/06] Our paper "[HRTF Field](https://ieeexplore.ieee.org/document/10095801)" was recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://2023.ieeeicassp.org/top-3-percent-paper-recognitions/). [[Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/620222/)]
-
-[2023/05] Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). [[poster](./resources/ICASSP2023_Rising_Star_Neil_final.pdf)]
-
-
-[2023/05] [One paper](https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html) accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
-
-
-[2023/02] Two papers accepted by [ICASSP 2023](https://2023.ieeeicassp.org/). ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718)) Congrats, Siwen!
-
-
-[2023/02] Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [[slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf)]
+{: .news-list}
+- **2025/07** One paper accepted by [IEEE WASPAA 2025](https://waspaa.com/)!
+- **2025/06** I joined Dolby Lab at Atlanta as a Senior Researcher!
+- **2025/06** One paper accepted by [Interpseech 2025](https://interspeech2025.org/) and one paper accepted by [IEEE ICIP 2025](https://2025.ieeeicip.org/)!
+- **2025/04** I received [Open Scholarship Awards from OSC Rochester](https://opensci.lib.rochester.edu/open-scholarship-awards) for commitment to openness in academic research! 
+- **2024/12** We are organizing the [SVDD special session](https://svddchallenge.org/challenges/special_session_ieee_slt.html) @ IEEE SLT 2024!
+- **2024/11** I was awarded the [**IEEE SPS Scholarship**](https://www.credential.net/2d530448-6949-4ea9-b8d9-c2ea5d731cd0)! Thank you, IEEE Signal Processing Society!
+- **2024/09** Our new WildSVDD challenge is held successfully at [MIREX @ ISMIR 2024](https://www.music-ir.org/mirex/wiki/2024:Singing_Voice_Deepfake_Detection)! 
+- **2024/08** Our SVDD challenge overview paper is accepted by [IEEE SLT 2024](https://2024.ieeeslt.org/)! 
+- **2024/08** One paper accepted by [MMSP 2024](https://attend.ieee.org/mmsp-2024/). Congrats, Kyungbok! 
+- **2024/07** We presented our tutorial on ["Multimedia Deepfake Detection"](https://github.com/yzyouzhang/Awesome-Multimedia-Deepfake-Detection) at [ICME 2024](https://2024.ieeeicme.org/).
+- **2024/05** I joined Meta Reality Labs Research Audio as a Research Scientist Intern, working with Dr. [Ishwarya Ananthabhotla](https://www.ishwarya.me/).
+- **2024/04** I gave a 1-hour tutorial on "Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming" at [2024 AES International Conference on Audio for Games](https://aes2.org/events-calendar/2024-aes-6th-international-conference-on-audio-for-games/). [Slides](./resources/Personalizing_Spatial_Audio_Machine_Learning_for_Personalized_Head-Related_Transfer_Functions_(HRTFs)_Modeling_in_Gaming.pdf){: .pub-link}
+- **2024/04** I attended [NEMISIG 2024](https://2024.nemisig.net/), [NYC Computer Vision Day 2024](https://cs.nyu.edu/~fouhey/NYCVision2024/) and [ICASSP 2024](https://2024.ieeeicassp.org/).
+- **2024/04** Exciting milestone achieved! I have successfully passed my PhD proposal/qualifying exam on "Generalizing Audio Deepfake Detection". Looking forward to embarking on this fruitful road!
+- **2024/04** Our inaugural Singing Voice Deepfake Detection (SVDD) 2024 Challenge proposal has been accepted by IEEE Spoken Language Technology Workshop (SLT) 2024! Check out the challenge website [here](https://challenge.singfake.org/)! Registration deadline: June 8th.
+- **2024/03** I gave a talk at [GenAI Spring School](https://aihouse.org.ua/en/event/generative-ai-spring-school/) and [AI Bootcamp](https://www.meetup.com/5b95b105-bc24-49fb-b4f8-9ddfcb5db0ff/events/299933650/) on "Audio Deepfake Detection".
+- **2024/02** I was delighted to share insights on detecting audio deepfakes in a recent piece by [NBC News](https://www.nbcnews.com/tech/misinformation/ai-generated-audio-detect-tool-model-rcna136634).
+- **2023/12** I gave a talk at Nanjing University on "Improving Generalization Ability for Audio Deepfake Detection". [Slides](./resources/Improving_Generalization_Ability_for_Audio_Deepfake_Detection_20231228_Nanjing_University.pdf){: .pub-link}
+- **2023/12** Two papers accepted by [ICASSP 2024](2024.ieeeicassp.org). ([SingFake]() and [Speech Emotion AV Learning](https://arxiv.org/abs/2311.14816)) Congrats, Yongyi and Enting! 
+- **2023/11** I sat down with Berkeley Brean at News10NBC to talk about audio deepfake detection. [WHEC-TV Link](https://www.whec.com/investigations/news10nbc-investigates-heres-what-happened-when-we-did-a-deep-fake-on-berkeley-breans-voice/){: .pub-link} [Tweet1](https://twitter.com/whec_bbrean/status/1730299267544236042){: .pub-link} [Tweet2](https://twitter.com/whec_bbrean/status/1730313761574055959){: .pub-link} [Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/hajim-highlights-1204/){: .pub-link}
+- **2023/11** I attended [WASPAA](https://waspaa.com/), [SANE](https://www.saneworkshop.org/sane2023/), [NRT Annual Meeting](https://nrt.asu.edu/nsf-annual-meeting/), and [BASH](https://binaural.and.spatialhearing.org/) to present our work on personalized spatial audio. Busy but exciting two weeks!
+- **2023/10** Received [**National Institute of Justice's (NIJ) Graduate Research Fellowship Award**](https://nij.ojp.gov/funding/fellowships/graduate-research-fellowship-program). [NIJ Description](https://nij.ojp.gov/funding/awards/15pnij-23-gg-01933-ress){: .pub-link} [UR News Center](https://www.rochester.edu/newscenter/audio-deepfake-detective-developing-new-sleuthing-techniques-573482/){: .pub-link} [Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/hajim-highlights-1113/){: .pub-link}
+- **2023/07** [One paper](https://ieeexplore.ieee.org/document/10248178) accepted by [WASPAA 2023](https://waspaa.com/). Congrats, Yutong!
+- **2023/06** Our paper "[HRTF Field](https://ieeexplore.ieee.org/document/10095801)" was recognized as one of the [top 3% of all papers accepted at ICASSP 2023](https://2023.ieeeicassp.org/top-3-percent-paper-recognitions/). [Hajim Highlights](https://www.rochester.edu/communications/newsletters/hajim/620222/){: .pub-link}
+- **2023/05** Recognized as one of the [ICASSP Rising Stars in Signal Processing](https://2023.ieeeicassp.org/rising-stars-workshop). [poster](./resources/ICASSP2023_Rising_Star_Neil_final.pdf){: .pub-link}
+- **2023/05** [One paper](https://www.isca-speech.org/archive/interspeech_2023/zang23_interspeech.html) accepted by [Interspeech 2023](https://www.interspeech2023.org/). Congrats, Yongyi!
+- **2023/02** Two papers accepted by [ICASSP 2023](https://2023.ieeeicassp.org/). ([HRTF Field](https://arxiv.org/abs/2210.15196) and [SAMO](https://arxiv.org/abs/2211.02718)) Congrats, Siwen!
+- **2023/02** Delivered a talk at [ISCA SIG-SPSC webinar](https://www.spsc-sig.org/webinar), titled "Generalizing Voice Presentation Attack Detection to Unseen Synthetic Attacks". [slides](https://www.spsc-sig.org/sites/default/files/2023-02/SPSC-Webinar-GeneralizingVoicePresentationAttackDetection-20230206.pdf){: .pub-link}
 
 
 </details>
 
 
-### Selected Publications
+## Selected Publications
 (For full list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=nYtHcRAAAAAJ&view_op=list_works&sortby=pubdate) or my [Publications](https://yzyouzhang.com/research/) page.)
 
-[4] You Zhang, Andrew Francl, Ruohan Gao, Paul Calamia, Zhiyao Duan, and Ishwarya Ananthabhotla, **Towards Perception-Informed Latent HRTF Representations**, in *Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, 2025. [[DOI](https://ieeexplore.ieee.org/document/11231001)] [[arXiv](https://arxiv.org/abs/2507.02815)] [[video](https://youtu.be/nOh75ao5B_w)] [[slides](https://yzyouzhang.com/resources/WASPAA_O1-5_zhang25towards.pdf)] [[poster](https://yzyouzhang.com/resources/WASPAA_P1-6_zhang25towards.pdf)] [[notebookLM](https://notebooklm.google.com/notebook/bd7ca942-9b00-4e1a-be57-f8d2e71b71fa?artifactId=7d95385b-b59d-46ff-98f2-537d8122fc26)] (**Best Student Paper Award, IEEE WASPAA 2025**)
+<div class="pubs" markdown="1">
+
+[4] **You Zhang**, Andrew Francl, Ruohan Gao, Paul Calamia, Zhiyao Duan, and Ishwarya Ananthabhotla, **Towards Perception-Informed Latent HRTF Representations**, in *Proc. IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, 2025. [DOI](https://ieeexplore.ieee.org/document/11231001){: .pub-link} [arXiv](https://arxiv.org/abs/2507.02815){: .pub-link} [video](https://youtu.be/nOh75ao5B_w){: .pub-link} [slides](https://yzyouzhang.com/resources/WASPAA_O1-5_zhang25towards.pdf){: .pub-link} [poster](https://yzyouzhang.com/resources/WASPAA_P1-6_zhang25towards.pdf){: .pub-link} [notebookLM](https://notebooklm.google.com/notebook/bd7ca942-9b00-4e1a-be57-f8d2e71b71fa?artifactId=7d95385b-b59d-46ff-98f2-537d8122fc26){: .pub-link} <span class="award">Best Student Paper Award, IEEE WASPAA 2025</span>
 
 
-[3] You Zhang, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan,
+[3] **You Zhang**, Yongyi Zang, Jiatong Shi, Ryuichi Yamamoto, Tomoki Toda, and Zhiyao Duan,
 **SVDD 2024: The Inaugural Singing Voice Deepfake Detection Challenge**, in *Proc. IEEE Spoken Language Technology Workshop (SLT)*, 2024. 
-[[DOI](https://ieeexplore.ieee.org/document/10832284)] [[arXiv](https://arxiv.org/abs/2408.16132)] [[code](https://github.com/SVDDChallenge)] [[illuminate](https://illuminate.google.com/library?play=LGAsgb_o9oZp)] [[webpage](https://main.singfake.org/)] 
+[DOI](https://ieeexplore.ieee.org/document/10832284){: .pub-link} [arXiv](https://arxiv.org/abs/2408.16132){: .pub-link} [code](https://github.com/SVDDChallenge){: .pub-link} [illuminate](https://illuminate.google.com/library?play=LGAsgb_o9oZp){: .pub-link} [webpage](https://main.singfake.org/){: .pub-link} 
 
-[2] You Zhang, Yuxiang Wang, and Zhiyao Duan,
+[2] **You Zhang**, Yuxiang Wang, and Zhiyao Duan,
 **HRTF Field: Unifying Measured HRTF Magnitude Representation with Neural Fields**, in *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023. 
-[[DOI](https://ieeexplore.ieee.org/document/10095801)] [[arXiv](https://arxiv.org/abs/2210.15196)] [[code](https://github.com/yzyouzhang/hrtf_field)] [[video](https://youtu.be/HoQg8YzX1jg)] [[illuminate](https://illuminate.google.com/library?play=K7DSgh_8HMlW)] (**Recognized as one of the [top 3% of all papers accepted at IEEE ICASSP 2023](https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing)**)
+[DOI](https://ieeexplore.ieee.org/document/10095801){: .pub-link} [arXiv](https://arxiv.org/abs/2210.15196){: .pub-link} [code](https://github.com/yzyouzhang/hrtf_field){: .pub-link} [video](https://youtu.be/HoQg8YzX1jg){: .pub-link} [illuminate](https://illuminate.google.com/library?play=K7DSgh_8HMlW){: .pub-link} <span class="award">Recognized as one of the [top 3% of all papers accepted at IEEE ICASSP 2023](https://drive.google.com/file/d/1qTDdwqGuenJsZZoyFD2uBh_t6QUt0PPE/view?usp=sharing)</span>
 
-[1] You Zhang, Fei Jiang, and Zhiyao Duan, 
+[1] **You Zhang**, Fei Jiang, and Zhiyao Duan, 
 **One-Class Learning Towards Synthetic Voice Spoofing Detection**, 
 *IEEE Signal Processing Letters*, 
 vol. 28, pp. 937-941, 2021.
-[[DOI](https://ieeexplore.ieee.org/document/9417604)] [[arXiv](https://arxiv.org/abs/2010.13995)] [[code](https://github.com/yzyouzhang/AIR-ASVspoof)] 
-[[video](https://www.youtube.com/watch?v=pX9aq8CaIvk)] [[poster](https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf)] [[slides](https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf)] [[project](https://labsites.rochester.edu/air/projects/asvspoof.html)] [[illuminate](https://illuminate.google.com/library?play=RMGW3d__a5PH3)]
+[DOI](https://ieeexplore.ieee.org/document/9417604){: .pub-link} [arXiv](https://arxiv.org/abs/2010.13995){: .pub-link} [code](https://github.com/yzyouzhang/AIR-ASVspoof){: .pub-link} 
+[video](https://www.youtube.com/watch?v=pX9aq8CaIvk){: .pub-link} [poster](https://labsites.rochester.edu/air/publications/ICASSP2022Poster_Neil.pdf){: .pub-link} [slides](https://labsites.rochester.edu/air/publications/ICASSP2022Slides_Neil.pdf){: .pub-link} [project](https://labsites.rochester.edu/air/projects/asvspoof.html){: .pub-link} [illuminate](https://illuminate.google.com/library?play=RMGW3d__a5PH3){: .pub-link}
 
+</div>
 
 <!-- [3] Sefik Emre Eskimez, You Zhang, and Zhiyao Duan, **Speech Driven Talking Face Generation From a Single Image and an Emotion Condition**, *IEEE Transactions on Multimedia*, vol. 24, pp. 3480-3490, 2022. 
 [[DOI](https://ieeexplore.ieee.org/document/9496264)] [[arXiv](https://arxiv.org/abs/2008.03592)] [[code](https://github.com/eeskimez/emotalkingface)] [[project](https://labsites.rochester.edu/air/projects/tfaceemo.html)] -->
@@ -151,7 +145,7 @@ vol. 28, pp. 937-941, 2021.
 [2] You Zhang, Ge Zhu, Fei Jiang, and Zhiyao Duan, <strong>An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems</strong>, in <em>Proc. Interspeech 2021</em>, pp. 4309-4313, 2021. &lt;<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/zhang21ea_interspeech.pdf">pdf</a>&gt; &lt;<a href="https://www.isca-speech.org/archive/interspeech_2021/zhang21ea_interspeech.html">link</a>&gt; &lt;<a href="https://github.com/yzyouzhang/Empirical-Channel-CM">code</a>&gt; &lt;<a href="https://www.youtube.com/watch?v=t6qtehKer6w">video</a>&gt; &lt;<a href="https://labsites.rochester.edu/air/publications/Zhang21channel_slides.pdf">slides</a>&gt; </p>
 -->
 
-<a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_72/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<div class="visitor-map"><a href="https://info.flagcounter.com/w1Wy"><img src="https://s11.flagcounter.com/count2/w1Wy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_72/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></div>
 
 
   

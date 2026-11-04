@@ -1,0 +1,10 @@
+{% assign cv = site.data.navigation | where: "title", "CV" | first %}
+<div class="icon-links">
+  {% if site.owner.email %}<a class="icon-btn icon-email" href="mailto:{{ site.owner.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>{% endif %}
+  {% if cv %}<a class="icon-btn icon-cv" href="{{ site.github.url }}{{ cv.url }}"><i class="fa fa-fw fa-file-pdf-o"></i> CV</a>{% endif %}
+  {% if site.owner.google.scholar %}<a class="icon-btn icon-scholar" href="https://scholar.google.com/citations?user={{ site.owner.google.scholar }}"><i class="ai ai-fw ai-google-scholar"></i> Scholar</a>{% endif %}
+  {% if site.owner.github %}<a class="icon-btn icon-github" href="https://github.com/{{ site.owner.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>{% endif %}
+  {% if site.owner.linkedin %}<a class="icon-btn icon-linkedin" href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
+  {% if site.owner.orcid %}<a class="icon-btn icon-orcid" href="https://orcid.org/{{ site.owner.orcid }}"><i class="ai ai-fw ai-orcid"></i> ORCID</a>{% endif %}
+  {% if site.owner.researchgate %}<a class="icon-btn icon-researchgate" href="https://www.researchgate.net/profile/{{ site.owner.researchgate }}"><i class="ai ai-fw ai-researchgate"></i> ResearchGate</a>{% endif %}
+</div>

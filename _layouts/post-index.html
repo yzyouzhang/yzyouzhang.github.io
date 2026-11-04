@@ -13,34 +13,33 @@
 
 {% include _navigation.html %}
 
-
-
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-  <div id="index">
+<section class="page-title">
+  <div class="container">
     <h1>{{ page.title }}</h1>
-    {{ content }}
-    {% for post in site.categories.blog %}  
-      <article>
-        {% if post.link %}
-          <h2 class="link-post"><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-        {% else %}
-          <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-        {% endif %}
-      </article>
-    {% endfor %}
-  </div><!-- /#index -->
-</div><!-- /#main -->
+  </div>
+</section>
 
-<!-- <div class="footer-wrap">
-  <footer>
+<div class="container content" role="main">
+  {{ content }}
+  {% for post in site.categories.blog %}
+    <article>
+      {% if post.link %}
+        <h2 class="link-post"><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
+      {% else %}
+        <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
+
+<footer class="site-footer">
+  <div class="container">
     {% include _footer.html %}
-  </footer>
-</div>  
-{% include _scripts.html %} -->
+  </div>
+</footer>
+
+{% include _scripts.html %}
 
 </body>
 </html>

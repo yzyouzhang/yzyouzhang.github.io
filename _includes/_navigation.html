@@ -1,12 +1,6 @@
-<div class="navigation-wrapper">
-	<div class="site-name">
-		{% if site.logo %}
-		<a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/images/{{ site.logo }} " style="width: 100%"></a>
-		{% else %}
-		<a href="{{ site.github.url }}/">{{ site.title }}</a>
-		{% endif %}
-	</div><!-- /.site-name -->
-	<div class="top-navigation">
+<header class="site-header">
+	<div class="container site-header-inner">
+		<a class="site-brand" href="{{ site.github.url }}/">{{ site.owner.name }}</a>
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
 		        {% for link in site.data.navigation %}
@@ -15,14 +9,9 @@
 				        {% else %}
 				        {% assign domain = site.github.url %}
 				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+				    <li{% if page.url == link.url or page.url == '/index.html' and link.url == '/' %} class="current"{% endif %}><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 				{% endfor %}
 		    </ul>
 		</nav>
-	</div><!-- /.top-navigation -->
-	<div class="feedback">
-<!--		<a target="_blank" href="https://github.com/rochester-rcl/rochester-rcl.github.io/issues/new">-->
-<!--			Report an Issue-->
-<!--		</a>-->
 	</div>
-</div><!-- /.navigation-wrapper -->
+</header>
