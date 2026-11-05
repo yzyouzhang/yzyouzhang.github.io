@@ -11,11 +11,11 @@ layout: page
 <b> Dolby </b> - Multimodal Experiences Lab  (Atlanta, GA, USA)
 <ul>
     <li>
-        Senior Researcher on Spatial Audio and Multimodal AI (Jun 2025 - Present)
+        Senior Researcher (Jun 2025 - Oct 2026)
     </li>
-    <!-- <li>
-        Perceptual Head-Related Transfer Function (HRTF) Representation Learning
-    </li> -->
+    <li>
+        Spatial Audio and Multimodal AI
+    </li>
     <li>
         Manager: <a href="https://scholar.google.com/citations?user=EEds7hMAAAAJ">Dr. Lie Lu</a>
     </li>
@@ -24,7 +24,7 @@ layout: page
 </div>
 
 <div class="job">
-<div class="job-logo"><img src="/images/past%20jobs/meta%20relality%20labs.webp" alt="Meta Reality Labs logo"></div>
+<div class="job-logo"><img src="/images/past%20jobs/meta%20relality%20labs.jpg" alt="Meta Reality Labs logo"></div>
 <div class="job-details">
 <b> Meta </b> - Meta Reality Labs  (Redmond, WA, USA)
 <ul>

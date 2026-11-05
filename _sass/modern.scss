@@ -18,7 +18,7 @@ body {
 h1, h2, h3, h4 {
 	font-weight: 600;
 	line-height: 1.25;
-	color: $ink;
+	color: $navy;
 }
 
 .container {
@@ -35,8 +35,8 @@ h1, h2, h3, h4 {
 	position: sticky;
 	top: 0;
 	z-index: 1000;
-	background: $brand-blue-dark;
-	box-shadow: 0 2px 10px rgba(10, 40, 70, .18);
+	background: $navy;
+	box-shadow: 0 2px 10px rgba(0, 20, 60, .25);
 }
 .site-header-inner {
 	position: relative;
@@ -70,7 +70,7 @@ h1, h2, h3, h4 {
 		background: rgba(255, 255, 255, .12);
 		outline: 0;
 	}
-	li.current a { border-left-color: $brand-green-light; }
+	li.current a { border-left-color: $dandelion; }
 
 	/* The toggle button is inserted by assets/js/scripts.min.js */
 	.navtoggle {
@@ -92,7 +92,7 @@ h1, h2, h3, h4 {
 			border-left: 0;
 			border-bottom: 3px solid transparent;
 		}
-		li.current a { border-bottom-color: $brand-green-light; }
+		li.current a { border-bottom-color: $dandelion; }
 	}
 }
 
@@ -101,7 +101,7 @@ h1, h2, h3, h4 {
    ========================================================================== */
 
 .hero, .page-title {
-	background: linear-gradient(120deg, $brand-blue-dark, $brand-blue 60%, #2a93c9);
+	background: linear-gradient(115deg, $navy 0%, $navy 55%, $telecom-red 130%);
 	color: #fff;
 	h1 {
 		margin: 0;
@@ -198,7 +198,7 @@ a.icon-btn:hover, a.icon-btn:focus {
 			width: 48px;
 			height: 3px;
 			margin-top: 12px;
-			background: $brand-green;
+			background: $telecom-red;
 			border-radius: 2px;
 		}
 	}
@@ -217,15 +217,15 @@ a.icon-btn:hover, a.icon-btn:focus {
 		padding: 1px 9px;
 		border: 0;
 		border-radius: 999px;
-		background: #e6f1f8;
-		color: $brand-blue-dark;
+		background: #E6EBF5;
+		color: $navy;
 		font-family: inherit;
 		font-size: 13px;
 		font-weight: 600;
 	}
 	summary {
 		margin: 14px 0 6px;
-		color: $brand-blue;
+		color: $link-blue;
 		font-weight: 600;
 	}
 }
@@ -239,9 +239,9 @@ a.icon-btn:hover, a.icon-btn:focus {
 .callout {
 	margin: 24px 0;
 	padding: 14px 18px;
-	border-left: 4px solid $brand-green;
+	border-left: 4px solid $telecom-red;
 	border-radius: 6px;
-	background: #f1f8ec;
+	background: #FCF0F3;
 	font-weight: 500;
 }
 
@@ -293,7 +293,7 @@ a.area, a.area:visited {
 	display: block;
 	padding: 20px 22px 18px;
 	border: 1px solid $line;
-	border-top: 3px solid $brand-blue;
+	border-top: 3px solid $navy;
 	border-radius: 8px;
 	background: #fff;
 	color: $ink;
@@ -306,12 +306,12 @@ a.area:hover, a.area:focus {
 .area i {
 	display: block;
 	margin-bottom: 8px;
-	color: $brand-blue;
+	color: $telecom-red;
 	font-size: 26px;
 }
 .area h3 {
 	margin: 0 0 6px;
-	color: $brand-blue;
+	color: $navy;
 }
 .area p {
 	margin: 0;
@@ -320,7 +320,7 @@ a.area:hover, a.area:focus {
 }
 .area .area-link {
 	margin-top: 10px;
-	color: $brand-blue;
+	color: $link-blue;
 	font-size: 14px;
 	font-weight: 600;
 }
@@ -337,13 +337,13 @@ a.area:hover, a.area:focus {
 		position: relative;
 		padding: 11px 0;
 		border-bottom: 1px solid $line;
-		@media #{$small} { padding-left: 88px; }
+		@media #{$small} { padding-left: 180px; }
 	}
 	li:last-child { border-bottom: 0; }
 	/* The date is the bold text at the start of each item */
 	li > strong:first-child {
-		display: block;
-		color: $brand-blue;
+		margin-right: 6px;
+		color: $navy;
 		font-weight: 600;
 		font-variant-numeric: tabular-nums;
 		@media #{$small} {
@@ -355,6 +355,35 @@ a.area:hover, a.area:focus {
 		display: block;
 		margin-top: 10px;
 	}
+	/* Category pill: write *talk*{: .tag-talk} right after the date */
+	li > em[class^="tag-"] {
+		display: inline-block;
+		margin-right: 6px;
+		padding: 0 8px;
+		border-radius: 999px;
+		font-size: 11px;
+		font-style: normal;
+		font-weight: 600;
+		letter-spacing: .04em;
+		line-height: 20px;
+		text-transform: uppercase;
+		vertical-align: 1px;
+		@media #{$small} {
+			position: absolute;
+			left: 84px;
+			width: 84px;
+			margin: 3px 0 0;
+			padding: 0;
+			text-align: center;
+		}
+	}
+	em.tag-paper { background: #E6EBF5; color: $navy; }
+	em.tag-talk { background: #FCE8ED; color: $telecom-red; }
+	em.tag-award { background: #FFF3B0; color: #5C4A00; }
+	em.tag-milestone { background: #E4F3E8; color: #1E6B3A; }
+	em.tag-event { background: #EEF0F4; color: #4A5468; }
+	em.tag-service { background: #EFE8F7; color: #5B3A8C; }
+	em.tag-press { background: #E3F3F5; color: #0E6470; }
 }
 
 /*
@@ -378,8 +407,8 @@ a.area:hover, a.area:focus {
 		font-size: 15px;
 	}
 	a:hover, a:focus {
-		border-color: $brand-blue;
-		color: $brand-blue;
+		border-color: $link-blue;
+		color: $link-blue;
 	}
 }
 
@@ -401,10 +430,10 @@ a.pub-link, a.pub-link:visited {
 	display: inline-block;
 	margin: 2px 2px 0 0;
 	padding: 0 9px 0 7px;
-	border: 1px solid #c9d8e5;
+	border: 1px solid #C8D0E0;
 	border-radius: 4px;
 	background: #fff;
-	color: $brand-blue-dark;
+	color: $navy;
 	font-size: 13px;
 	line-height: 21px;
 	white-space: nowrap;
@@ -423,12 +452,12 @@ a.pub-link, a.pub-link:visited {
 	&[href*="youtu"]:before { content: "\f16a"; color: #ff0000; }
 	&[href*="illuminate.google"]:before,
 	&[href*="notebooklm"]:before { content: "\f025"; color: #7c4dff; }
-	&[href*="zenodo"]:before { content: "\f1c0"; color: #1479b8; }
+	&[href*="zenodo"]:before { content: "\f1c0"; color: $link-blue; }
 	&[href*="arxiv.org"]:before { content: "\e918"; color: #b31b1b; font-family: 'Academicons'; }
 }
 a.pub-link:hover, a.pub-link:focus {
-	background: $brand-blue;
-	border-color: $brand-blue;
+	background: $link-blue;
+	border-color: $link-blue;
 	color: #fff;
 	&:before { color: #fff; }
 }
@@ -437,15 +466,15 @@ a.pub-link:hover, a.pub-link:focus {
 	display: inline-block;
 	padding: 0 9px;
 	border-radius: 4px;
-	background: #fff4e0;
-	color: #a14d00;
+	background: #FFF7CC;
+	color: #5C4A00;
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 21px;
 	&:before {
 		content: "\f091";
 		margin-right: 5px;
-		color: #e8a100;
+		color: #C79A00;
 		font-family: FontAwesome;
 		font-weight: normal;
 	}

@@ -52,19 +52,19 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* site palette: change these to recolor the whole site */
-$brand-blue        : #1479b8;
-$brand-blue-dark   : #0d5a8a;
-$brand-green       : #6aa84f;
-$brand-green-light : #8fd16a;
-$ink               : #1f2933;
-$muted             : #5f6b76;
-$line              : #e3e8ee;
-$bg-soft           : #f5f8fb;
+$navy        : #001E5F; // University of Rochester navy: header, banner, headings
+$telecom-red : #BF1238; // Telecom Paris red: accents and link hover
+$dandelion   : #FFD82B; // University of Rochester yellow: only on navy, too pale for text on white
+$link-blue   : #0B4AA8; // readable link color derived from navy
+$ink         : #1A2238;
+$muted       : #5A6478;
+$line        : #E2E6EF;
+$bg-soft     : #F4F6FB;
 
 /* links */
-$linkcolor 		    : $brand-blue;
+$linkcolor 		    : $link-blue;
 $link-color       : $linkcolor;
-$linkcolorhover 	: darken($linkcolor, 10);
+$linkcolorhover 	: $telecom-red;
 $linkcolorvisited : $linkcolor;
 $linkcolorfocus 	: $linkcolorhover;
 
