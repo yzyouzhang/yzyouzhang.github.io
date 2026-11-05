@@ -9,7 +9,7 @@ My research home is the <strong>IEEE Signal Processing Society (SPS)</strong>, a
 
 I am strongly committed to <strong>open science</strong>: over 90% of my work is released with open-source code and data. Please explore the list below, where I provide links to preprints, code, datasets, and demos for each paper. (* equal contribution, <sup>‡</sup> student mentored)
 
-<nav class="jump-nav"><a href="#preprints">Preprints</a><a href="#book-chapters">Book Chapters</a><a href="#journals">Journals</a><a href="#peer-reviewed-conferences-and-workshops">Peer-reviewed Conferences and Workshops</a><a href="#technical-reports">Technical Reports</a><a href="#conference-abstracts">Conference Abstracts</a></nav>
+<nav class="jump-nav"><a href="#preprints">Preprints</a><a href="#book-chapters">Book Chapters</a><a href="#journals">Journals</a><a href="#peer-reviewed-conferences-and-workshops">Peer-reviewed Conferences and Workshops</a><a href="#technical-reports">Technical Reports</a><a href="#conference-abstracts">Conference Abstracts</a><a href="#phd-dissertations">PhD Dissertations</a></nav>
 
 <div class="pubs">
 
@@ -110,6 +110,10 @@ I am strongly committed to <strong>open science</strong>: over 90% of my work is
             
 <p>[C1] Yuxiang Wang, <strong>You Zhang</strong>, Zhiyao Duan, and Mark Bocko, <strong>Employing Deep Learning Method to Predict Global Head-Related Transfer Functions from Scanned Head Geometry</strong>, in <em>Acoustical Society of America (ASA) 181st Meeting</em>, 2021. 
             <a class="pub-link" href="https://doi.org/10.1121/10.0008543">link</a> </p>
+
+<h2 id="phd-dissertations" class="section-title">PhD Dissertations</h2>
+
+<p>[D1] <strong>You Zhang</strong>, <strong>Generalizing Audio Deepfake Detection</strong>, Ph.D. Dissertation, Department of Electrical and Computer Engineering, University of Rochester, April 2026. Advisor: Zhiyao Duan. Reading Committee: Mujdat Cetin and Chenliang Xu. Chair: Samuel Norman-Haignere. <a class="pub-link" href="https://hdl.handle.net/1802/39224">UR Library</a> <a class="pub-link" href="https://www.proquest.com/openview/5d3d04e815fcd3403fc609b3acd85f6d/">ProQuest</a></p>
 
 </div>
 
