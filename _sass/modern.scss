@@ -278,6 +278,18 @@ a.icon-btn:hover, a.icon-btn:focus {
 	min-width: 0;
 	ul { margin: 6px 0 0; }
 }
+/* Institution logo with a smaller lab logo stacked underneath */
+.job-logo-stack {
+	flex-direction: column;
+	gap: 10px;
+	height: auto;
+	img { max-height: 60px; }
+	img + img { max-height: 40px; }
+	@media #{$small} {
+		img { max-height: 76px; }
+		img + img { max-height: 52px; }
+	}
+}
 
 /*
    Research area cards

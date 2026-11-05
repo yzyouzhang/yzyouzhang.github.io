@@ -6,9 +6,9 @@ layout: page
 
 ## Academic
 <div class="job">
-<div class="job-logo"></div>
+<div class="job-logo job-logo-stack"><img src="/images/academic/TelecomParis.png" alt="Télécom Paris logo"><img src="/images/academic/ADASP.png" alt="ADASP logo"></div>
 <div class="job-details">
-<b> Télécom Paris </b> - Institut Polytechnique de Paris (Palaiseau, France)
+<b> Télécom Paris, Institut Polytechnique de Paris </b> - <a href="https://adasp.telecom-paris.fr/index.html">Audio Data Analysis and Signal Processing (ADASP)</a> (Palaiseau, France)
 <ul>
     <li>
         Assistant Professor (Nov 2026 - Present)
@@ -18,7 +18,7 @@ layout: page
 </div>
 
 <div class="job">
-<div class="job-logo"></div>
+<div class="job-logo job-logo-stack"><img src="/images/academic/UR.png" alt="University of Rochester logo"><img src="/images/academic/AIR_mark.png" alt="Audio Information Research Lab logo"></div>
 <div class="job-details">
 <b> University of Rochester </b> - <a href="https://labsites.rochester.edu/air/index.html">Audio Information Research Lab</a> (Rochester, NY, USA)
 <ul>
