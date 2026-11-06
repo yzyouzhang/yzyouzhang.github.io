@@ -86,7 +86,7 @@ layout: page
 
 * [*IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS)*](https://sites.google.com/view/avss2025-tw), Taiwan (Online), Aug 2025
 * [*IEEE International Conference on Multimedia and Expo (ICME)*](https://2024.ieeeicme.org/), Niagara Falls, Canada, Jul 2024
-* Co-presented with [Menglu Li](https://menglu-lml.github.io/) and [Luchuan Song](https://songluchuan.github.io/); co-organized with [Xiao-Ping Zhang](https://www.ecb.torontomu.ca/people/XPZhang.html), [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/), and [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/)
+* Co-presented with [Menglu Li](https://menglu-lml.github.io/) and [Luchuan Song](https://songluchuan.github.io/); co-organized with [Xiao-Ping Zhang](https://sites.google.com/view/xiaopingzhang/), [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/), and [Zhiyao Duan](http://www2.ece.rochester.edu/~zduan/)
 
 **Personalizing Spatial Audio: Machine Learning for Personalized Head-Related Transfer Functions (HRTFs) Modeling in Gaming** [slides](https://static.sched.com/hosted_files/aes2024afg6/82/Personalizing%20Spatial%20Audio_%20Machine%20Learning%20for%20Personalized%20Head-Related%20Transfer%20Functions%20%28HRTFs%29%20Modeling%20in%20Gaming.pdf){: .pub-link}
 
