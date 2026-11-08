@@ -29,7 +29,7 @@ layout: page
         Audio Deepfake Detection; Personalized HRTF Modeling for Spatial Audio; Audio-Visual Generation and Analysis
     </li>
     <li>
-        Committee: <a href="http://www2.ece.rochester.edu/~zduan/">Prof. Zhiyao Duan</a> (Advisor), <a href="https://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/">Prof. Mujdat Cetin</a>, <a href="https://cliangxu.github.io/index.html">Prof. Chenliang Xu</a>
+        Committee: <a href="https://hajim.rochester.edu/ece/sites/zduan/">Prof. Zhiyao Duan</a> (Advisor), <a href="https://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/">Prof. Mujdat Cetin</a>, <a href="https://cliangxu.github.io/index.html">Prof. Chenliang Xu</a>
     </li>
 </ul>
 </div>
